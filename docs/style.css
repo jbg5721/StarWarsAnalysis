@@ -1,0 +1,116 @@
+html {
+	font-size: 10px;
+}
+
+@media only screen and (max-width:1024px) {
+	html {
+		font-size: 9.411764705882353px;
+	}
+}
+@media only screen and (max-width:768px) {
+	html {
+		font-size: 10px;
+	}
+}
+@media only screen and (max-width:400px) {
+	html {
+		font-size: 9.411764705882353px;
+	}
+}
+
+html, body {
+	height: 100%;
+}
+#first-page {
+	background-image:url("Hyperspace-background.png");
+	background-attachment:fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	width: 100%;
+	height:100%;
+	min-height: 600px;
+	display: table;
+	position: relative;
+	text-align: center;
+}
+.first-content{
+    margin-top:20rem;
+}
+.first-content h1 {
+	color: #FFE81F;
+	font-family: "star jedi hollow";
+	font-size: 8.4rem;
+	line-height: 1.071;
+	max-width: 900px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	margin-left: auto;
+	margin-right: auto;
+	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+.first-content .participants{
+    font-family:"EPISODE I";
+	font-size: 1.2rem;
+	line-height: 2.4rem;
+	text-transform: uppercase;
+	letter-spacing: .2rem;
+	color: #FFFFFF;
+	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+}
+.first-content .participants span {
+	display: inline-block;
+}
+.first-content .participants span::after {
+	content: "|";
+	text-align: center;
+	display: inline-block;
+	padding: 0 8px 0 14px;
+	color: #FFE81F;
+}
+.first-content .participants span:first-child::before {
+	content: "|";
+	text-align: center;
+	display: inline-block;
+	padding: 0 14px 0 8px;
+	color: #FFE81F;
+}
+.participants{
+    margin-top:8rem;
+}
+#introduction {
+	background-image:url("hoth-landscape.jpeg");
+	background-attachment:fixed;
+	padding-top: 7rem;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	width: 100%;
+	height:100%;
+	min-height: 600px;
+	display: table;
+	position: relative;
+	text-align: center;
+}
+.second-content h1{
+    font-size:5.5rem;
+    font-family: "star jedi hollow";
+    letter-spacing:0.7rem;
+    color:#FFE81F; 
+}
+.second-content h2{
+    font-size:2.5rem;
+    font-family: "EPISODE I";
+    letter-spacing:0.7rem;
+    color:#3c3c44;
+}
+/* We can use the same css for all the p elemets this is just for the home page */
+.first-p{
+    text-align:justify;
+    font-size:2.5rem;
+    margin-top:6rem;
+    margin-left:20rem;
+    margin-right:20rem;
+    line-height:3.5rem;
+}
+
