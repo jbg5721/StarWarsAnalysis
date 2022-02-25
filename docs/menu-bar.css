@@ -24,7 +24,7 @@
 }
 
 .menu > li {
-  background:#116466;/* Color of the menu bar */
+  background:linear-gradient(to bottom right, #2f3a56, #e2474b);/* Color of the menu bar */
   width:12rem;
   float: left;
   position: relative;
@@ -41,7 +41,7 @@
 }		
 
 .menu li:hover {
-  background: #9f0613; /* Color when hovering */
+  background:linear-gradient(to bottom left, #406d96, #2f3a56); /* Color when hovering */
 }		
 
 .menu > li > a {
@@ -59,7 +59,7 @@
 }
 
 .submenu li {
-  background-color: #116466;
+  background:linear-gradient(to bottom right, #2f3a56, #e2474b);
   position: relative;
   overflow: hidden;		
 }						
