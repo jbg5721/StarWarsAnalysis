@@ -1,0 +1,17 @@
+@font-face{
+	font-family: 'star_jedi_hollowregular';
+	src: url('star-wars-fonts/starjhol-webfont.woff2') format('woff2'),
+	     url('star-wars-fonts/starjhol-webfont.woff') format('woff'),
+	     url('star-wars-fonts/Starjhol.ttf') format('truetype');
+	font-weight:normal;
+	font-style:normal;
+}
+@font-face {
+    font-family: 'episode_1regular';
+    src: url('star-wars-fonts/episode1-webfont.woff2') format('woff2'),
+         url('star-wars-fonts/episode1-webfont.woff') format('woff'),
+         url('star-wars-fonts/episode1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}

@@ -15,9 +15,8 @@ html {
 @media only screen and (max-width:400px) {
 	html {
 		font-size: 9.411764705882353px;
-	}
 }
-
+}
 html, body {
 	height: 100%;
 }
@@ -39,7 +38,7 @@ html, body {
 }
 .first-content h1 {
 	color: #FFE81F;
-	font-family: "star jedi hollow";
+	font-family: 'star_jedi_hollowregular';
 	font-size: 8.4rem;
 	line-height: 1.071;
 	max-width: 900px;
@@ -50,7 +49,7 @@ html, body {
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 .first-content .participants{
-    font-family:"EPISODE I";
+    font-family: 'episode_1regular';
 	font-size: 1.2rem;
 	line-height: 2.4rem;
 	text-transform: uppercase;
@@ -94,13 +93,13 @@ html, body {
 }
 .second-content h1{
     font-size:5.5rem;
-    font-family: "star jedi hollow";
+    font-family: 'star_jedi_hollowregular';
     letter-spacing:0.7rem;
     color:#FFE81F; 
 }
 .second-content h2{
     font-size:2.5rem;
-    font-family: "EPISODE I";
+    font-family: 'episode_1regular';
     letter-spacing:0.7rem;
     color:#3c3c44;
 }
