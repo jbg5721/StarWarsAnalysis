@@ -15,3 +15,21 @@
     font-style: normal;
 
 }
+@font-face {
+    font-family: 'star_jediregular';
+    src: url('star-wars-fonts/starjedi-webfont.woff2') format('woff2'),
+         url('star-wars-fonts/starjedi-webfont.woff') format('woff'),
+         url('star-wars-fonts/Starjedi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'star_jedi_outline_regular';
+    src: url('star-wars-fonts/starjedi-webfont.woff2') format('woff2'),
+         url('star-wars-fonts/starjedi-webfont.woff') format('woff'),
+         url('star-wars-fonts/Starjout.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}

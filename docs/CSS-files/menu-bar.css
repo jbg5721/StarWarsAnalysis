@@ -36,7 +36,7 @@
   color: #fff;
   text-transform: uppercase;
   text-decoration: none;
-  font-family: 'episode_1regular';
+  font-family:Font-Awesome;
   font-size: 1.2rem;
 }		
 
@@ -128,3 +128,22 @@ ul{
   margin: 0;
   padding-left: 0;
 }
+.icon{
+}
+.icon1:hover:after{
+    content:"  home page";
+    font-size:1.5rem;
+}
+.icon2:hover:after{
+    content:"  analysis";
+    font-size:1.5rem;
+}
+.icon3:hover:after{
+    content:"  data";
+    font-size:1.5rem;
+}
+.icon4:hover:after{
+    content:" about";
+    font-size:1.5rem;
+}
+
