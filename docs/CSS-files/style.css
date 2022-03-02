@@ -21,7 +21,7 @@ html, body {
 	height: 100%;
 }
 #first-page {
-	background-image:url("Hyperspace-background.png");
+	background-image:url("pictures/Hyperspace-background.png");
 	background-attachment:fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -77,8 +77,7 @@ html, body {
 .participants{
     margin-top:8rem;
 }
-#introduction {
-	background-image:url("hoth-landscape.jpeg");
+#introduction, #intro, #intro1, #intro2{
 	background-attachment:fixed;
 	padding-top: 7rem;
 	-webkit-background-size: cover;
@@ -89,7 +88,19 @@ html, body {
 	min-height: 600px;
 	display: table;
 	position: relative;
-	text-align: center;
+	text-align: center;	
+}
+#introduction{
+    background-image:url("pictures/deathstar-background.jpeg");
+}
+#intro{
+    background-image:url("pictures/tatooine-background.png");
+}
+#intro1{
+    background-image:url("pictures/hoth-landscape.jpeg");
+}
+#intro2{
+    background-image:url("pictures/endor-background.jpeg");
 }
 .second-content h1{
     font-size:5.5rem;
@@ -108,8 +119,9 @@ html, body {
     text-align:justify;
     font-size:2.5rem;
     margin-top:6rem;
-    margin-left:20rem;
-    margin-right:20rem;
+    width:70%;
+    margin-left:auto;
+    margin-right:auto;
     line-height:3.5rem;
     background-color: /*#e8f9ff;*/ rgba(238,251,255, 0.5);
     padding: 0.5em; 
