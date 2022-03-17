@@ -17,3 +17,11 @@
 
 ##  Step 6
 We manually put the metadata.
+
+## Step 7
+*Find all* `(<speaker>.+?</speaker>\s*)(<sp>)` *Replace all* with `\2\1` 
+This is to move the speaker element and contents inside of the sp element.
+
+## Step 8
+*Find all* `(<scene)(><setting) scene =("\d+")(>)` *Replace all* with `\1 n=\3\2\4`
+This is to remove the setting attribute but move it into the scene element instead.
