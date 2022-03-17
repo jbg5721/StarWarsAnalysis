@@ -12,7 +12,7 @@ Lucasfilm Ltd.</draft>
 <sd>  FADE IN:</sd>
 
 
-<scene><setting scene="1">SPACE</setting>
+<scene n="1"><setting>SPACE</setting>
 
 <sd>A sea of stars is broken by the vast blue surface of the planet, Utapau.  Five
 small moons slowly drift into view from the far side of the planet.  The main
@@ -34,7 +34,7 @@ deadly little fightercraft speeds past several of the moons, until it finally
 goes into orbit around the fourth moon.</sd>
 
 </scene>
-<scene><setting scene="2">  WASTELAND - FOURTH MOON - UTAPAU</setting>
+<scene n="2"><setting>  WASTELAND - FOURTH MOON - UTAPAU</setting>
 
 <sd>A harsh gale blows across the bleak grey surface of the Fourth Moon.  The
 leaden sky presses down on a lone figure, Annikin Starkiller, a tall, heavy-
@@ -47,7 +47,7 @@ his belt.  He stands transfixed for a few moments, studying the heavens, then
 turns and rushes back in the direction from which he came.</sd>
 
 </scene>
-<scene><setting scene="3">  SUPPLY HUT - FOURTH MOON - UTAPAU</setting>
+<scene n="3"><setting>  SUPPLY HUT - FOURTH MOON - UTAPAU</setting>
 
 <sd>A spacecraft, half buried in the dust, rests next to the remains of an
 abandoned supply shack.  Annikin makes his way across the colorless landscape
@@ -115,7 +115,7 @@ All right, son, get your gear.</sp>
 his gear.  His father frowns and shakes his head.</sd>
 
 </scene>
-<scene><setting scene="4">  WASTELAND BLUFF - FOURTH MOON - UTAPAU</setting>
+<scene n="4"><setting>  WASTELAND BLUFF - FOURTH MOON - UTAPAU</setting>
 
 <sd>Kane Starkiller and his two sons carefully make their way up a rock bluff
 overlooking the parked silver Sith spacecraft.  Kane inspects the craft with
@@ -235,7 +235,7 @@ his dead son Deak, and goes to him.  He lifts him into his arms and begins to
 weep.  Annikin stands bewildered, watching his father cradle his dead brother.</sd>
 
 </scene>
-<scene><setting scene="5">  INTERIOR SITH STARSHIP - WASTELAND CANYON - UTAPAU</setting>
+<scene n="5"><setting>  INTERIOR SITH STARSHIP - WASTELAND CANYON - UTAPAU</setting>
 
 <sd>Kane Starkiller slides into one of the four seats of the small Sith starship.
 Through the front viewing canopy, he watches Annikin drag his younger
@@ -280,7 +280,7 @@ We both need a rest.</sp>
 surface of the Fourth Moon of Utapau.</sd>
 
 </scene>
-<scene><setting scene="6">  CLOUD SEA - ALDERAAN</setting>
+<scene n="6"><setting>  CLOUD SEA - ALDERAAN</setting>
 
 <sd>A title card appears over a sea of billowing clouds on the gaseous planet of
 Alderaan:</sd>
@@ -297,7 +297,7 @@ from one of the huge cumulus range.  The craft are flying in a tight formation
 as they bank steeply, and head toward the Imperial capital of the galaxy.</sd>
 
 </scene>
-<scene><setting scene="7">  INTERIOR OF STARDESTROYER - ALDERAAN</setting>
+<scene n="7"><setting>  INTERIOR OF STARDESTROYER - ALDERAAN</setting>
 
 <sd>Stardestroyers are two-man spacecraft crammed with sophisticated electronic
 weaponry.  The pilot and gunnery officers sit side-by-side, surrounded by
@@ -326,7 +326,7 @@ before he flips his sunshield over his eyes.</sd>
 Here we go.  Count:  three, two, one, now!</sp>
 
 </scene>
-<scene><setting scene="8">  REVIEW STAND - PLAZA OF THE DADERS - ALDERAAN</setting>
+<scene n="8"><setting>  REVIEW STAND - PLAZA OF THE DADERS - ALDERAAN</setting>
 
 <sd>On a huge, austere platform stands the dark Cos Dashit, Lord of Alderaan,
 Consul to the Supreme Tribunal, and ruler of the Galactic Empire.  He is a
@@ -385,7 +385,7 @@ quickly away from the Plaza, passing through several check stations, where he
 is forced to show his identification.</sd>
 
 </scene>
-<scene><setting scene="9">  NIGHT CLUB - ALDERAAN</setting>
+<scene n="9"><setting>  NIGHT CLUB - ALDERAAN</setting>
 
 <sd>Whitsun walks into the glass and chrome splendor of one of the famous
 nightclubs of Alderaan.  He moves to the long mirrored bar, and sits next to a
@@ -418,7 +418,7 @@ and then places a pen-like transmitter he has taken from his pocket next to
 the intercom.  It creates a low electronic buzz.</sd>
 
 </scene>
-<scene><setting scene="10">  BAR OBSERVATION CENTER - ALDERAAN</setting>
+<scene n="10"><setting>  BAR OBSERVATION CENTER - ALDERAAN</setting>
 
 <sd>A controller sitting in front of a row of monitors taps his headphones, then
 flips a switch back and forth a couple of times.  He is obviously annoyed.</sd>
@@ -430,7 +430,7 @@ Number eighteen is out again.  Give me a maintenance check.</sp>
 <sd>The controller yawns and puts his feet up on the control panel.</sd>
 
 </scene>
-<scene><setting scene="11">  NIGHTCLUB - ALDERAAN</setting>
+<scene n="11"><setting>  NIGHTCLUB - ALDERAAN</setting>
 
 <sd>Whitsun leans in close to Antilles.  He is suddenly very serious.</sd>
 
@@ -473,7 +473,7 @@ nightclub as one of the trader captains expresses his dislike of the Empire.
 Whitsun slams his glass to the bar in a gesture of hate and frustration.</sd>
 
 </scene>
-<scene><setting scene="12">  GOVERNOR HOEDAACK'S QUARTERS - ALDERAAN</setting>
+<scene n="12"><setting>  GOVERNOR HOEDAACK'S QUARTERS - ALDERAAN</setting>
 
 <sd>The large, white-on-white executive quarters resound with the high-pitched
 laugh of the evil Governor Hoedaack.  He slaps Darth Vader, a tall, grim-
@@ -541,7 +541,7 @@ Because I knew him.  He's there, alright.  I can sense it.  Mark my words:
 Aquilae will not be easily conquered.</sp>
 
 </scene>
-<scene><setting scene="13">  COURTYARD - PALACE OF LITE - AQUILAE</setting>
+<scene n="13"><setting>  COURTYARD - PALACE OF LITE - AQUILAE</setting>
 
 <sd>A low, sleek "landspeeder," (an auto-like transport which travels a few feet
 above the ground on a magnetic field), glides into the courtyard of the palace
@@ -555,7 +555,7 @@ The two boys run through the long corridors, yelling and screaming, their
 little footsteps echoing throughout the palace.</sd>
 
 </scene>
-<scene><setting scene="14">  The palace library is a dim, cool room projecting an aura of time-worn
+<scene n="14"><setting>  The palace library is a dim, cool room projecting an aura of time-worn
 comfort and security.  In the distance, the children can be heard screaming
 through the corridors.  King Kayos, silver-haired but amazingly youthful under
 a tanned and leathery face, motions for one of his aides to shut the partially
@@ -689,7 +689,7 @@ Of course.  I'm sorry, My Lord.  Politics always seem to distress me.</sp>
 I know, Luke.  I feel the Force also.</sp>
 
 </scene>
-<scene><setting scene="15">  COURTYARD - PALACE OF LITE - AQUILAE</setting>
+<scene n="15"><setting>  COURTYARD - PALACE OF LITE - AQUILAE</setting>
 
 <sd>A large, four-seat speeder sits gleaming in the sun-soaked courtyard.  The
 Princess Leia, about fourteen years old, possessing a soft beauty and iron
@@ -735,7 +735,7 @@ waves to her family, and Mina waves to Alana as the speeder slowly glides out
 of the courtyard.</sd>
 
 </scene>
-<scene><setting scene="16">  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
+<scene n="16"><setting>  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
 
 <sd>The war room is a mass of glass enclosures, electronic wall displays,
 monitors, and computer stations.  General Skywalker enters a control station,
@@ -864,7 +864,7 @@ duo.</sd>
 Wake up, gentlemen.  You're on alert.  Keep me posted on that battalion.</sp>
 
 </scene>
-<scene><setting scene="17">  CONTROL STATION - UNDERGROUND FORTRESS - AQUILAE</setting>
+<scene n="17"><setting>  CONTROL STATION - UNDERGROUND FORTRESS - AQUILAE</setting>
 
 <sd>The general, Starkiller, and his son enter a small glass enclosed control
 office.  They sit, and an awkward silence passes as each man waits for the
@@ -940,7 +940,7 @@ Sir, we have picked up something!  An asteroid, or solid comet moving away
 from the Anchorhead System.</sp>
 
 </scene>
-<scene><setting scene="18">  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
+<scene n="18"><setting>  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
 
 <sd>The general rushes out of the control station and back to the giant Galactic
 display.  He is followed by Montross, Starkiller and his son.</sd>
@@ -974,7 +974,7 @@ me.</sp>
 <sd>The older Starkiller smiles, and puts his good arm around his old friend.</sd>
 
 </scene>
-<scene><setting scene="19">  DINING CHAMBER - PALACE OF LITE - AQUILAE</setting>
+<scene n="19"><setting>  DINING CHAMBER - PALACE OF LITE - AQUILAE</setting>
 
 <sd>King Kayos moves his arm around Breha's waist as they stand on a balcony
 watching the giant twin suns of Aquilae disappear behind a distant dune range.</sd>
@@ -1098,7 +1098,7 @@ approval.</sp>
 his dinner, then dashes after his mentor.</sd>
 
 </scene>
-<scene><setting scene="20">  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
+<scene n="20"><setting>  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
 
 <sd>The general sits rigidly, facing the big Galactic display board.  Several
 aides and bureaucrats rush to and fro, ignoring the general.  he is asleep.
@@ -1205,7 +1205,7 @@ No data, Sir.</sp>
 I'm on my way.</sp>
 
 </scene>
-<scene><setting scene="21">  MED VAC EMERGENCY ROOM - UNDERGROUND FORTRESS</setting>
+<scene n="21"><setting>  MED VAC EMERGENCY ROOM - UNDERGROUND FORTRESS</setting>
 
 <sd>Captain Starkiller waits in an outer chamber as General Skywalker rushes into
 the Med Vac emergency room where several doctors are working on the prostrate
@@ -1287,7 +1287,7 @@ priority.  He's probably still en route to Amsel.  Use the scan com.  I'm on
 my way.</sp>
 
 </scene>
-<scene><setting scene="22">  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
+<scene n="22"><setting>  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
 
 <sd>The war room is on full alert.  Everyone is at attention, waiting for the
 command that will put them into action.  The general enters a communication
@@ -1332,7 +1332,7 @@ war.</sp>
 Sir?</sp>
 
 </scene>
-<scene><setting scene="23">  COURTYARD - ACADEMY OF CHATHOS - AQUILAE</setting>
+<scene n="23"><setting>  COURTYARD - ACADEMY OF CHATHOS - AQUILAE</setting>
 
 <sd>A landspeeder roars into a courtyard of the Academy at Chathos.  Starkiller
 jumps out, and runs up to the large, heavy doors of the academy.  They are
@@ -1402,7 +1402,7 @@ princess into the speeder, and maneuvers it out of the courtyard.  Mina puts
 on the crest as the speeder races away from the academy.</sd>
 
 </scene>
-<scene><setting scene="24">  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
+<scene n="24"><setting>  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
 
 <sd>Queen Breha, Biggs and Windy are escorted into a rest area of the war room.
 General Skywalker sits rigidly in a chair in the communications area,
@@ -1436,7 +1436,7 @@ The Royal Family is safe.  Starkiller has gone after Princess Leia...</sp>
 I'm on my way back.</sp>
 
 </scene>
-<scene><setting scene="25">  RED PLAINS - AQUILAE</setting>
+<scene n="25"><setting>  RED PLAINS - AQUILAE</setting>
 
 <sd>The small caravan of four speeders sits motionless on the vast red plains of
 Aquilae.  The king returns the intercom to the pilot and takes a small
@@ -1462,7 +1462,7 @@ from his perch.  A second flash on the opposite horizon brings another jolting
 earthquake, and the younger farmer collapses, terror frozen on his face.</sd>
 
 </scene>
-<scene><setting scene="26">  READYROOM - SPACEPORT OUTPOST - AQUILAE</setting>
+<scene n="26"><setting>  READYROOM - SPACEPORT OUTPOST - AQUILAE</setting>
 
 <sd>Chaos.  Red scramble lights are flashing.  Alert horns and attack buzzers
 create an unbelievable cacophony.  Air warriors, with the distinctive circle
@@ -1471,7 +1471,7 @@ concrete readyroom, grabbing helmets and spacepacks as they race out of the
 door.</sd>
 
 </scene>
-<scene><setting scene="27">  ATTACK RUNWAY - SPACEPORT OUTPOST - AQUILAE</setting>
+<scene n="27"><setting>  ATTACK RUNWAY - SPACEPORT OUTPOST - AQUILAE</setting>
 
 <sd>Twelve pilots and navigators dash in unison to a line of waiting two-man
 starships of the destroyer class.  Ground crews scurry back and forth, loading
@@ -1491,7 +1491,7 @@ the uproar, and six silver spacecraft leave the runway, and disappear into the
 morning cloud cover.</sd>
 
 </scene>
-<scene><setting scene="28">  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
+<scene n="28"><setting>  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
 
 <sd>The general stands before a giant display of the Aquilaean solar system.
 Montross signals the general.</sd>
@@ -1513,7 +1513,7 @@ row of monitors is before him.  He turns to Montross.</sd>
 Where are they?</sp>
 
 </scene>
-<scene><setting scene="29">  SPACE - AQUILAE IN ECLIPSE</setting>
+<scene n="29"><setting>  SPACE - AQUILAE IN ECLIPSE</setting>
 
 <sd>The eerie, reddish-yellow planet of Aquilae slowly drifts into view from total
 eclipse.  A small, bright speck, orbiting the planet, sparkles in the light of
@@ -1526,7 +1526,7 @@ moments, explosions create blinding flash on the planet's surface, as the
 fortress bombards the planet with a fusillade of laser bolts.</sd>
 
 </scene>
-<scene><setting scene="30">  AQUILAEAN STARSHIP - INTERIOR</setting>
+<scene n="30"><setting>  AQUILAEAN STARSHIP - INTERIOR</setting>
 
 <sd>Pilot Leader, in the first ship, signals to his navigator who sits in a small,
 isolated glass bubble to the rear of the craft.  General Skywalker is seen on
@@ -1567,14 +1567,14 @@ Settle in...Devil pack, stand by.  Mark five...break off.  Here we go.  God
 save us all.</sp>
 
 </scene>
-<scene><setting scene="31">  SPACE - AQUILAEAN STARSHIP</setting>
+<scene n="31"><setting>  SPACE - AQUILAEAN STARSHIP</setting>
 
 <sd>Fuel pods are jettisoned.  The half-dozen fighters break off into a powerline
 attack on the huge fortress.  Multiple laserbolts streak from the starships,
 creating small explosions on the complex surface of the fort.</sd>
 
 </scene>
-<scene><setting scene="32">  INTERIOR MAIN CORRIDOR - IMPERIAL SPACE FORTRESS</setting>
+<scene n="32"><setting>  INTERIOR MAIN CORRIDOR - IMPERIAL SPACE FORTRESS</setting>
 
 <sd>The chaos of battle echoes through the vast corridors of the fortress.  Walls
 buckle and cave in, sucking debris and personnel into the vacuum of outer
@@ -1583,7 +1583,7 @@ gun emplacements.  Sergeants yell orders through the smoke and confusion.  Men
 and robots of various shapes and sizes run to their battle stations.</sd>
 
 </scene>
-<scene><setting scene="33">  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
+<scene n="33"><setting>  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
 
 <sd>The monitors with pictures from the starships suddenly go blank.  Technicians
 check channels as others in the war room silently listen to the action over
@@ -1638,7 +1638,7 @@ again.</sd>
 Watch your back, Boss!  Watch your back!!</sp>
 
 </scene>
-<scene><setting scene="34">  AQUILAEAN STARSHIP</setting>
+<scene n="34"><setting>  AQUILAEAN STARSHIP</setting>
 
 <sd>The speedy little fighters dart back and forth across the soft underbelly of
 the fortress, leaving a trail of destruction behind them.</sd>
@@ -1656,7 +1656,7 @@ spacecraft bursts into a million flaming pieces.  Pilot Leader reacts to the
 loss of his wing man, but continues on his mission.</sd>
 
 </scene>
-<scene><setting scene="35">  SUB-HALLWAY - IMPERIAL SPACE FORTRESS</setting>
+<scene n="35"><setting>  SUB-HALLWAY - IMPERIAL SPACE FORTRESS</setting>
 
 <sd>Constant explosions rock the interior of the fortress.  Civilians, including
 women and children, scurry for safety in the panic-ridden hallways.  Two
@@ -1688,7 +1688,7 @@ No immediate danger!  You're faulty.  This is madness!</sp>
 as debris flies through the hallway.</sd>
 
 </scene>
-<scene><setting scene="36">  AQUILAEAN STARSHIP</setting>
+<scene n="36"><setting>  AQUILAEAN STARSHIP</setting>
 
 <sd>Devil Two (Chewie), a young hotshot of about sixteen years, miraculously dives
 his ship through a virtual wall of laser fire, and blasts a huge radar disc
@@ -1728,7 +1728,7 @@ it!</sp>
 emplacement, causing a hideous series of chain reaction explosions.</sd>
 
 </scene>
-<scene><setting scene="37">  SUB-HALLWAY - IMPERIAL SPACE FORTRESS</setting>
+<scene n="37"><setting>  SUB-HALLWAY - IMPERIAL SPACE FORTRESS</setting>
 
 <sd>A huge explosion rips a large hole in the ceiling of a subhallway.  Artwo and
 Threepio are in a state of shock as they scramble through the rubble.  There
@@ -1758,7 +1758,7 @@ a burned-out doorway.  Five grim-faced troopers riding small rocket platforms
 pass the two mechanical men.</sd>
 
 </scene>
-<scene><setting scene="38">  GOVERNOR'S QUARTERS - IMPERIAL SPACE FORTRESS</setting>
+<scene n="38"><setting>  GOVERNOR'S QUARTERS - IMPERIAL SPACE FORTRESS</setting>
 
 <sd>The five troopers race through several hallways, and finally stop in front of
 an important looking office complex.  Two officers dismount and enter the
@@ -1800,7 +1800,7 @@ section 5-1 in serious trouble.</sp>
 <sd>The general turns away in controlled anger and embarrassment.</sd>
 
 </scene>
-<scene><setting scene="39">  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
+<scene n="39"><setting>  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
 
 <sd>The general sits in a glass enclosed computer station, watching the battle
 progress on several monitors.  An officer enters and salutes the general.</sd>
@@ -1848,7 +1848,7 @@ All right, base one, we're in position.</sp>
 <sd>An officer with headphones looks to the general.  He signals to attack.</sd>
 
 </scene>
-<scene><setting scene="40">  AQUILAEAN STARSHIPS</setting>
+<scene n="40"><setting>  AQUILAEAN STARSHIPS</setting>
 
 <sd>All four starships dive in formation toward a main transformer area, flanked
 by several solar towers.</sd>
@@ -1864,7 +1864,7 @@ Five) explodes and careens out of formation, leaving an erratic trail of
 smoke, before eventually crashing into a solar panel.</sd>
 
 </scene>
-<scene><setting scene="41">  SUB-HALLWAYS - IMPERIAL SPACE FORTRESS</setting>
+<scene n="41"><setting>  SUB-HALLWAYS - IMPERIAL SPACE FORTRESS</setting>
 
 <sd>The impact of the exploding starship can be felt throughout the giant
 fortress.  The tall, gleaming Threepio races through several corridors,
@@ -1906,7 +1906,7 @@ It's the end.  Eject.  Eject.</sp>
 <sd>The safety door snaps shut, and the pod ejects from the fortress.</sd>
 
 </scene>
-<scene><setting scene="42">  AQUILAEAN STARSHIPS</setting>
+<scene n="42"><setting>  AQUILAEAN STARSHIPS</setting>
 
 <sd>The terrified androids in the lifepod speed away from the fortress, and pass
 the attacking starships.</sd>
@@ -1934,7 +1934,7 @@ the whole thing goes dead.</sp>
 We're on our way.</sp>
 
 </scene>
-<scene><setting scene="43">  GOVERNOR'S QUARTERS - IMPERIAL SPACE FORTRESS</setting>
+<scene n="43"><setting>  GOVERNOR'S QUARTERS - IMPERIAL SPACE FORTRESS</setting>
 
 <sd>A row of monitors and the main overhead lights go on, and a trooper appears on
 one of the screens.</sd>
@@ -1975,7 +1975,7 @@ our rule.</sp>
 We've received a message from the planet....</sp>
 
 </scene>
-<scene><setting scene="44">  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
+<scene n="44"><setting>  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
 
 <sd>General Skywalker watches a giant computer display of the space fortress
 mapped by the starships.  An aide approaches.</sd>
@@ -2036,7 +2036,7 @@ spot.</sd>
 Well, General?</sp>
 
 </scene>
-<scene><setting scene="45">  LIFEPOD - SKY OVER AQUILAE</setting>
+<scene n="45"><setting>  LIFEPOD - SKY OVER AQUILAE</setting>
 
 <sd>The reddish-yellow mass of Aquilae seems to engulf the tiny lifepod containing
 the two fleeing androids.</sd>
@@ -2050,7 +2050,7 @@ It's desertion.  They'll destroy us.  How could this happen?</sp>
 That's funny.  The damage doesn't look as bad from out here.</sp>
 
 </scene>
-<scene><setting scene="46">  AQUILAEAN STARSHIPS</setting>
+<scene n="46"><setting>  AQUILAEAN STARSHIPS</setting>
 
 <sd>Pilot Leader and Devil Two make a second dive on the now smoldering
 transformer area.  All firing from the fortress suddenly stops.  Pilot Leader
@@ -2103,7 +2103,7 @@ avail.  The navigator is still trapped in the craft when it explodes, leaving
 only a puff of pink smoke reflected in the rim light of the planet.</sd>
 
 </scene>
-<scene><setting scene="47">  DESERT NEAR OUTPOST - AQUILAE</setting>
+<scene n="47"><setting>  DESERT NEAR OUTPOST - AQUILAE</setting>
 
 <sd>Pilot Leader's dead body drifts toward his arid mother-planet.  Automatic
 rockets kick-in occasionally, to direct and soften the landing.  Two grey-clad
@@ -2114,7 +2114,7 @@ pilot.  The younger of the two troopers, a young boy in his teens, cradles the
 dead starpilot in his arms and begins to cry.</sd>
 
 </scene>
-<scene><setting scene="48">  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
+<scene n="48"><setting>  WAR ROOM - UNDERGROUND FORTRESS - AQUILAE</setting>
 
 <sd>General Skywalker sits alone, meditating in the deserted war room.  Montross
 approaches the contemplative general.</sd>
@@ -2127,7 +2127,7 @@ area...The queen will see you at ten hundred.</sp>
 <sd>The general doesn't reply.</sd>
 
 </scene>
-<scene><setting scene="49">  ASSEMBLY - DEPARTURE AREA - IMPERIAL SPACE FORTRESS</setting>
+<scene n="49"><setting>  ASSEMBLY - DEPARTURE AREA - IMPERIAL SPACE FORTRESS</setting>
 
 <sd>General Vader stands behind a row of men at computer control panels.  A
 commander reports to the general.</sd>
@@ -2157,7 +2157,7 @@ pride and care.</sp>
 Let the invasion begin.</sp>
 
 </scene>
-<scene><setting scene="50">  EDGE OF THE DUNE SEA - AQUILAE</setting>
+<scene n="50"><setting>  EDGE OF THE DUNE SEA - AQUILAE</setting>
 
 <sd>Jundland, or "no man's land," where the rugged desert mesas meet the
 foreboding dune sea.  The two helpless astro robots kick up clouds of dust as
@@ -2201,7 +2201,7 @@ make.  He turns and trudges off in the opposite direction into the rocky
 desert mesas.</sd>
 
 </scene>
-<scene><setting scene="51">  DUNE SEA - AQUILAE</setting>
+<scene n="51"><setting>  DUNE SEA - AQUILAE</setting>
 
 <sd>Threepio, hot and tired, struggles up over the ridge of a dune, only to find
 more dunes, which seem to go on for endless miles.  He looks back in the
@@ -2215,7 +2215,7 @@ going this way, but you'll do no better!</sp>
 <sd>He sits in a huff of anger and frustration, knocking the sand from his joints.</sd>
 
 </scene>
-<scene><setting scene="52">  DESERT MESA - AQUILAE</setting>
+<scene n="52"><setting>  DESERT MESA - AQUILAE</setting>
 
 <sd>Artwo stumbles through a narrow canyon until he climbs over a small boulder
 and sees before him a sight he first thinks is a mirage.  Nestled in a rock
@@ -2278,7 +2278,7 @@ nightfall...You're coming, one way or the other.  Will you join us peaceably?</s
 <sd>The princess reluctantly gets into the speeder, and it starts with a jolt.</sd>
 
 </scene>
-<scene><setting scene="53">  LANDSPEEDER - DESERT MESAS - AQUILAE</setting>
+<scene n="53"><setting>  LANDSPEEDER - DESERT MESAS - AQUILAE</setting>
 
 <sd>The speeder flies along, a foot or so above the landscape.</sd>
 
@@ -2309,7 +2309,7 @@ I'm afraid I've only learned one way to treat wild animals.</sp>
 You stay out of this.</sp>
 
 </scene>
-<scene><setting scene="54">  DUNE SEA</setting>
+<scene n="54"><setting>  DUNE SEA</setting>
 
 <sd>Threepio struggles to the top of a large dune.  He is dirty and hot.  His
 plight seems hopeless.  He searches the horizon for any sign of life.  A glint
@@ -2384,7 +2384,7 @@ appreciated.</sp>
 <sd>Starkiller and the two robots walk back to the speeder.</sd>
 
 </scene>
-<scene><setting scene="55">  Both Artwo and Threepio are stuffed into the tiny luggage compartment.
+<scene n="55"><setting>  Both Artwo and Threepio are stuffed into the tiny luggage compartment.
 It is late in the day when the speeder rumbles to a stop in a small desert
 canyon surrounded by steep cliffs and broken boulders.</setting>
 
@@ -2420,7 +2420,7 @@ Where did they go?  They've disappeared.</sp>
 Maybe they were attacked!  I sense danger!</sp>
 
 </scene>
-<scene><setting scene="56">  HIDDEN FORTRESS ENTRANCE - DESERT CANYON - AQUILAE [scene number - sic]</setting>
+<scene n="56"><setting>  HIDDEN FORTRESS ENTRANCE - DESERT CANYON - AQUILAE [scene number - sic]</setting>
 
 <sd>Captain Starkiller and Princess Leia hurry through a maze of large boulders,
 until they reach a sheer rock face.  Starkiller looks around to see if they
@@ -2430,7 +2430,7 @@ jubilant guards.  Starkiller gives them some orders and points in the
 direction of the speeder.  The secret rock door silently slides closed.</sd>
 
 </scene>
-<scene><setting scene="57">  MAIN HALLWAY - UNDERGROUND FORTRESS - AQUILAE</setting>
+<scene n="57"><setting>  MAIN HALLWAY - UNDERGROUND FORTRESS - AQUILAE</setting>
 
 <sd>Starkiller and the princess are greeted by General Skywalker and Montross.
 They bow before the princess.</sd>
@@ -2460,7 +2460,7 @@ princess, runs down the hallway toward the main chamber.  She vainly attempts
 to hold back the tears.</sd>
 
 </scene>
-<scene><setting scene="58">  DESERT CANYON - AQUILAE</setting>
+<scene n="58"><setting>  DESERT CANYON - AQUILAE</setting>
 
 <sd>The two puzzled androids sit on the landspeeder, pondering the disappearance
 of their saviour.</sd>
@@ -2489,7 +2489,7 @@ gratefully appreciated.</sp>
 <sd>Artwo sits rather suspiciously behind his extroverted friend.</sd>
 
 </scene>
-<scene><setting scene="59">  ROYAL CHAMBER - UNDERGROUND FORTRESS - AQUILAE</setting>
+<scene n="59"><setting>  ROYAL CHAMBER - UNDERGROUND FORTRESS - AQUILAE</setting>
 
 <sd>General Skywalker bows low before Princess Leia.  She sits on a raised
 platform, dressed in the royal robes of a planetary ruler.  The queen sits off
@@ -2558,7 +2558,7 @@ Do not put words into my mouth.  I will stand for what is necessary.</sp>
 <sd>The general simply smiles.</sd>
 
 </scene>
-<scene><setting scene="60">  SUB-HALLWAY - UNDERGROUND FORTRESS - AQUILAE</setting>
+<scene n="60"><setting>  SUB-HALLWAY - UNDERGROUND FORTRESS - AQUILAE</setting>
 
 <sd>The general walks briskly through an isolated hallway, closely followed by
 Montross.</sd>
@@ -2581,7 +2581,7 @@ him... with speed!</sp>
 <sd>Montross turns and rushes down another hallway.</sd>
 
 </scene>
-<scene><setting scene="61">  MEDICAL CENTER BLUE - UNDERGROUND FORTRESS - AQUILAE</setting>
+<scene n="61"><setting>  MEDICAL CENTER BLUE - UNDERGROUND FORTRESS - AQUILAE</setting>
 
 <sd>The general enters a stark white waiting area filled with scholarly looking
 gentlemen.  An attendant greets General Skywalker and takes him into a small
@@ -2665,7 +2665,7 @@ We should be ready by zero three hundred.</sp>
 another brain.</sd>
 
 </scene>
-<scene><setting scene="62">  SPACEPORT - OBSERVATION DECK - AQUILAE</setting>
+<scene n="62"><setting>  SPACEPORT - OBSERVATION DECK - AQUILAE</setting>
 
 <sd>Governor Hoedaack, General Vader walk down a boarding ramp to an observation
 deck overlooking the conquered city of Gordon.  They are followed by a number
@@ -2693,7 +2693,7 @@ A man hungry for power can always be trusted... to betray those in power.  I'm
 sure his information is correct.</sp>
 
 </scene>
-<scene><setting scene="63">  HIDDEN FORTRESS CANYON</setting>
+<scene n="63"><setting>  HIDDEN FORTRESS CANYON</setting>
 
 <sd>The huge rock face of the canyon opens, and two shabby agricultural
 landspeeders are pushed into the late afternoon sun.  Artwo and Threepio stand
@@ -2818,7 +2818,7 @@ May the force of others be with you.</sp>
 the others return to the underground fortress.</sd>
 
 </scene>
-<scene><setting scene="64">  DESERT BLUFF - AQUILAE</setting>
+<scene n="64"><setting>  DESERT BLUFF - AQUILAE</setting>
 
 <sd>The two speeders edge their way onto a bluff overlooking the hidden fortress
 canyon.  They stop for one last reflective moment.  Forced to leave their
@@ -2834,7 +2834,7 @@ appears to take it well.</sd>
 It was the only way we could be safe from treachery.</sp>
 
 </scene>
-<scene><setting scene="65">  DUNE SEA - AQUILAE</setting>
+<scene n="65"><setting>  DUNE SEA - AQUILAE</setting>
 
 <sd>The two sleek landspeeders glide effortlessly through the vast hills and
 valleys of the dune sea.  At the base of the towering dune ridge, the four-man
@@ -2917,7 +2917,7 @@ I want to stay with them.</sp>
 What's the matter?  You afraid I might eat them?</sp>
 
 </scene>
-<scene><setting scene="66">  LIBRARY - PALACE OF LITE - AQUILAE</setting>
+<scene n="66"><setting>  LIBRARY - PALACE OF LITE - AQUILAE</setting>
 
 <sd>The king's old library has been converted into an office for General Vader.
 He is sitting behind his desk as Prince Valorum, the black knight of Sith,
@@ -2947,7 +2947,7 @@ really believe he's a Jedi?</sp>
 If he was not a Jedi, I wouldn't be here.</sp>
 
 </scene>
-<scene><setting scene="67">  WASTELAND - AQUILAE</setting>
+<scene n="67"><setting>  WASTELAND - AQUILAE</setting>
 
 <sd>The speeders make their way across the grey desert.  It is dawn.  The twin
 suns have yet to rise over the distant hills.  The speeders are coated with
@@ -2973,7 +2973,7 @@ should have control of it by now, so hide your weapons...but keep them within
 reach.</sp>
 
 </scene>
-<scene><setting scene="68">  FUEL STATION - AQUILAE</setting>
+<scene n="68"><setting>  FUEL STATION - AQUILAE</setting>
 
 <sd>A series of low concrete structures rise out of the desert.  The speeders stop
 in front of an old weather-beaten block house.  The rusted hulk of a
@@ -2981,7 +2981,7 @@ landspeeder lies half-buried to one side of the building.  Starkiller and
 Whitsun jump out of the speeder and go into the block house.</sd>
 
 </scene>
-<scene><setting scene="69">  INTERIOR - FUEL STATION - AQUILAE</setting>
+<scene n="69"><setting>  INTERIOR - FUEL STATION - AQUILAE</setting>
 
 <sd>The two young captains, dressed as farmers, enter the dingy little fuel
 station.  It is quiet.  A few power packs line the walls and a dismantled
@@ -3038,7 +3038,7 @@ run straight into a burly stormtrooper.</sd>
 Get out of here!</sp>
 
 </scene>
-<scene><setting scene="70">  FUEL STATION - AQUILAE</setting>
+<scene n="70"><setting>  FUEL STATION - AQUILAE</setting>
 
 <sd>Whitsun and Starkiller are pulled out of the doorway and shoved into the
 center of a group of fifteen or twenty Imperial stormtroopers who have
@@ -3095,7 +3095,7 @@ intercom.  General Skywalker and his two young captains load the remaining
 power packs into the speeder, and roar away from the station.</sd>
 
 </scene>
-<scene><setting scene="71">  WASTELAND - AQUILAE</setting>
+<scene n="71"><setting>  WASTELAND - AQUILAE</setting>
 
 <sd>The speeders race along through the rocky desert wasteland.  The general
 speaks into the intercom to Starkiller.</sd>
@@ -3148,7 +3148,7 @@ second.  They've disappeared!  I've lost them.</sp>
 Continue on.</sp>
 
 </scene>
-<scene><setting scene="73">  WASTELAND LAKEBED - AQUILAE</setting>
+<scene n="73"><setting>  WASTELAND LAKEBED - AQUILAE</setting>
 
 <sd>Whitsun deftly maneuvers the bulky speeder through a narrow, boulder strewn
 ravine.  They eventually come out on a dry lake bed, where they stop.
@@ -3237,14 +3237,14 @@ back toward the ravine.  The general jumps onto one of the riderless dune
 birds and takes off in pursuit.  Whitsun checks the dead troopers.</sd>
 
 </scene>
-<scene><setting scene="73">  WASTELAND RAVINE - AQUILAE</setting>
+<scene n="73"><setting>  WASTELAND RAVINE - AQUILAE</setting>
 
 <sd>The general rides at breakneck speed after the fleeing trooper.  His
 lasersword is raised high over his head, ready to deal a death blow.  The
 lumbering birds race through the winding ravine.</sd>
 
 </scene>
-<scene><setting scene="74">  WASTELAND RAVINE - AQUILAE</setting>
+<scene n="74"><setting>  WASTELAND RAVINE - AQUILAE</setting>
 
 <sd>The intercom warning buzzer begins to scream.  Whitsun rushes for it, but the
 princess gets there first.</sd>
@@ -3259,7 +3259,7 @@ Two riders heading your way.  I got three, but two got away.  Watch
 yourselves!</sp>
 
 </scene>
-<scene><setting scene="75">  WASTELAND RAVINE - AQUILAE</setting>
+<scene n="75"><setting>  WASTELAND RAVINE - AQUILAE</setting>
 
 <sd>The general is riding neck and neck with the trooper.  He swiftly brings his
 sword down and the trooper drops from his saddle.  The momentum of his charge
@@ -3272,7 +3272,7 @@ troopers are no match for the general, who kills them both before they are
 even able to swing their swords.</sd>
 
 </scene>
-<scene><setting scene="76">  WASTELAND LAKEBED - AQUILAE</setting>
+<scene n="76"><setting>  WASTELAND LAKEBED - AQUILAE</setting>
 
 <sd>Starkiller stops near the larger landspeeder and gets out.  He is wounded.
 Blood streams from his left arm.  Whitsun rushes to help him.  The princess
@@ -3309,7 +3309,7 @@ Don't let it happen again.  We'd better move out.  They might have reported
 in.</sp>
 
 </scene>
-<scene><setting scene="77">  CONTROL ROOM - PALACE OF LITE - AQUILAE</setting>
+<scene n="77"><setting>  CONTROL ROOM - PALACE OF LITE - AQUILAE</setting>
 
 <sd>The dark and sinister Valorum moves several markers on a large map readout to
 form a line from the destroyed underground fortress to the spaceport at
@@ -3333,7 +3333,7 @@ They're heading for the spaceport at Gordon.  I'm going there.  Have all
 security doubled.  Make it an alert.</sp>
 
 </scene>
-<scene><setting scene="78">  THE OUTSKIRTS OF GORDON - AQUILAE</setting>
+<scene n="78"><setting>  THE OUTSKIRTS OF GORDON - AQUILAE</setting>
 
 <sd>The speeders stop on a bluff overlooking a small cantina on the outskirts of
 Gordon.  The spaceport can be seen in the distance.  The general and Captain
@@ -3359,7 +3359,7 @@ forty, get worried.</sp>
 <sd>The speeder starts off toward the cantina.</sd>
 
 </scene>
-<scene><setting scene="79">  SPACEPORT CANTINA - AQUILAE</setting>
+<scene n="79"><setting>  SPACEPORT CANTINA - AQUILAE</setting>
 
 <sd>The speeder pulls up in front of the low, blockhouse style cantina.  Various
 strange forms of transport are parked outside the bar.</sd>
@@ -3448,7 +3448,7 @@ although the general is given a respectable amount of room at the bar.  The
 Jedi finishes his drink, and then leaves.  Captain Whitsun follows.</sd>
 
 </scene>
-<scene><setting scene="80">  SPACEPORT ALLEYWAY - GORDON - AQUILAE</setting>
+<scene n="80"><setting>  SPACEPORT ALLEYWAY - GORDON - AQUILAE</setting>
 
 <sd>General Skywalker embraces Han Solo, the underground contact.  Han is a huge,
 green skinned monster with no nose and large gills.</sd>
@@ -3480,14 +3480,14 @@ the might of the Empire.  The general escorts her through the doorway with the
 others.</sd>
 
 </scene>
-<scene><setting scene="81">  SLUM DWELLING - LIVING AREA - AQUILAE</setting>
+<scene n="81"><setting>  SLUM DWELLING - LIVING AREA - AQUILAE</setting>
 
 <sd>The seedy dwelling is dark and dingy.  The group is greeted by three
 underground leaders, and the old Jedi, Kane Starkiller.  Captain Starkiller
 embraces his father as the underground leaders bow before the princess.</sd>
 
 </scene>
-<scene><setting scene="82">  SLUM DWELLING - DINING AREA - AQUILAE</setting>
+<scene n="82"><setting>  SLUM DWELLING - DINING AREA - AQUILAE</setting>
 
 <sd>The princess walks through the dining area followed by Whitsun and Starkiller,
 who carry the two sleeping princes.  The general sits at a large table
@@ -3556,7 +3556,7 @@ I know an agent who might be able to acquire them for us.  I'll check with
 him.  It will be risky, but we've no other choice.</sp>
 
 </scene>
-<scene><setting scene="83">  SPACEPORT OBSERVATION DECK - AQUILAE</setting>
+<scene n="83"><setting>  SPACEPORT OBSERVATION DECK - AQUILAE</setting>
 
 <sd>The dark figure of Valorum stands overlooking a group of Aquilaean partisans
 who are being tortured in the plaza below.  Two Imperial officers are
@@ -3567,7 +3567,7 @@ on an animated conversation; it is inaudible over the screams of the tortured
 partisans.</sd>
 
 </scene>
-<scene><setting scene="84">  SLUM DWELLING - ALLEYWAY - AQUILAE</setting>
+<scene n="84"><setting>  SLUM DWELLING - ALLEYWAY - AQUILAE</setting>
 
 <sd>Residents glance fearfully from their windows as six Imperial stormtroopers
 make their way through the crowded slum alleyway.  Han Solo and Captain
@@ -3575,7 +3575,7 @@ Starkiller move cautiously past the Imperial patrol, and disappear into the
 shabby hideout of the partisan underground.</sd>
 
 </scene>
-<scene><setting scene="85">  SLUM DWELLING - MAIN AREA - AQUILAE</setting>
+<scene n="85"><setting>  SLUM DWELLING - MAIN AREA - AQUILAE</setting>
 
 <sd>The two men enter the dingy main room of the slum dwelling, and are
 immediately attacked by Biggs, wielding a toy sword.  Starkiller good-
@@ -3587,7 +3587,7 @@ Starkiller and Biggs are laughing uproariously.  Leia gives the captain a
 stern, disapproving look, then returns to the other room.</sd>
 
 </scene>
-<scene><setting scene="86">  SLUM DWELLING - DINING AREA - AQUILAE</setting>
+<scene n="86"><setting>  SLUM DWELLING - DINING AREA - AQUILAE</setting>
 
 <sd>General Skywalker, Captain Whitsun, and Datos are in the process of assembling
 two micro-packs on the kitchen table.  Han pulls a small silver powerpack from
@@ -3692,7 +3692,7 @@ Prepare the boys!  We have little time.</sp>
 the power units in the micro-packs.</sd>
 
 </scene>
-<scene><setting scene="87">  SLUM DWELLING - MAIN AREA - AQUILAE</setting>
+<scene n="87"><setting>  SLUM DWELLING - MAIN AREA - AQUILAE</setting>
 
 <sd>Biggs and Windy are not happy about being dragged away from their puzzle.
 Whitsun takes the robots into the sleep area.</sd>
@@ -3718,7 +3718,7 @@ lightning, he catches the boy before he can hit the floor.  The princess
 injects her other brother, and he collapses into her arms.</sd>
 
 </scene>
-<scene><setting scene="88">  SLUM DWELLING - DINING AREA - AQUILAE</setting>
+<scene n="88"><setting>  SLUM DWELLING - DINING AREA - AQUILAE</setting>
 
 <sd>The limp bodies of the two young princes are carried in by Leia and Captain
 Whitsun.  They are carefully squeezed into the hollowed out micro-cases.  Leia
@@ -3740,7 +3740,7 @@ watching her brothers placed in suspended animation is too great for Leia, and
 she retreats into the main room.</sd>
 
 </scene>
-<scene><setting scene="89">  SLUM DWELLING - MAIN ROOM - AQUILAE</setting>
+<scene n="89"><setting>  SLUM DWELLING - MAIN ROOM - AQUILAE</setting>
 
 <sd>Captain Starkiller stands brooding near a window overlooking the crowded
 alleyway.  He does not acknowledge Leia's entrance.  She walks over to the
@@ -3757,7 +3757,7 @@ strong to let her show her true affection for Starkiller.  She breaks down and
 runs from the room.  The young Jedi continues his meditation.</sd>
 
 </scene>
-<scene><setting scene="90">  SPACEPORT AT GORDON - SECURITY RAMP - AQUILAE</setting>
+<scene n="90"><setting>  SPACEPORT AT GORDON - SECURITY RAMP - AQUILAE</setting>
 
 <sd>The spaceport is very crowded.  People rush about in a panicked rush as
 loudspeakers blurt out indiscernible announcements.  The Empire is in the
@@ -3809,7 +3809,7 @@ Several Imperial guards pass them, and everyone is ready for the suspected
 trap, but nothing happens..</sd>
 
 </scene>
-<scene><setting scene="91">  INTERIOR - BALTARIAN FREIGHTER - AQUILAE</setting>
+<scene n="91"><setting>  INTERIOR - BALTARIAN FREIGHTER - AQUILAE</setting>
 
 <sd>The group stops in a narrow electronics passageway near the bridge of the
 ship.  Starkiller and Whitsun unstrap the micro-packs containing the two young
@@ -3838,7 +3838,7 @@ confused about what is going on, and wear their gear in anticipation of
 moving.</sd>
 
 </scene>
-<scene><setting scene="92">  PILOT CHAMBER - BALTARIAN FREIGHTER - AQUILAE</setting>
+<scene n="92"><setting>  PILOT CHAMBER - BALTARIAN FREIGHTER - AQUILAE</setting>
 
 <sd>Han and the general enter the small pilot's chamber and greet the captain,
 whose face is hidden in the shadows of a computer bank.</sd>
@@ -3953,7 +3953,7 @@ confused by the turn of events.  They eventually follow the general toward the
 exit hatch.</sd>
 
 </scene>
-<scene><setting scene="94">  ELECTROCLOSET HALLWAY - BALTARIAN FREIGHTER - AQUILAE</setting>
+<scene n="94"><setting>  ELECTROCLOSET HALLWAY - BALTARIAN FREIGHTER - AQUILAE</setting>
 
 <sd>The two young captains reach a storage area of the huge spacecraft.  They
 watch their seekers as they move along a row of electroclosets.  They quietly
@@ -3969,7 +3969,7 @@ If they were discovered, they would have been sent to a medical station.</sp>
 There are more storage areas on the far side.</sp>
 
 </scene>
-<scene><setting scene="95">  MAIN HATCH AREA - BALTARIAN FREIGHTER - AQUILAE</setting>
+<scene n="95"><setting>  MAIN HATCH AREA - BALTARIAN FREIGHTER - AQUILAE</setting>
 
 <sd>Han and the general reach the main hatch, closely followed by Leia and the two
 robots.  Several lights over the hatch flash on and off.  The general cuts a
@@ -3997,7 +3997,7 @@ Get this hatch open.  Counterlock the departure pattern.</sp>
 <sd>The robot immediately starts pushing buttons on the panel.</sd>
 
 </scene>
-<scene><setting scene="96">  ELECTROCLOSET HALLWAY - BALTARIAN FREIGHTER - AQUILAE</setting>
+<scene n="96"><setting>  ELECTROCLOSET HALLWAY - BALTARIAN FREIGHTER - AQUILAE</setting>
 
 <sd>Starkiller and Whitsun reach a second series of electroclosets.  A signal
 appears on the seekers, and Starkiller cuts down the door of one of the small
@@ -4015,7 +4015,7 @@ hallway.  After they have passed, the young captain checks to make sure the
 way is clear, then runs down a hallway toward the main hatch.</sd>
 
 </scene>
-<scene><setting scene="97">  BRIDGE - BALTARIAN FREIGHTER - AQUILAE</setting>
+<scene n="97"><setting>  BRIDGE - BALTARIAN FREIGHTER - AQUILAE</setting>
 
 <sd>As the crew makes the final preparations for the blast off, the main hatch
 light blinks on.  One of the pilots notices the light and begins to check it
@@ -4026,7 +4026,7 @@ out.</sd>
 Is the main hatch secure?</sp>
 
 </scene>
-<scene><setting scene="98">  MAIN HATCH - BALTARIAN FREIGHTER - AQUILAE</setting>
+<scene n="98"><setting>  MAIN HATCH - BALTARIAN FREIGHTER - AQUILAE</setting>
 
 <sd>The intercom sparks to life, and the general answers it.</sd>
 
@@ -4042,7 +4042,7 @@ All right... Stand by.</sp>
 the hatch computer.</sd>
 
 </scene>
-<scene><setting scene="99">  HALLWAYS - BALTARIAN FREIGHTER - AQUILAE</setting>
+<scene n="99"><setting>  HALLWAYS - BALTARIAN FREIGHTER - AQUILAE</setting>
 
 <sd>Starkiller and Whitsun cautiously move down a long hallway, ever watchful of
 Imperial troops.  They reach an intersection, carefully check in all
@@ -4062,7 +4062,7 @@ of range.  The exchange of gunfire lasts only a few moments.  When the smoke
 clears, the troops have been destroyed.</sd>
 
 </scene>
-<scene><setting scene="100">  MAIN HATCH - BALTARIAN FREIGHTER - AQUILAE</setting>
+<scene n="100"><setting>  MAIN HATCH - BALTARIAN FREIGHTER - AQUILAE</setting>
 
 <sd>The main hatch slowly begins to slide open, when the rumbling explosion of
 laserfire echoes through the hallways.  Han looks to the general, and they
@@ -4085,7 +4085,7 @@ down on the young Jedi as he squeezes through the very slim opening.  One of
 the troops dives after him, but is caught, and crushed by the emergency hatch.</sd>
 
 </scene>
-<scene><setting scene="101">  BOARDING RAMPS - GORDON SPACEPORT - AQUILAE</setting>
+<scene n="101"><setting>  BOARDING RAMPS - GORDON SPACEPORT - AQUILAE</setting>
 
 <sd>The general leads the group through various corridors.</sd>
 
@@ -4153,7 +4153,7 @@ Starkiller!  Whitsun!  Stand guard.  I'll signal at take-off minus
 thirty...And reverse that cutter!</sp>
 
 </scene>
-<scene><setting scene="102">  INTERIOR - IMPERIAL STARSHIP - AQUILAE</setting>
+<scene n="102"><setting>  INTERIOR - IMPERIAL STARSHIP - AQUILAE</setting>
 
 <sd>Han and the general, followed by Leia and the robots, enter the Imperial
 starship.  They rush through several narrow hallways leading to the bridge.
@@ -4171,7 +4171,7 @@ How are we going to get them to open the silo cover?</sp>
 Send Threepio in here.  Dispose of any crewmen left on board.</sp>
 
 </scene>
-<scene><setting scene="103">  BOARDING RAMP - SPACEPORT - AQUILAE</setting>
+<scene n="103"><setting>  BOARDING RAMP - SPACEPORT - AQUILAE</setting>
 
 <sd>Starkiller and Whitsun now wear the uniform of the Imperial guard.  Whitsun
 has removed a plate from the "cutter" machinism and is crossing a few wires.
@@ -4195,7 +4195,7 @@ moves on to another starship.  Starkiller gives his partner a philosophical
 look.</sd>
 
 </scene>
-<scene><setting scene="104">  INTERIOR - IMPERIAL STARSHIP - AQUILAE</setting>
+<scene n="104"><setting>  INTERIOR - IMPERIAL STARSHIP - AQUILAE</setting>
 
 <sd>The gleaming chrome Threepio sits in the pilot's seat, talking on the intercom
 to a controller.  He breaks off his continual drone of take-off instructions
@@ -4225,7 +4225,7 @@ We're going to sustain considerable damage if we blast off through that cover.</
 It's a thin shell.  There is no choice.  (to Threepio)  Signal the boys.</sp>
 
 </scene>
-<scene><setting scene="105">  BOARDING RAMPS - SPACEPORT - AQUILAE</setting>
+<scene n="105"><setting>  BOARDING RAMPS - SPACEPORT - AQUILAE</setting>
 
 <sd>Warning lights flash and the main hatch to the starfighter slowly begins to
 close.  The two Imperial stormtroopers yell at Starkiller and Whitsun.</sd>
@@ -4243,27 +4243,27 @@ The guards rush onto the boarding ramp and are wiped out by the reversed
 "cutters."</sd>
 
 </scene>
-<scene><setting scene="106">  INTERIOR - STARSHIPS - AQUILAE</setting>
+<scene n="106"><setting>  INTERIOR - STARSHIPS - AQUILAE</setting>
 
 <sd>Everyone straps himself into the lifepods.  Threepio and the general troddle
 forward, and the giant ship shudders as it starts to lift off the launch pad.
 With tense expressions, everyone braces for the impact of the silo cover.</sd>
 
 </scene>
-<scene><setting scene="107">  STARSHIP - SPACEPORT SILO - AQUILAE</setting>
+<scene n="107"><setting>  STARSHIP - SPACEPORT SILO - AQUILAE</setting>
 
 <sd>The  mighty starship thunders out of the silo, crashing through the cover
 plate, sending shrapnel in all directions.  The ship leaps toward the heavens.</sd>
 
 </scene>
-<scene><setting scene="108">  BOARDING CAMPS - SPACEPORT - AQUILAE</setting>
+<scene n="108"><setting>  BOARDING CAMPS - SPACEPORT - AQUILAE</setting>
 
 <sd>Imperial flight crews rush to their starships.   Pilots receive their
 clearances, and several giant silo covers swing away, revealing deadly hunter-
 destroyer spaceships.</sd>
 
 </scene>
-<scene><setting scene="109">  INTERIOR - BRIDGE - STARSHIP - SPACE</setting>
+<scene n="109"><setting>  INTERIOR - BRIDGE - STARSHIP - SPACE</setting>
 
 <sd>Han and the general watch as five hunter-destroyers leave the spaceport at
 Gordon.</sd>
@@ -4274,7 +4274,7 @@ We suffered light damage to a deflector fin.  It will take them quite a while
 to catch up with us now.  Tell the boys to get some rest.</sp>
 
 </scene>
-<scene><setting scene="110">  AFT SECTION - STARSHIP - SPACE</setting>
+<scene n="110"><setting>  AFT SECTION - STARSHIP - SPACE</setting>
 
 <sd>Han retreats to the aft section of the ship, where the two captains are
 checking out the two main lasercannons mounted in large rotating bubble
@@ -4321,7 +4321,7 @@ and get into a lifepod.</sp>
 a hallway into a lifepod.  He is tired, and angry at the whole incident.</sd>
 
 </scene>
-<scene><setting scene="111">  BRIDGE - STARSHIP - SPACE</setting>
+<scene n="111"><setting>  BRIDGE - STARSHIP - SPACE</setting>
 
 <sd>Threepio guides the starship toward the Ophuchi system.  The general watches
 the computer readout estimate the position of the Imperial hunter destroyers.</sd>
@@ -4343,7 +4343,7 @@ Yavin.</sp>
 Set a course... Maybe we can lose them among the Systems.</sp>
 
 </scene>
-<scene><setting scene="112">  AFT SECTION - STARSHIP - SPACE</setting>
+<scene n="112"><setting>  AFT SECTION - STARSHIP - SPACE</setting>
 
 <sd>Starkiller rests in one of the lasercannon pod bays.  He is thinking about
 Leia.  Slowly a smile creeps across his face.  He makes a decision, jumps up,
@@ -4387,7 +4387,7 @@ Get to those guns!</sp>
 suits and helmets.</sd>
 
 </scene>
-<scene><setting scene="113">  BRIDGE - STARSHIP - SPACE</setting>
+<scene n="113"><setting>  BRIDGE - STARSHIP - SPACE</setting>
 
 <sd>Han enters the bridge and sits before a fire control center.  The general sits
 in a chair, slightly behind and above Threepio, directing the robot pilot.</sd>
@@ -4406,7 +4406,7 @@ intercom.</sd>
 Your boys ready?</sp>
 
 </scene>
-<scene><setting scene="114">  AFT SECTION - STARSHIP - SPACE</setting>
+<scene n="114"><setting>  AFT SECTION - STARSHIP - SPACE</setting>
 
 <sd>The captains adjust the lasercannon controls in front of them and check in
 with the general.</sd>
@@ -4429,7 +4429,7 @@ Only the slightest hint of concern or worry shows in her face.  She listens to
 her protectors relay instructions as the enemy approaches.</sd>
 
 </scene>
-<scene><setting scene="115">  BRIDGE - STARSHIP - SPACE</setting>
+<scene n="115"><setting>  BRIDGE - STARSHIP - SPACE</setting>
 
 <sd>The starship shudders as the hunter-destroyers open fire.  Han relays the
 ship's status to the general, as Threepio struggles to keep up with the
@@ -4445,7 +4445,7 @@ Cut hard to maridian nine zero six.  Level to three degrees...(into the
 intercom)  We're coming under one.  Wait for my signal!</sp>
 
 </scene>
-<scene><setting scene="116">  AFT SECTION - STARSHIP - SPACE</setting>
+<scene n="116"><setting>  AFT SECTION - STARSHIP - SPACE</setting>
 
 <sd>The constant flashing of deflected laser bolts reflect in the interior of the
 lasercannon bubble.  Starkiller rechecks his firing swithces..Whitsun adjusts
@@ -4487,7 +4487,7 @@ your inaccurate grandstanding!</sp>
 remaining hunter-destroyers begin a second run.</sd>
 
 </scene>
-<scene><setting scene="117">  BRIDGE - STARSHIP - SPACE</setting>
+<scene n="117"><setting>  BRIDGE - STARSHIP - SPACE</setting>
 
 <sd>Han turns to the general.</sd>
 
@@ -4501,7 +4501,7 @@ Warn Starkiller.  Get him out of there.  (to Threepio)  Change your heading by
 point five.</sp>
 
 </scene>
-<scene><setting scene="118">  AFT SECTION - STARSHIP - SPACE</setting>
+<scene n="118"><setting>  AFT SECTION - STARSHIP - SPACE</setting>
 
 <sd>Princess Leia listens to Han warn Starkiller.</sd>
 
@@ -4525,7 +4525,7 @@ to help him.  She is stopped by a pressure locked door leading to the gun
 emplacement.</sd>
 
 </scene>
-<scene><setting scene="119">  BRIDGE - STARSHIP - SPACE</setting>
+<scene n="119"><setting>  BRIDGE - STARSHIP - SPACE</setting>
 
 <sd>The general orders Threepio to swing the spacecraft around and start a new
 attack.  He turns to Artwo.</sd>
@@ -4568,7 +4568,7 @@ We'll never defeat them in combat.  It's our only chance to lose them.</sp>
 treacherous asteroid belt.</sd>
 
 </scene>
-<scene><setting scene="120">  AFT SECTION - STARSHIP - SPACE</setting>
+<scene n="120"><setting>  AFT SECTION - STARSHIP - SPACE</setting>
 
 <sd>Whitsun fires on one ofthe two hunter-destroyers which is pacing the rebel
 starship.  Starkiller unsuccessfully tries to pull himself back inside the
@@ -4592,7 +4592,7 @@ Artwo help Starkiller make his way out of the lasercannon turrets and through
 a series of locks, to the lifepod area.</sd>
 
 </scene>
-<scene><setting scene="121">  BRIDGE - STARSHIP - SPACE</setting>
+<scene n="121"><setting>  BRIDGE - STARSHIP - SPACE</setting>
 
 <sd>The asteroids hit hard.  The ship is buffeted to and fro as the general, Han,
 and Threepio struggle into their spacesuit-like lifepods.  The Imperial
@@ -4636,7 +4636,7 @@ We'll never make it.</sp>
 <sd>The starship heads for a small blue-green planet in the distance.</sd>
 
 </scene>
-<scene><setting scene="122">  AFT SECTION - STARSHIP - SPACE</setting>
+<scene n="122"><setting>  AFT SECTION - STARSHIP - SPACE</setting>
 
 <sd>Starkiller was considerably shaken in the destruction of his laserturret.  He
 is slightly dazed as Whitsun straps him into a lifepod with Artwo.</sd>
@@ -4660,7 +4660,7 @@ I think so.. His feelings for you are dangerous.  You should discourage him.</sp
 emotions to herself.</sd>
 
 </scene>
-<scene><setting scene="123">  BRIDGE - STARSHIP - YAVIN ORBIT</setting>
+<scene n="123"><setting>  BRIDGE - STARSHIP - YAVIN ORBIT</setting>
 
 <sd>The general is strapped into the lifepod with the two micro-packs containing
 the young princes.  Han and Threepio are in the second lifepod.</sd>
@@ -4695,7 +4695,7 @@ All systems operative...We have the signal.</sp>
 starship.  He is quickly followed by the general.</sd>
 
 </scene>
-<scene><setting scene="124">  AFT SECTION - STARSHIP - YAVIN ORBIT</setting>
+<scene n="124"><setting>  AFT SECTION - STARSHIP - YAVIN ORBIT</setting>
 
 <sd>Artwo pushes the jettison switch, but nothing happens.  Starkiller slowly and
 with some difficulty, pushes the switch two or three times.  Nothing happens.
@@ -4740,7 +4740,7 @@ princess watches him as he tries to think of a solution.  A great explosion is
 heard in the forward part of the ship.</sd>
 
 </scene>
-<scene><setting scene="125">  LIFEPODS - SPACE - YAVIN ORBIT</setting>
+<scene n="125"><setting>  LIFEPODS - SPACE - YAVIN ORBIT</setting>
 
 <sd>The two lifepods containing the general, and Han and Threepio drift away from
 the disabled starship.</sd>
@@ -4763,7 +4763,7 @@ Starkiller, where are you?  Report in.</sp>
 <sd>Starkiller reaches down and switches off the intercom.</sd>
 
 </scene>
-<scene><setting scene="126">  AFT SECTION - STARSHIP - YAVIN ORBIT</setting>
+<scene n="126"><setting>  AFT SECTION - STARSHIP - YAVIN ORBIT</setting>
 
 <sd>Whitsun appears to have found a solution to his situation and rushes back to
 the princess.  He reaches in and locks on the power switch.</sd>
@@ -4788,7 +4788,7 @@ the chamber, as Whitsun slams a large metallic dampening tool across the
 damaged connector terminals, and the lifepod jettisons away.</sd>
 
 </scene>
-<scene><setting scene="127">  LIFEPODS - SPACE - YAVIN ORBIT</setting>
+<scene n="127"><setting>  LIFEPODS - SPACE - YAVIN ORBIT</setting>
 
 <sd>The princess jettisons free, as Starkiller moves toward the crippled ship.
 Leia calls the general on the intercom.</sd>
@@ -4824,7 +4824,7 @@ Captain, I'm losing your beacon.  Send me a new signal.</sp>
 break through the clouds and land in the dense, steaming jungles.</sd>
 
 </scene>
-<scene><setting scene="128">  VINE JUNGLE - YAVIN</setting>
+<scene n="128"><setting>  VINE JUNGLE - YAVIN</setting>
 
 <sd>The general's lifepod crashes through the foliage until it comes to rest in
 the middle of a large vine-covered tree.  He grabs the two micro-packs and
@@ -4874,7 +4874,7 @@ purgatory.  Gruesome and unnatural sounds permeate this ghostly wasteland.
 Everyone is cautious, and on the alert for an unseen danger.</sd>
 
 </scene>
-<scene><setting scene="129">  FOREST OF THE GARGANTUANS - YAVIN</setting>
+<scene n="129"><setting>  FOREST OF THE GARGANTUANS - YAVIN</setting>
 
 <sd>Starkiller's lifepod is also caught in the limbs of a gargantuan tree.  The
 lifepod has been ripped in half by the crash landing.  The unconscious Jedi
@@ -4914,7 +4914,7 @@ meters.</sp>
 Well, come on, old buddy.  Let's get ourselves out of this tree.</sp>
 
 </scene>
-<scene><setting scene="130">  VINE JUNGLE RIDGE - YAVIN</setting>
+<scene n="130"><setting>  VINE JUNGLE RIDGE - YAVIN</setting>
 
 <sd>The general, Han and Threepio reach a shallow cave near the top of a steep
 ridge.  They quickly pull off the micro-packs and place them on a clear piece
@@ -4966,7 +4966,7 @@ on the back.</sd>
 Let's get Biggs out of there.  He shouldn't be a problem.</sp>
 
 </scene>
-<scene><setting scene="131">  FOREST OF THE GARGANTUANS - YAVIN</setting>
+<scene n="131"><setting>  FOREST OF THE GARGANTUANS - YAVIN</setting>
 
 <sd>Starkiller slams closed the hatch of Princess Leia's lifepod.  In the
 distance, the subhuman cries of lonesome tree beasts cut through the forest
@@ -4984,7 +4984,7 @@ footprints, and much broken foliage.</sd>
 Someone's got her.  She put up quite a fight...It's an easy trail to follow.</sp>
 
 </scene>
-<scene><setting scene="132">  VINE JUNGLE RIDGE - YAVIN</setting>
+<scene n="132"><setting>  VINE JUNGLE RIDGE - YAVIN</setting>
 
 <sd>Both Biggs and Windy are sleeping restlessly on the floor of the cave.  Han
 watches over them as the general scans the valley below with a pair of
@@ -5016,7 +5016,7 @@ It's on the way.  Perhaps we should investigate.</sp>
 Hey!  Where are we?</sp>
 
 </scene>
-<scene><setting scene="133">  FOREST OF THE GARGANTUANS - YAVIN</setting>
+<scene n="133"><setting>  FOREST OF THE GARGANTUANS - YAVIN</setting>
 
 <sd>The gargantuan trees are shrouded in mist, and the ominous sounds of unearthly
 creatures fill the air.  Starkiller moves quietly and cautiously, followed by
@@ -5072,7 +5072,7 @@ Wookees, picks up Starkiller and puts him over his shoulder.  The group
 disappears into the jungle foliage.</sd>
 
 </scene>
-<scene><setting scene="134">  TREE HOUSE - FOREST OF THE GARGANTUANS - YAVIN</setting>
+<scene n="134"><setting>  TREE HOUSE - FOREST OF THE GARGANTUANS - YAVIN</setting>
 
 <sd>Han and Threepio carry the two little boys on their shoulders.  The general
 stops on the edge of a clearing, and motions for the others to be still.
@@ -5101,7 +5101,7 @@ I'm Luke Skywalker of Aquilae.</sp>
 <sd>He signals for the others to join him in the clearing.</sd>
 
 </scene>
-<scene><setting scene="135">  WOOKEE CAMP - YAVIN</setting>
+<scene n="135"><setting>  WOOKEE CAMP - YAVIN</setting>
 
 <sd>The small caravan of Wookees, led by Chewbacca, enters a small clearing
 surrounded by many bark and mud hovels.  Young Wookees race ahead of the group
@@ -5118,7 +5118,7 @@ Chief of the Kaapauku tribe; an old and feeble Wookee dressed in royal skins
 and headdress.</sd>
 
 </scene>
-<scene><setting scene="136">  INTERIOR - ANTHROPOLOGIST HUT - YAVIN</setting>
+<scene n="136"><setting>  INTERIOR - ANTHROPOLOGIST HUT - YAVIN</setting>
 
 <sd>Anthropologist Lars, the general, Han and the children sit around a large
 table eating.  Lars yells into the kitchen.</sd>
@@ -5174,7 +5174,7 @@ game, which tricks them into eating.  The general ponders the situation.  Han
 eats, like he hasn't eaten in years.</sd>
 
 </scene>
-<scene><setting scene="137">  WOOKEE CAMP - AQUILAE [??  Yavin?]</setting>
+<scene n="137"><setting>  WOOKEE CAMP - AQUILAE [??  Yavin?]</setting>
 
 <sd>Starkiller is surrounded by Wookees.  Young ones push through to get a better
 look, as the adults jabber and argue about the human.  Starkiller regains
@@ -5216,7 +5216,7 @@ disbelief.  When the chief and his son rise, Starkiller bows down before them.</
 <sd>This pleases the Wookees, and they screech and cheer.</sd>
 
 </scene>
-<scene><setting scene="138">  TREE HOUSE - FOREST OF THE GARGANTUANS - YAVIN</setting>
+<scene n="138"><setting>  TREE HOUSE - FOREST OF THE GARGANTUANS - YAVIN</setting>
 
 <sd>Mr. and Mrs. Lars stand on the balcony of their tree house with Threepio and
 the two little princes, Biggs, and Windy.  Han and the general emerge with
@@ -5265,7 +5265,7 @@ Good hunting.  May the force of others be with you.</sp>
 <sd>Han and the general wave as they ride off into the foreboding Yavin sunset.</sd>
 
 </scene>
-<scene><setting scene="139">  WOOKEE CAMP - YAVIN - NIGHT</setting>
+<scene n="139"><setting>  WOOKEE CAMP - YAVIN - NIGHT</setting>
 
 <sd>A beautiful, but frenzied fire festival is underway.  Wookees perform the
 Waita Tar dance, and yodel in a barking fashion around a large fire.  The
@@ -5276,7 +5276,7 @@ and looks around.  He then wobbles off toward the large chief's quarters, and
 enters.</sd>
 
 </scene>
-<scene><setting scene="140">  WOOKEE CAMP - YAVIN - MORNING</setting>
+<scene n="140"><setting>  WOOKEE CAMP - YAVIN - MORNING</setting>
 
 <sd>Artwo exits the chief's hut and looks around.  It is a quiet, grey morning.  A
 low mist hangs over the now deserted clearing.  He turns and signals back into
@@ -5322,7 +5322,7 @@ gets to his feet, and runs after the Jedi, following a few paces behind.
 Starkiller notices the Wookee following them, and shakes his head.</sd>
 
 </scene>
-<scene><setting scene="141">  FOREST OF THE GARGANTUANS - TRAPPER SIGHT [sic] - YAVIN</setting>
+<scene n="141"><setting>  FOREST OF THE GARGANTUANS - TRAPPER SIGHT [sic] - YAVIN</setting>
 
 <sd>The bodies of the killed trappers are covered with rat-sized insects.  A laser
 explosion erupts in the middle of the slimy creatures and they scatter into
@@ -5376,7 +5376,7 @@ tribe.  It seems they've made you a god.</sp>
 <sd>The general smiles.  Starkiller is embarrassed.</sd>
 
 </scene>
-<scene><setting scene="142">  VINE JUNGLE RIDGE - YAVIN</setting>
+<scene n="142"><setting>  VINE JUNGLE RIDGE - YAVIN</setting>
 
 <sd>Starkiller joins the general on a ridge overlooking the Imperial outpost of
 Mavassi.  All that can be seen of the fortress is a lone guard standing on a
@@ -5439,7 +5439,7 @@ It's only a class three fortress.  Maybe they just need a little help.</sp>
 screeches loudly.</sd>
 
 </scene>
-<scene><setting scene="143">  INTERIOR - TREEHOUSE - YAVIN</setting>
+<scene n="143"><setting>  INTERIOR - TREEHOUSE - YAVIN</setting>
 
 <sd>The incoming signal alarm on the anthropologist's radio system wails through
 the calm of the tree house.  Biggs, dragging an eight-legged, furry rodent,
@@ -5548,7 +5548,7 @@ Well, well, here's one of them, anyway.  Send seekers in all directions.  Find
 the others!</sp>
 
 </scene>
-<scene><setting scene="144">  VINE JUNGLE RIDGE - YAVIN</setting>
+<scene n="144"><setting>  VINE JUNGLE RIDGE - YAVIN</setting>
 
 <sd>The general sits at the head of the large stone table, pushing small markers
 around.  Han explains what the general is doing, to ten or fifteen Wookee
@@ -5570,7 +5570,7 @@ Once we acquire those tanks, our prime object must be to secure the starship.
 No-one must escape.</sp>
 
 </scene>
-<scene><setting scene="145">  IMPERIAL OUTPOST - VINE JUNGLE - YAVIN</setting>
+<scene n="145"><setting>  IMPERIAL OUTPOST - VINE JUNGLE - YAVIN</setting>
 
 <sd>Three officers run along a row of giant air tnaks to a perimeter bunker.
 There, two stormtroopers are watching the jungle.  When the officers arrive,
@@ -5578,7 +5578,7 @@ the troopers let them look through the powerful, mounted electrobinoculars.
 One of the troopers points out several areas in the dense jungle.</sd>
 
 </scene>
-<scene><setting scene="146">  INTERIOR - CONTROL ROOM - IMPERIAL OUTPOST - YAVIN</setting>
+<scene n="146"><setting>  INTERIOR - CONTROL ROOM - IMPERIAL OUTPOST - YAVIN</setting>
 
 <sd>A trooper sitting at an elaborate control panel, turns to an officer watching
 a monitor system.</sd>
@@ -5592,7 +5592,7 @@ A large concentration of trestuals at point E-2.</sp>
 Alert squads one through six!</sp>
 
 </scene>
-<scene><setting scene="147">  VINE JUNGLES - OUTPOST PERIMETER - YAVIN</setting>
+<scene n="147"><setting>  VINE JUNGLES - OUTPOST PERIMETER - YAVIN</setting>
 
 <sd>The general stands in a small clearing surrounded, by many armed Wookees
 carrying large shiny shields.  Han moves back and forth, barking orders to the
@@ -5605,7 +5605,7 @@ We're ready.  Give them the signal.</sp>
 <sd>Han motions to a young Wookee, who takes off, running through the jungle.</sd>
 
 </scene>
-<scene><setting scene="148">  IMPERIAL OUTPOST - VINE JUNGLE - YAVIN</setting>
+<scene n="148"><setting>  IMPERIAL OUTPOST - VINE JUNGLE - YAVIN</setting>
 
 <sd>Three large air tanks slowly move toward the outpost perimeter.  The tank
 pilots sit on the hatch rims of the ponderous weapons, studying the movements
@@ -5621,7 +5621,7 @@ retreat, and the tanks follow.  The tank crews track the feeling creatures
 with various electronic scopes, and laugh at the fleeing creatures.</sd>
 
 </scene>
-<scene><setting scene="149">  VINE JUNGLE - OUTPOST PERIMETER - YAVIN</setting>
+<scene n="149"><setting>  VINE JUNGLE - OUTPOST PERIMETER - YAVIN</setting>
 
 <sd>The general stands on a limb of a jungle tree, watching the advancing tanks.
 Starkiller is on another branch a few feet away.</sd>
@@ -5639,7 +5639,7 @@ pendulums.  The wedges fly through the air, neatly clipping off the antenna
 groupings protruding from the tops of the air tanks.</sd>
 
 </scene>
-<scene><setting scene="150">  INTERIOR - AIR TANK - VINE JUNGLE - YAVIN</setting>
+<scene n="150"><setting>  INTERIOR - AIR TANK - VINE JUNGLE - YAVIN</setting>
 
 <sd>Several of the lights and monitors go dark on the main control panel.  The
 pilot flips several switches in a panic.</sd>
@@ -5671,7 +5671,7 @@ Get out there and see if you can see anything.</sp>
 <sd>The pilot pushes a button and the main hatch slowly slides away.</sd>
 
 </scene>
-<scene><setting scene="151">  VINE JUNGLE - OUTPOST PERIMETER - YAVIN</setting>
+<scene n="151"><setting>  VINE JUNGLE - OUTPOST PERIMETER - YAVIN</setting>
 
 <sd>The pilot pops out of the hatch and sses two rows of Wookee warriors holding
 reflective shields.  They form a circle that totally encompasses the massive
@@ -5698,7 +5698,7 @@ That makes four captured.</sp>
 Have them camouflaged.  I'm going with Starkiller.</sp>
 
 </scene>
-<scene><setting scene="152">  INTERIOR - AIR-TANK - VINE JUNGLE - YAVIN</setting>
+<scene n="152"><setting>  INTERIOR - AIR-TANK - VINE JUNGLE - YAVIN</setting>
 
 <sd>Wookees are removing the tank crew as Starkiller checks out the power
 controls.  The general slides through the main hatch.</sd>
@@ -5719,14 +5719,14 @@ Then let's go...</sp>
 the hatch.</sd>
 
 </scene>
-<scene><setting scene="153">  VINE JUNGLE - OUTPOST PERIMETER - YAVIN</setting>
+<scene n="153"><setting>  VINE JUNGLE - OUTPOST PERIMETER - YAVIN</setting>
 
 <sd>The tank starts up with a loud roar, startling the many Wookees resting on the
 mighty vehicle.  Chewbacca yells at the warriors and they fall a few feet
 behind the tank, their shields forming a shiny protective wall.</sd>
 
 </scene>
-<scene><setting scene="154">  IMPERIAL OUTPOST - VINE JUNGLE - YAVIN</setting>
+<scene n="154"><setting>  IMPERIAL OUTPOST - VINE JUNGLE - YAVIN</setting>
 
 <sd>Several officers stand on a parked air-tank trying to get a better view of the
 operation.  A light landspeeder pulls up next to the group, and a general gets
@@ -5765,7 +5765,7 @@ as the Wookees begin to use captured laserrifles.  They are much fiercer
 fighters than the soft Imperial troops.</sd>
 
 </scene>
-<scene><setting scene="155">  INTERIOR - AIR-TANK - OUTPOST - YAVIN</setting>
+<scene n="155"><setting>  INTERIOR - AIR-TANK - OUTPOST - YAVIN</setting>
 
 <sd>Starkiller works the controls of the air-tank as the general watches the
 monitors, and works the laserguns.</sd>
@@ -5775,7 +5775,7 @@ monitors, and works the laserguns.</sd>
 Swing left.  They're trying to cut us off.</sp>
 
 </scene>
-<scene><setting scene="156">  STARSHIP RUNWAY - IMPERIAL OUTPOST - YAVIN</setting>
+<scene n="156"><setting>  STARSHIP RUNWAY - IMPERIAL OUTPOST - YAVIN</setting>
 
 <sd>Starkiller maneuvers the air-tank in front of a line of ten starships, cutting
 off a platoon of stormtroopers.  The troops open fire on the tank, but are cut
@@ -5800,7 +5800,7 @@ They've taken her back to Aquilae.  The ship left not more than ten hours ago.</
 Set up a perimeter around these starships...Use as many men as you need.</sp>
 
 </scene>
-<scene><setting scene="157">  STAFF OFFICE - IMPERIAL OUTPOST - YAVIN</setting>
+<scene n="157"><setting>  STAFF OFFICE - IMPERIAL OUTPOST - YAVIN</setting>
 
 <sd>Starkiller and the general sit at a large table in the deserted office of the
 Imperial Chief of Staff.  The room is in a state of disarray; papers are
@@ -5860,7 +5860,7 @@ May the force of others be with you.</sp>
 Bring her back safely.</sp>
 
 </scene>
-<scene><setting scene="158">  OUTPOST RUNWAY - STARSHIP - YAVIN</setting>
+<scene n="158"><setting>  OUTPOST RUNWAY - STARSHIP - YAVIN</setting>
 
 <sd>Starkiller, dressed as an Imperial skyraider, and Artwo climb aboard one of
 the giant four-man starships.  A crowd of Wookees, lead by Chewbacca, give a
@@ -5869,14 +5869,14 @@ waves to the joyous warriors.  The general watches the proceedings from a
 bunker turret.  He is lost in thought.</sd>
 
 </scene>
-<scene><setting scene="159">  SPACE FORTRESS - AQUILAE</setting>
+<scene n="159"><setting>  SPACE FORTRESS - AQUILAE</setting>
 
 <sd>Three Imperial space transports dock inside the huge artificial moon.  Two
 smaller convoy starships circle the larger craft until the three ships are
 safely inside the vast fortress.</sd>
 
 </scene>
-<scene><setting scene="160">  CONFERENCE ROOM - INTERIOR SPACE FORTRESS - AQUILAE</setting>
+<scene n="160"><setting>  CONFERENCE ROOM - INTERIOR SPACE FORTRESS - AQUILAE</setting>
 
 <sd>General Vader of the Imperial Space Fleet, hurries down a hallway, followed by
 a group of officers.  They enter the large conference room where Leia is held
@@ -5918,7 +5918,7 @@ Put all security stations on alert until they arrive.</sp>
 <sd>The officer salutes smartly, and exits.</sd>
 
 </scene>
-<scene><setting scene="161">  IMPERIAL OUTPOST - VINE JUNGLE - YAVIN</setting>
+<scene n="161"><setting>  IMPERIAL OUTPOST - VINE JUNGLE - YAVIN</setting>
 
 <sd>A huge air tank rumbles along the approach to the Imperial outpost.  The pilot
 sits on the main hatch of the tank, talking to his crew, by headphones.</sd>
@@ -5967,7 +5967,7 @@ buzzes the field, upsidedown.  All the Wookees run for cover.  The chief
 Wookee points to the crafts, and jabbers incessantly.</sd>
 
 </scene>
-<scene><setting scene="162">  INTERIOR - IMPERIAL STARSHIP - SKY OVER YAVIN</setting>
+<scene n="162"><setting>  INTERIOR - IMPERIAL STARSHIP - SKY OVER YAVIN</setting>
 
 <sd>Chewbacca sits at the controls of a four-man starship.  His face is a twisted
 combination of complete panic and an awesome religious experience.  The
@@ -6004,7 +6004,7 @@ Don't worry.  Ignorance is on their side.</sp>
 the ship.</sd>
 
 </scene>
-<scene><setting scene="163">  IMPERIAL SPACE FORTRESS - DOCKING AREA - AQUILAE</setting>
+<scene n="163"><setting>  IMPERIAL SPACE FORTRESS - DOCKING AREA - AQUILAE</setting>
 
 <sd>The canopy on the starship pops open, and Artwo and the young Jedi, disguised
 as a starraider, climb out onto the docking platform.  An officer and two
@@ -6057,7 +6057,7 @@ Station 325 is the highest security area on board.  It's a detention area.</sp>
 <sd>They disappear into a chamber lock hallway.</sd>
 
 </scene>
-<scene><setting scene="164">  ELEVATOR TUBE - SPACE FORTRESS - AQUILAE</setting>
+<scene n="164"><setting>  ELEVATOR TUBE - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>Starkiller, trying to look inconspicuous, waits for a horizontal elevator.
 Troops and fortress personnel come and go, but no-one seems to pay any
@@ -6065,7 +6065,7 @@ attention to the pair.  Finally a small car arrives, and Starkiller follows
 Artwo into the podlike vehicle, and it takes off through a vacuum tunnel.</sd>
 
 </scene>
-<scene><setting scene="165">  DETENTION AREA - SPACE FORTRESS - AQUILAE</setting>
+<scene n="165"><setting>  DETENTION AREA - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>Starkiller and Artwo enter a security station.  Guards and electronic cutters
 are everywhere.  An officer approaches Starkiller, and checks his papers.</sd>
@@ -6104,7 +6104,7 @@ then manages to pull out a small ring radio.</sd>
 Code six - Alert.</sp>
 
 </scene>
-<scene><setting scene="166">  STARSHIP RUNWAY - IMPERIAL OUTPOST - YAVIN</setting>
+<scene n="166"><setting>  STARSHIP RUNWAY - IMPERIAL OUTPOST - YAVIN</setting>
 
 <sd>Six Wookees sit before Han and the general, listening to Han explain something
 about space fighting.  Owen Lars approaches the general.</sd>
@@ -6128,7 +6128,7 @@ They're ready to go up.</sp>
 let out a loud cheer, and run for the row of starships.</sd>
 
 </scene>
-<scene><setting scene="167">  STARSHIP - SPACE - YAVIN</setting>
+<scene n="167"><setting>  STARSHIP - SPACE - YAVIN</setting>
 
 <sd>The general sits next to Chewbacca, as he leads two other Wookee piloted
 starships in a tight formation.  They head for a small cluster of asteroids
@@ -6141,7 +6141,7 @@ Chewbacca on the back.  The Wookees excitedly chatter among themselves over
 the intercom system.</sd>
 
 </scene>
-<scene><setting scene="168">  DETENTION AREA HALLWAY - SPACE FORTRESS - AQUILAE</setting>
+<scene n="168"><setting>  DETENTION AREA HALLWAY - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>A patrol of ten men marches through one of the long hallways in the detention
 area.  They stop at an intersection.  The officer in charge reports on the
@@ -6163,7 +6163,7 @@ Starkiller, dressed in the uniform of an Imperial startrooper.  He joins the
 platoon, and they march away.</sd>
 
 </scene>
-<scene><setting scene="169">  GENERAL'S QUARTERS - SPACE FORTRESS - AQUILAE</setting>
+<scene n="169"><setting>  GENERAL'S QUARTERS - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>General Vader and several officers watch the progress of the search on TV
 monitors.  The general speaks into an intercom.</sd>
@@ -6204,7 +6204,7 @@ Starkiller stripped.</sd>
 Get me the Captain of the Guard.</sp>
 
 </scene>
-<scene><setting scene="170">  DETENTION AREA - MAIN ENTRY - SPACE FORTRESS - AQUILAE</setting>
+<scene n="170"><setting>  DETENTION AREA - MAIN ENTRY - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>Three squads of troops including Starkiller, stand at attention in the main
 entrance to the detention center, while the Captain of the Guard gets new
@@ -6235,7 +6235,7 @@ attempt to pry open the door, gas fills the sealed corridor.  Starkiller
 collapses in a heap on the floor.</sd>
 
 </scene>
-<scene><setting scene="171">  GENERAL'S QUARTERS - SPACE FORTRESS - AQUILAE</setting>
+<scene n="171"><setting>  GENERAL'S QUARTERS - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>Vader laughs as he watches the unconscious Starkiller on the TV monitors.  All
 of the other officers in the room are [something whited out] laughing and
@@ -6248,7 +6248,7 @@ Take him to the special section.</sp>
 <sd>Valorum salutes, and exits the offices.  Vader laughs again.</sd>
 
 </scene>
-<scene><setting scene="172">  STARSHIP RUNWAY - IMPERIAL OUTPOST - YAVIN</setting>
+<scene n="172"><setting>  STARSHIP RUNWAY - IMPERIAL OUTPOST - YAVIN</setting>
 
 <sd>Nine gleaming starships sit in a row along the edge of the vast jungle runway.</sd>
 
@@ -6285,7 +6285,7 @@ how we intercepted those doctors...</sp>
 Get them in the ships... We're on our way.  (to Datos)  Send the code signal.</sp>
 
 </scene>
-<scene><setting scene="173">  DETENTION CELL - SPACE FORTRESS - AQUILAE</setting>
+<scene n="173"><setting>  DETENTION CELL - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>General Vader and Valorum watch as a medic revives Starkiller, who has been
 strapped to an upright slab, protected by cutter-rays.</sd>
@@ -6316,7 +6316,7 @@ have stayed away?</sp>
 <sd>He storms out of the cell.  Starkiller struggles to free himself.</sd>
 
 </scene>
-<scene><setting scene="174">  SLUM DWELLING - GORDON SPACEPORT - AQUILAE</setting>
+<scene n="174"><setting>  SLUM DWELLING - GORDON SPACEPORT - AQUILAE</setting>
 
 <sd>The young partisan, Occo, listens to a small transmitter in a secret closet
 behind the main room in a slum dwelling.  He jumps up and runs into the main
@@ -6345,7 +6345,7 @@ May the force of others be with you.</sp>
 <sd>The men solemnly shake hands and leave the room.</sd>
 
 </scene>
-<scene><setting scene="175">  GOVERNOR'S OFFICE - SPACE FORTRESS - AQUILAE</setting>
+<scene n="175"><setting>  GOVERNOR'S OFFICE - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>Starkiller stands on a small platform before Governor Hoedaack and the High
 Consul.  His hands are held behind his back by electric bonds.</sd>
@@ -6361,7 +6361,7 @@ away.  Vader and the governor seem very pleased with themselves.  Valorum
 looks back in disgust.</sd>
 
 </scene>
-<scene><setting scene="176">  CONTROL CENTER - SPACE FORTRESS - AQUILAE</setting>
+<scene n="176"><setting>  CONTROL CENTER - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>In the large central control room, two officers sit above a row of monitors
 and giant read-outs.</sd>
@@ -6372,7 +6372,7 @@ Look!  That whole sector just went dead.  We're losing contact with the
 surface.  Use the IF link and find out what's going on.</sp>
 
 </scene>
-<scene><setting scene="177">  DOCKING AREA - SPACE FORTRESS - AQUILAE</setting>
+<scene n="177"><setting>  DOCKING AREA - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>Valorum halts the squad guarding Starkiller on an observation deck overlooking
 a starship docking port.  Valorum reports to the officer in charge.</sd>
@@ -6422,7 +6422,7 @@ area.  Valorum rushes and catches up.  An alarm signal wails through the
 hallways.</sd>
 
 </scene>
-<scene><setting scene="178">  WOOKEE STARSHIPS - SPACE</setting>
+<scene n="178"><setting>  WOOKEE STARSHIPS - SPACE</setting>
 
 <sd>The general leads three squads, of three starships each toward the glowing
 planet of Aquilae.</sd>
@@ -6432,7 +6432,7 @@ planet of Aquilae.</sd>
 There she is.  Activate your deflection shields.</sp>
 
 </scene>
-<scene><setting scene="179">  DETENTION AREA - SPACE FORTRESS - AQUILAE</setting>
+<scene n="179"><setting>  DETENTION AREA - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>Valorum talks with the Captain of the Guard.  He gestures wildly, like
 something important had happened.  Four troops run into the central detention
@@ -6441,7 +6441,7 @@ Valorum, and the Sith knight, followed by the four troops and Leia, leave the
 main area.</sd>
 
 </scene>
-<scene><setting scene="180">  DETENTION HALLWAY - SPACE FORTRESS - AQUILAE</setting>
+<scene n="180"><setting>  DETENTION HALLWAY - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>Starkiller appears boldly at the end of the hallway, facing Valorum and the
 troops.</sd>
@@ -6470,7 +6470,7 @@ Is this pressurized?</sp>
 follow.</sd>
 
 </scene>
-<scene><setting scene="181">  GARBAGE CHUTE - SPACE FORTRESS - AQUILAE</setting>
+<scene n="181"><setting>  GARBAGE CHUTE - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>The trio slides through a series of chutes, until they end up in a large room
 full of garbage.  Starkiller spots a doorway and struggles to get it open.</sd>
@@ -6483,7 +6483,7 @@ power off...</sp>
 <sd>They search the smooth-walled room for another exit.</sd>
 
 </scene>
-<scene><setting scene="182">  GOVERNOR'S QUARTERS - SPACE FORTRESS - AQUILAE</setting>
+<scene n="182"><setting>  GOVERNOR'S QUARTERS - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>Governor Hoedaack watches General Vader as he supervises the hunt for
 Starkiller and Valorum.  They watch troops move through the detention area via
@@ -6534,7 +6534,7 @@ You should have them on your screen.</sp>
 <sd>Alarms sound throughout the fortress.  Lights flash a warning.</sd>
 
 </scene>
-<scene><setting scene="182">  [SECOND 182] GARBAGE RECEPTACLE - SPACE FORTRESS - AQUILAE</setting>
+<scene n="182.2"><setting>  [SECOND 182] GARBAGE RECEPTACLE - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>A floodlight switches on, revealing Valorum and Starkiller attempting to cut
 open the door.  The princess stands up and stares into the floodlight.
@@ -6551,7 +6551,7 @@ loud shriek, the princess points to the far wall; which starts to move toward
 the trio.  The situation looks desperate.</sd>
 
 </scene>
-<scene><setting scene="183">  SPACE - WOOKEE STARSHIPS - AQUILAE</setting>
+<scene n="183"><setting>  SPACE - WOOKEE STARSHIPS - AQUILAE</setting>
 
 <sd>Laserfire from the space fortress creates a wall of death, which the three
 squadrons of Wookee starships miraculously emerge through undamaged.  The
@@ -6566,7 +6566,7 @@ is set off, creating a series of explosions leaping across the surface of the
 fortress from power terminal to power terminal.</sd>
 
 </scene>
-<scene><setting scene="184">  GARBAGE RECEPTACLE - SPACE FORTRESS - AQUILAE</setting>
+<scene n="184"><setting>  GARBAGE RECEPTACLE - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>The shock of the explosion can be felt over the rumbling of the trash masher.
 The wall has moved within a few yards of squashing Valorum, Starkiller and the
@@ -6582,14 +6582,14 @@ They must have knocked the power out.</sp>
 be death trap.</sd>
 
 </scene>
-<scene><setting scene="185">  SPACE - WOOKEE STARSHIPS - AQUILAE</setting>
+<scene n="185"><setting>  SPACE - WOOKEE STARSHIPS - AQUILAE</setting>
 
 <sd>One of the Wookee starships is caught in a crossfire and disappears in a cloud
 of smoke.  Another ship for some unknown reason dives headlong into the
 surface of the fortress, creating a huge explosion.</sd>
 
 </scene>
-<scene><setting scene="186">  MAIN HALLWAY - SPACE FORTRESS - AQUILAE</setting>
+<scene n="186"><setting>  MAIN HALLWAY - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>Starkiller, Valorum, and the princess are thrown to a hallway floor by the
 explosion.  They get up and start down the hallway again.  A voice calls out
@@ -6619,7 +6619,7 @@ one wall, sucking debris into space.  Everyone holds on to wall fixtures for
 dear life.</sd>
 
 </scene>
-<scene><setting scene="187">  GOVERNOR'S QUARTERS - SPACE FORTRESS - AQUILAE</setting>
+<scene n="187"><setting>  GOVERNOR'S QUARTERS - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>Aides and officers rush through the office, as Vader tries to keep things
 under control.  Governor Hoedaack remains calm, watching the progress of the
@@ -6647,7 +6647,7 @@ Continue the fight...This fortress is invincible.  I will not give up.</sp>
 <sd>A giant explosion sweeps through the office.</sd>
 
 </scene>
-<scene><setting scene="188">  SPACE - WOOKEE STARSHIPS</setting>
+<scene n="188"><setting>  SPACE - WOOKEE STARSHIPS</setting>
 
 <sd>The tiny starships race the chain reaction explosions across the surface of
 the fortress.  Laserfire is everywhere.  one of the starships skimming across
@@ -6662,7 +6662,7 @@ Gordon... Get them out.</sp>
 crippled fortress.</sd>
 
 </scene>
-<scene><setting scene="189">  MAIN HALLWAY - SPACE FORTRESS - AQUILAE</setting>
+<scene n="189"><setting>  MAIN HALLWAY - SPACE FORTRESS - AQUILAE</setting>
 
 <sd>The group has made its way past the hole in the wall and is climbing into the
 lifepods.  Starkiller helps the princess into one, while Valorum and Artwo get
@@ -6672,7 +6672,7 @@ stopping the oncoming troops.  Hatches are closed, and the lifepods eject into
 space.</sd>
 
 </scene>
-<scene><setting scene="190">  LIFEPODS - SPACE - YAVIN ORBIT</setting>
+<scene n="190"><setting>  LIFEPODS - SPACE - YAVIN ORBIT</setting>
 
 <sd>The two lifepods drift toward the calm of the planet's surface.  Starkiller
 and the princess embrace, and he kisses her tenderly.  They watch the ominous
@@ -6682,7 +6682,7 @@ explosions follow, then there is only a smoke cloud where the mighty fortress
 once orbited Aquilae.</sd>
 
 </scene>
-<scene><setting scene="191">  THRONE ROOM - PALACE OF LITE - AQUILAE</setting>
+<scene n="191"><setting>  THRONE ROOM - PALACE OF LITE - AQUILAE</setting>
 
 <sd>Queen Leia, in all her grandeur, sits on the magnificent throne of Aquilae.
 Starkiller and the general stand to her right.  Several old advisors stand to
