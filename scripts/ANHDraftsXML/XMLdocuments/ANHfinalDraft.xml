@@ -1,12 +1,10 @@
-<xml>							STAR WARS
-							Episode IV
-							A NEW HOPE
-							 From the
-					 JOURNAL OF THE WHILLS
-							 By
-						 George Lucas
-						Revised Fourth Draft
-						  January 15, 1976
+<xml>
+	<metadata>
+		<title>STAR WARS Episode IV A NEW HOPE </title>
+		<author>From the JOURNAL OF THE WHILLS By George Lucas</author>
+		<draft>Revised Fourth Draft</draft>
+		<date>January 15, 1976</date>
+	</metadata>
 						LUCASFILM LTD.
 					 ----------------------
 A long time ago, in a galaxy far, far, away...
@@ -7532,5 +7530,5 @@ will help, I'll gladly donate them.
 							 FADE OUT</scene>
 					 END CREDITS OVER STARS
 							 THE END
-					-----------------------
+
 </xml>						
