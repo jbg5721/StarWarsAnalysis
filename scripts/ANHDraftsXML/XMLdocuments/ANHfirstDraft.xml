@@ -1,3 +1,4 @@
+<?xml-model href="anewschema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <metadata>
 	<title>THE STAR WARS</title>

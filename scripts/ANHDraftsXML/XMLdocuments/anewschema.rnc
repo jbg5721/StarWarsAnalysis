@@ -1,0 +1,18 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = xml 
+xml = element xml {metadata , body}
+
+metadata = element metadata {title , author , draft , date}
+title = element title {text}
+author = element author {text}
+draft = element draft {text}
+date = element date {text}
+
+body = element body {sd , scene +}
+sp = element sp {speaker , text}
+speaker = element speaker {text}
+setting = element setting {text}
+scene = element scene {n , setting , (sd|sp)+}
+n = attribute n {xsd:int}
+sd = element sd {text}
