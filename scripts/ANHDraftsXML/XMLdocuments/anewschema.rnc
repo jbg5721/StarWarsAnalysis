@@ -9,7 +9,7 @@ author = element author {text}
 draft = element draft {text}
 date = element date {text}
 
-body = element body {scene, sd +}
+body = element body {scene +}
 sp = element sp {speaker , text}
 speaker = element speaker {text}
 setting = element setting {text}
