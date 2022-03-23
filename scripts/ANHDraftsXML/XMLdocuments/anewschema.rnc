@@ -14,5 +14,5 @@ sp = element sp {speaker , text}
 speaker = element speaker {text}
 setting = element setting {text}
 scene = element scene {n , setting , (sd|sp)+}
-n = attribute n {xsd:int}
+n = attribute n {xsd:float}
 sd = element sd {text}

@@ -4,6 +4,7 @@ STAR WARS
 
 "A long time ago, in a galaxy far, far
 away..."
+
 A vast sea of stars serves as the backdrop for the main
 title.  War drums echo through the heavens as a rollup
 slowly crawls into infinity.
@@ -21,6 +22,7 @@ Princess Leia races home aboard her
 starship, custodian of the stolen plans
 that can save her people and restore
 freedom to the galaxy..."
+
 The awesome yellow planet of Tatooine emerges from a total
 eclipse, her two moons glowing against the darkness.  A
 tiny silver spacecraft, a Rebel Blockade Runner firing
@@ -29,6 +31,7 @@ is pursed by a giant Imperial Star Destroyer.  Hundreds of
 deadly laserbolts streak from the Imperial Star Destroyer,
 causing the main solar fin of the Rebel craft to
 disintegrate.
+
 INT. REBEL BLOCKADE RUNNER - MAIN PASSAGEWAY
 An explosion rocks the ship as two robots, Artoo-Detoo
 (R2-D2) and See-Threepio (C-3PO) struggle to make their way
