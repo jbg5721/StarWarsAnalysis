@@ -7,9 +7,11 @@
       <draft>Revised Fourth Draft</draft>
       <date>January 15, 1976</date>
    </metadata>
-						LUCASFILM LTD.
-					 ----------------------
-A long time ago, in a galaxy far, far, away...
+      
+      <body>
+            
+<scene n="0"><setting>SPACE</setting>
+      <sd>A long time ago, in a galaxy far, far, away...
 	A vast sea of stars serves as the backdrop for the main
 	title. War drums echo through the heavens as a rollup 
 	slowly crawls into infinity.
@@ -28,7 +30,7 @@ people and restore freedom to the galaxy...
 	the back of the ship, races through space. It is pursed by a
 	giant Imperial Stardestroyer. Hundreds of deadly laserbolts
 	streak from the Imperial Stardestroyer, causing the main solar
-	fin of the Rebel craft to disintegrate.
+	fin of the Rebel craft to disintegrate.</sd></scene>
 
 
 
@@ -6946,5 +6948,6 @@ will help, I'll gladly donate them.
 							 FADE OUT</scene>
 					 END CREDITS OVER STARS
 							 THE END
+
 
 </xml>

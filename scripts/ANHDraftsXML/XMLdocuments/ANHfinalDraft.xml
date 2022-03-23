@@ -1,4 +1,3 @@
-<?xml-model href="anewschema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 	<metadata>
 		<title>STAR WARS Episode IV A NEW HOPE </title>
@@ -6,8 +5,7 @@
 		<draft>Revised Fourth Draft</draft>
 		<date>January 15, 1976</date>
 	</metadata>
-						LUCASFILM LTD.
-					 ----------------------
+						
 A long time ago, in a galaxy far, far, away...
 	A vast sea of stars serves as the backdrop for the main
 	title. War drums echo through the heavens as a rollup 
@@ -30,9 +28,9 @@ people and restore freedom to the galaxy...
 	fin of the Rebel craft to disintegrate.
 
 
-
-<scene><sd>INTERIOR: REBEL BLOCKADE RUNNER -- MAIN PASSAGEWAY.
-	An explosion rocks the ship as two robots, Artoo-Detoo (R2-D2)
+<body>
+<scene><setting>INTERIOR: REBEL BLOCKADE RUNNER -- MAIN PASSAGEWAY.</setting>
+<sd>	An explosion rocks the ship as two robots, Artoo-Detoo (R2-D2)
 	and See-Threepio (C-3PO) struggle to make their way through the
 	shaking, bouncing passageway. Both robots are old and battered. 
 	Artoo is a short, claw-armed tripod. His face is a mass of
@@ -65,15 +63,15 @@ be destroyed for sure. This is madness!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACECRAFT IN SPACE.
-	The Imperial craft has easily overtaken the Rebel Blockade
+<scene><setting>EXTERIOR: SPACECRAFT IN SPACE.</setting>
+<sd>	The Imperial craft has easily overtaken the Rebel Blockade
 	Runner. The smaller Rebel ship is being drawn into the
 	underside dock of the giant Imperial starship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: REBEL BLOCKADE RUNNER.
-	The nervous Rebel troopers aim their weapons. Suddenly a
+<scene><setting>INTERIOR: REBEL BLOCKADE RUNNER.</setting>
+<sd>	The nervous Rebel troopers aim their weapons. Suddenly a
 	tremendous blast opens up a hole in the main passageway and a
 	score of fearsome armored spacesuited stormtroopers make their
 	way into the smoke-filled corridor.
@@ -93,8 +91,8 @@ half-sized thermocapsulary dehousing assister...
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- DESERT WASTELAND -- DAY.
-	A death-white wasteland stretches from horizon to horizon. The
+<scene><setting>EXTERIOR: TATOOINE -- DESERT WASTELAND -- DAY.</setting>
+<sd>	A death-white wasteland stretches from horizon to horizon. The
 	tremendous heat of two huge twin suns settle on a lone figure,
 	Luke Skywalker, a farm boy with heroic aspirations who looks
 	much younger than his eighteen years. His shaggy hair and
@@ -122,8 +120,8 @@ half-sized thermocapsulary dehousing assister...
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: REBEL BLOCKADE RUNNER -- MAIN HALLWAY.
-	The awesome, seven-foot-tall Dark Lord of the Sith makes his
+<scene><setting>INTERIOR: REBEL BLOCKADE RUNNER -- MAIN HALLWAY.</setting>
+<sd>	The awesome, seven-foot-tall Dark Lord of the Sith makes his
 	way into the blinding light of the main passageway. This is
 	Darth Vader, right hand of the Emperor. His face is obscured
 	by his flowing black robes and grotesque breath mask, which
@@ -135,14 +133,14 @@ half-sized thermocapsulary dehousing assister...
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: REBEL BLOCKADE RUNNER.
-	A woman's hand puts a card into an opening in Artoo's dome.
+<scene><setting>INTERIOR: REBEL BLOCKADE RUNNER.</setting>
+<sd>	A woman's hand puts a card into an opening in Artoo's dome.
 	Artoo makes beeping sounds.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: REBEL BLOCKADE RUNNER.
-	Threepio stands in a hallway, somewhat bewildered. Artoo is
+<scene><setting>INTERIOR: REBEL BLOCKADE RUNNER.</setting>
+<sd>	Threepio stands in a hallway, somewhat bewildered. Artoo is
 	nowhere in sight. The pitiful screams of the doomed Rebel
 	soldiers can be heard in the distance.
 </sd>
@@ -173,8 +171,8 @@ what!
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: REBEL BLOCKADE RUNNER -- CORRIDOR
-	The evil Darth Vader stands amid the broken and twisted bodies
+<scene><setting>INTERIOR: REBEL BLOCKADE RUNNER -- CORRIDOR</setting>
+<sd>	The evil Darth Vader stands amid the broken and twisted bodies
 	of his foes. He grabs a wounded Rebel Officer by the neck as
 	an Imperial Officer rushes up to the Dark Lord.
 </sd>
@@ -209,8 +207,8 @@ and bring me the Ambassador. I want her alive!
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: REBEL BLOCKADE RUNNER -- SUBHALLWAY.
-	The lovely young girl huddles in a small alcove as the
+<scene><setting>INTERIOR: REBEL BLOCKADE RUNNER -- SUBHALLWAY.</setting>
+<sd>	The lovely young girl huddles in a small alcove as the
 	stormtroopers search through the ship. She is Princess Leia
 	Organa, a member of the Alderaan Senate. The fear in her eyes
 	slowly gives way to anger as the muted crushing sounds of the
@@ -228,8 +226,8 @@ and bring me the Ambassador. I want her alive!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: REBEL BLOCKADE RUNNER -- SUBHALLWAY.
-	Artoo stops before the small hatch of an emergency lifepod. He
+<scene><setting>INTERIOR: REBEL BLOCKADE RUNNER -- SUBHALLWAY.</setting>
+<sd>	Artoo stops before the small hatch of an emergency lifepod. He
 	snaps the seal on the main latch and a red warning light
 	begins to flash. The stubby astro-robot works his way into the
 	cramped four-man pod.
@@ -260,8 +258,8 @@ not getting in there!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: IMPERIAL STARDESTROYER.
-	On the main viewscreen, the lifepod carrying the two terrified
+<scene><setting>INTERIOR: IMPERIAL STARDESTROYER.</setting>
+<sd>	On the main viewscreen, the lifepod carrying the two terrified
 	robots speeds away from the stricken Rebel spacecraft.
 </sd>
 
@@ -273,8 +271,8 @@ short-circuited.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LIFEPOD.
-	Artoo and Threepio look out at the receding Imperial starship.
+<scene><setting>INTERIOR: LIFEPOD.</setting>
+<sd>	Artoo and Threepio look out at the receding Imperial starship.
 	Stars circle as the pod rotates through the galaxy.
 </sd>
 
@@ -286,8 +284,8 @@ short-circuited.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- ANCHORHEAD SETTLEMENT -- POWER STATION -- DAY.
-	Heat waves radiate from the dozen or so bleached white
+<scene><setting>EXTERIOR: TATOOINE -- ANCHORHEAD SETTLEMENT -- POWER STATION -- DAY.</setting>
+<sd>	Heat waves radiate from the dozen or so bleached white
 	buildings. Luke pilots his Landspeeder through the dusty empty
 	street of the tiny settlement. An old woman runs to get out of
 	the way of the speeding vehicle, shaking her fist at Luke as
@@ -298,8 +296,8 @@ short-circuited.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: POWER STATION -- DAY.
-	Luke bursts into the power station, waking The Fixer, a rugged
+<scene><setting>INTERIOR: POWER STATION -- DAY.</setting>
+<sd>	Luke bursts into the power station, waking The Fixer, a rugged
 	mechanic and Camie, a sexy, disheveled girl who has been
 	asleep in his lap. They grumbled as he races through the
 	office, yelling wildly.
@@ -350,8 +348,8 @@ system. Come and look!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- ANCHORHEAD -- SETTLEMENT -- POWER STATION -- DAY.
-	The group stumbles out into the stifling desert sun. Camie and
+<scene><setting>EXTERIOR: TATOOINE -- ANCHORHEAD -- SETTLEMENT -- POWER STATION -- DAY.</setting>
+<sd>	The group stumbles out into the stifling desert sun. Camie and
 	The Fixer complain and are forced to shade their eyes. Luke
 	has his binoculars out scanning the heavens.
 </sd>
@@ -388,8 +386,8 @@ Luke, this planet is a big hunk of nothing...
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: REBEL BLOCKADE RUNNER -- HALLWAY
-	Princess Leia is led down a low-ceilinged hallway by a squad
+<scene><setting>INTERIOR: REBEL BLOCKADE RUNNER -- HALLWAY</setting>
+<sd>	Princess Leia is led down a low-ceilinged hallway by a squad
 	of armored stormtroopers. Her hands are bound and she is
 	brutally shoved when she is unable to keep up with the briskly
 	marching troops. They stop in a smoky hallway as Darth Vader
@@ -451,14 +449,14 @@ There'll be no one to stop us this time.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	The Imperial Stardestroyer comes over the surface of the
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	The Imperial Stardestroyer comes over the surface of the
 	planet Tatooine.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- DESERT.
-	Jundland, or "No Man's Land", where the rugged desert mesas
+<scene><setting>EXTERIOR: TATOOINE -- DESERT.</setting>
+<sd>	Jundland, or "No Man's Land", where the rugged desert mesas
 	meet the foreboding dune sea. The two helpless astro-droids
 	kick up clouds of sand as they leave the lifepod and clumsily
 	work their way across the desert wasteland. The lifepod in the
@@ -518,8 +516,8 @@ because you won't get it.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- DUNE SEA.
-	Threepio, hot and tired, struggles up over the ridge of a dune;
+<scene><setting>EXTERIOR: TATOOINE -- DUNE SEA.</setting>
+<sd>	Threepio, hot and tired, struggles up over the ridge of a dune;
 	only to find more dunes, which seem to go on for endless
 	miles.  He looks back in the direction of the now distant rock
 	mesas. 
@@ -542,8 +540,8 @@ tricked me into going this way, but he'll do no better.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- ANCHORHEAD SETTLEMENT -- POWER STATION -- DAY.
-	Luke and Biggs are walking and drinking a malt brew. Fixer and
+<scene><setting>EXTERIOR: TATOOINE -- ANCHORHEAD SETTLEMENT -- POWER STATION -- DAY.</setting>
+<sd>	Luke and Biggs are walking and drinking a malt brew. Fixer and
 	the others can be heard working inside.
 </sd>
 
@@ -672,8 +670,8 @@ care of yourself, you'll always be the best friend I've got.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- ROCK CANYON -- SUNSET.
-	The gargantuan rock formations are shrouded in a strange
+<scene><setting>EXTERIOR: TATOOINE -- ROCK CANYON -- SUNSET.</setting>
+<sd>	The gargantuan rock formations are shrouded in a strange
 	foreboding mist and the onimous sounds of unearthly creatures
 	fill the air. Artoo moves cautiously through the creepy rock
 	canyon, inadvertently making a loud clicking noise as he goes.
@@ -699,8 +697,8 @@ care of yourself, you'll always be the best friend I've got.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- ROCK CANYON -- SANDCRAWLER -- SUNSET.
-	The eight Jawas carry Artoo out of the canyon to a huge
+<scene><setting>EXTERIOR: TATOOINE -- ROCK CANYON -- SANDCRAWLER -- SUNSET.</setting>
+<sd>	The eight Jawas carry Artoo out of the canyon to a huge
 	tank-like vehicle the size of a four-story house. They weld a
 	small disk on the side of Artoo and then put him under a large
 	tube on the side of the vehicle and the little robot is sucked
@@ -710,8 +708,8 @@ care of yourself, you'll always be the best friend I've got.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: SANDCRAWLER -- HOLD AREA.
-	It is dim inside the hold area of the Sandcrawler. Artoo
+<scene><setting>INTERIOR: SANDCRAWLER -- HOLD AREA.</setting>
+<sd>	It is dim inside the hold area of the Sandcrawler. Artoo
 	switches on a small floodlight on his forehead and stumbles
 	around the scrap heap. The narrow beam swings across rusty
 	metal rocket parts and an array of grotesquely twisted and
@@ -721,8 +719,8 @@ care of yourself, you'll always be the best friend I've got.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: SANDCRAWLER -- PRISON AREA.
-	Artoo enters a wide room with a four-foot ceiling. In the
+<scene><setting>INTERIOR: SANDCRAWLER -- PRISON AREA.</setting>
+<sd>	Artoo enters a wide room with a four-foot ceiling. In the
 	middle of the scrap heap sit a dozen or so robots of various
 	shapes and sizes. Some are engaged in electronic conversation,
 	while others simply mill about. A voice of recognition calls
@@ -734,15 +732,15 @@ care of yourself, you'll always be the best friend I've got.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- ROCK CANYON -- SANDCRAWLER -- SUNSET.
-	The enormous Sandcrawler lumbers off toward the magnificent
+<scene><setting>EXTERIOR: TATOOINE -- ROCK CANYON -- SANDCRAWLER -- SUNSET.</setting>
+<sd>	The enormous Sandcrawler lumbers off toward the magnificent
 	twin suns, which are slowly setting over a distant mountain
 	ridge.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- DESERT -- DAY.
-	Four Imperial stormtroopers mill about in front of the half-
+<scene><setting>EXTERIOR: TATOOINE -- DESERT -- DAY.</setting>
+<sd>	Four Imperial stormtroopers mill about in front of the half-
 	buried lifepod that brought Artoo and Threepio to Tatooine. A
 	trooper yells to an officer some distance away.
 </sd>
@@ -757,13 +755,13 @@ direction.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- DUNES.
-	The Sandcrawler moves slowly down a great sand dune.
+<scene><setting>EXTERIOR: TATOOINE -- DUNES.</setting>
+<sd>	The Sandcrawler moves slowly down a great sand dune.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: SANDCRAWLER.
-	Threepio and Artoo noisily bounce along inside the cramped
+<scene><setting>INTERIOR: SANDCRAWLER.</setting>
+<sd>	Threepio and Artoo noisily bounce along inside the cramped
 	prison chamber. Artoo appears to be shut off.
 </sd>
 
@@ -789,8 +787,8 @@ direction.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- DESERT -- LARS HOMESTEAD -- AFTERNOON.
-	The Jawas mutter gibberish as they busily line up their
+<scene><setting>EXTERIOR: TATOOINE -- DESERT -- LARS HOMESTEAD -- AFTERNOON.</setting>
+<sd>	The Jawas mutter gibberish as they busily line up their
 	battered captives, including Artoo and Threepio, in front of
 	the enormous Sandcrawler, which is parked beside a small
 	homestead consisting of three large holes in the ground
@@ -927,8 +925,8 @@ neck out for you is quite beyond my capacity!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LARS HOMESTEAD -- GARAGE AREA -- LATE AFTERNOON.
-	The garage is cluttered and worn, but a friendly peaceful
+<scene><setting>INTERIOR: LARS HOMESTEAD -- GARAGE AREA -- LATE AFTERNOON.</setting>
+<sd>	The garage is cluttered and worn, but a friendly peaceful
 	atmosphere permeates the low grey chamber. Threepio lowers
 	himself into a large tub filled with warm oil. Near the
 	battered Landspeeder little Artoo rests on a large battery
@@ -1155,8 +1153,8 @@ flutter.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LARS HOMESTEAD -- DINING AREA.
-	 Luke's Aunt Beru, a warm, motherly woman, fills a pitcher
+<scene><setting>INTERIOR: LARS HOMESTEAD -- DINING AREA.</setting>
+<sd>	 Luke's Aunt Beru, a warm, motherly woman, fills a pitcher
 	with blue fluid from a refrigerated container in the well-used
 	kitchen. She puts the pitcher on a tray with some bowls of
 	food and starts for the dining area.
@@ -1260,16 +1258,16 @@ father in him.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- LARS HOMESTEAD.
-	The giant twin suns of Tatooine slowly disappear behind a
+<scene><setting>EXTERIOR: TATOOINE -- LARS HOMESTEAD.</setting>
+<sd>	The giant twin suns of Tatooine slowly disappear behind a
 	distant dune range. Luke stands watching them for a few
 	moments, then reluctantly enters the doomed entrance to the
 	homestead.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LARS HOMESTEAD -- GARAGE.
-		 Luke enters the garage to discover the robots nowhere in
+<scene><setting>INTERIOR: LARS HOMESTEAD -- GARAGE.</setting>
+<sd>		 Luke enters the garage to discover the robots nowhere in
 	sight. He takes a small control box from his utility belt
 	similar to the one the Jawas were carrying. He activates the
 	box, which creates a low hum, and Threepio, letting out a
@@ -1291,8 +1289,8 @@ his mission.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- LARS HOMESTEAD.
-	Luke rushes out of the small doomed entry to the homestead and
+<scene><setting>EXTERIOR: TATOOINE -- LARS HOMESTEAD.</setting>
+<sd>	Luke rushes out of the small doomed entry to the homestead and
 	searches the darkening horizon for the small triped astro-
 	robot. Threepio struggles out of the homestead and on the salt
 	flat as Luke scans the landscape with his electrobinoculars.
@@ -1329,8 +1327,8 @@ trouble.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LARS HOMESTEAD -- PLAZA.
-	Morning slowly creeps into the sparse but sparkling oasis of
+<scene><setting>INTERIOR: LARS HOMESTEAD -- PLAZA.</setting>
+<sd>	Morning slowly creeps into the sparse but sparkling oasis of
 	the open courtyard. The idyll is broken be the yelling of
 	Uncle Owen, his voice echoing throughout the homestead.
 </sd>
@@ -1339,8 +1337,8 @@ trouble.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LARS HOMESTEAD -- KITCHEN.
-	The interior of the kitchen is a worm glow as Aunt Beru prepares
+<scene><setting>INTERIOR: LARS HOMESTEAD -- KITCHEN.</setting>
+<sd>	The interior of the kitchen is a worm glow as Aunt Beru prepares
 	the morning breakfast. Owen enters in a huff.
 </sd>
 
@@ -1362,8 +1360,8 @@ be midday or there'll be hell to pay!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- DESERT WASTELAND -- LUKE'S SPEEDER -- DAY.
-	The rock and sand of the desert floor are a blur as Threepio
+<scene><setting>EXTERIOR: TATOOINE -- DESERT WASTELAND -- LUKE'S SPEEDER -- DAY.</setting>
+<sd>	The rock and sand of the desert floor are a blur as Threepio
 	pilots the sleek Landspeeder gracefully across the vast
 	wasteland. 
 </sd>
@@ -1399,8 +1397,8 @@ our droid...hit the accelerator.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- ROCK MESA -- DUNE SEA -- COASTLINE -- DAY.
-	From high on a rock mesa, the tiny Landspeeder can be seen
+<scene><setting>EXTERIOR: TATOOINE -- ROCK MESA -- DUNE SEA -- COASTLINE -- DAY.</setting>
+<sd>	From high on a rock mesa, the tiny Landspeeder can be seen
 	gliding across the desert floor. Suddenly in the foreground
 	two weather-beaten Sandpeople shrouded in their grimy desert
 	cloaks peer over the edge of the rock mesa. One of the
@@ -1414,8 +1412,8 @@ our droid...hit the accelerator.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- ROCK MESA -- CANYON.
-	The Tusken Raider approaches two large Banthas standing tied
+<scene><setting>EXTERIOR: TATOOINE -- ROCK MESA -- CANYON.</setting>
+<sd>	The Tusken Raider approaches two large Banthas standing tied
 	to a rock. The monstrous, bear-like creatures are as large as
 	elephants, with huge red eyes, tremendous looped horns, and
 	long, furry, dinosaur-like tails. The Tusken Raiders mount
@@ -1424,8 +1422,8 @@ our droid...hit the accelerator.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- ROCK CANYON -- FLOOR.
-	The speeder is parked on the floor of a massive canyon. Luke,
+<scene><setting>EXTERIOR: TATOOINE -- ROCK CANYON -- FLOOR.</setting>
+<sd>	The speeder is parked on the floor of a massive canyon. Luke,
 	with his long laser rifle slung over his shoulder, stands
 	before little Artoo.
 </sd>
@@ -1467,8 +1465,8 @@ from the southeast.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- ROCK CANYON -- RIDGE -- DAY.
-	Luke carefully makes his way to the top of a rock ridge and
+<scene><setting>EXTERIOR: TATOOINE -- ROCK CANYON -- RIDGE -- DAY.</setting>
+<sd>	Luke carefully makes his way to the top of a rock ridge and
 	scans the canyon with his electrobinoculars. He spots the two
 	riderless Banthas. Threepio struggles up behind the young
 	adventurer.
@@ -1494,8 +1492,8 @@ second, they're Sandpeople all right. I can see one of them now.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- ROCK CANYON -- FLOOR -- DAY.
-	Artoo forces himself into the shadows of a small alcove in the
+<scene><setting>EXTERIOR: TATOOINE -- ROCK CANYON -- FLOOR -- DAY.</setting>
+<sd>	Artoo forces himself into the shadows of a small alcove in the
 	rocks as the vicious Sandpeople walk past carrying the inert
 	Luke Skywalker, who is dropped in a heap before the speeder.
 	The Sandpeople ransack the speeder, throwing parts and
@@ -1579,8 +1577,8 @@ but they will soon be back and in greater numbers.</sp>
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- SAND PIT -- ROCK MESA -- DAY.
-	Little Artoo stands at the edge of a large sand pit and begins
+<scene><setting>EXTERIOR: TATOOINE -- SAND PIT -- ROCK MESA -- DAY.</setting>
+<sd>	Little Artoo stands at the edge of a large sand pit and begins
 	to chatter away in electronic whistles and beeps. Luke and Ben
 	stand over a very dented and tangled Threepio lying half
 	buried in the sand. One of his arms has broken off.
@@ -1613,8 +1611,8 @@ no sense in you risking yourself on my account. I'm done for.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: KENOBI'S DWELLING.
-	The small, spartan hovel is cluttered with desert junk but
+<scene><setting>INTERIOR: KENOBI'S DWELLING.</setting>
+<sd>	The small, spartan hovel is cluttered with desert junk but
 	still manages to radiate an air of time-worn comfort and
 	security. Luke is in one corner repairing Threepio's arm, as
 	old Ben sits thinking.
@@ -1761,14 +1759,14 @@ transport there to Mos Eisley or wherever you're going.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	An Imperial Stardestroyer heads toward the evil planet-like
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	An Imperial Stardestroyer heads toward the evil planet-like
 	battle station: the Death Star!
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- CONFERENCE ROOM.
-	Eight Imperial senators and generals sit around a black
+<scene><setting>INTERIOR: DEATH STAR -- CONFERENCE ROOM.</setting>
+<sd>	Eight Imperial senators and generals sit around a black
 	conference table. Imperial stormtroopers stand guard around
 	the room. Commander Tagge, a young, slimy-looking general, is
 	speaking.
@@ -1851,8 +1849,8 @@ operational. We will then crush the Rebellion with one swift stroke.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- WASTELAND.
-	The speeder stops before what remains of the huge Jawas
+<scene><setting>EXTERIOR: TATOOINE -- WASTELAND.</setting>
+<sd>	The speeder stops before what remains of the huge Jawas
 	Sandcrawler. Luke and Ben walk among the smoldering rubble
 	and scattered bodies.
 </sd>
@@ -1891,13 +1889,13 @@ sold them to. And that would lead them home!
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- WASTELAND.
-	Luke races across the wasteland in his battered Landspeeder.
+<scene><setting>EXTERIOR: TATOOINE -- WASTELAND.</setting>
+<sd>	Luke races across the wasteland in his battered Landspeeder.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- LARS HOMESTEAD.
-	The speeder roars up to the burning homestead. Luke jumps out
+<scene><setting>EXTERIOR: TATOOINE -- LARS HOMESTEAD.</setting>
+<sd>	The speeder roars up to the burning homestead. Luke jumps out
 	and runs to the smoking holes that were once his home. Debris
 	is scattered everywhere and it looks as if a great battle has
 	taken place.
@@ -1911,13 +1909,13 @@ sold them to. And that would lead them home!
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	Imperial TIE fighter races toward the Death Star.
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	Imperial TIE fighter races toward the Death Star.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- DETENTION CORRIDOR.
-	Two stormtroopers open an electronic cell door and allow
+<scene><setting>INTERIOR: DEATH STAR -- DETENTION CORRIDOR.</setting>
+<sd>	Two stormtroopers open an electronic cell door and allow
 	several Imperial guards to enter. Princess Leia's face is
 	filled with defiance, which slowly gives way to fear as a
 	giant black torture robot enters, followed by Darth Vader.
@@ -1933,8 +1931,8 @@ hidden Rebel base.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- WASTELAND.
-	There is a large bonfire of Jawa bodies blazing in front of
+<scene><setting>EXTERIOR: TATOOINE -- WASTELAND.</setting>
+<sd>	There is a large bonfire of Jawa bodies blazing in front of
 	the Sandcrawler as Ben and the robots finish burning the dead.
 	Luke drives up in the speeder and Ben walks over to him.
 </sd>
@@ -1950,8 +1948,8 @@ father.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- WASTELAND.
-	The Landspeeder with Luke, Artoo, Threepio, and Ben in it
+<scene><setting>EXTERIOR: TATOOINE -- WASTELAND.</setting>
+<sd>	The Landspeeder with Luke, Artoo, Threepio, and Ben in it
 	zooms across the desert. The speeder stops on a bluff
 	overlooking the spaceport at Mos Eisley. It is a haphazard
 	array of low, grey, concrete structures and semi-domes. A
@@ -1967,8 +1965,8 @@ scum and villainy. We must be cautious.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- MOS EISLEY -- STREET.
-	The speeder is stopped on a crowded street by several
+<scene><setting>EXTERIOR: TATOOINE -- MOS EISLEY -- STREET.</setting>
+<sd>	The speeder is stopped on a crowded street by several
 	combat-hardend stormtroopers who look over the two robots. A
 	Trooper questions Luke.
 </sd>
@@ -2012,8 +2010,8 @@ scum and villainy. We must be cautious.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- MOS EISLEY -- STREET.
-	The speeder pulls up in front of a rundown blockhouse cantina
+<scene><setting>EXTERIOR: TATOOINE -- MOS EISLEY -- STREET.</setting>
+<sd>	The speeder pulls up in front of a rundown blockhouse cantina
 	on the outskirts of the spaceport. Various strange forms of
 	transport, including several unusual beasts of burden, are
 	parked outside the bar. A Jawa runs up and begins to fondle
@@ -2049,8 +2047,8 @@ watch your step. This place can be a little rough.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: TATOOINE -- MOS EISLEY -- CANTINA.
-	The young adventurer and his two mechanical servants follow
+<scene><setting>INTERIOR: TATOOINE -- MOS EISLEY -- CANTINA.</setting>
+<sd>	The young adventurer and his two mechanical servants follow
 	Ben Kenobi into the smoke-filled cantina. The murky, moldy den
 	is filled with a startling array of weird and exotic alien
 	creatures and monsters at the long metallic bar. At first the
@@ -2165,8 +2163,8 @@ needs.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- MOS EISLEY -- STREET.
-	Threepio paces in front of the cantina as Artoo carries on an
+<scene><setting>EXTERIOR: TATOOINE -- MOS EISLEY -- STREET.</setting>
+<sd>	Threepio paces in front of the cantina as Artoo carries on an
 	electronic conversation with another little red astro-droid. A
 	creature comes out of the cantina and approaches two
 	stormtroopers in the street.
@@ -2176,8 +2174,8 @@ needs.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: TATOOINE -- MOS EISLEY -- CANTINA.
-	Strange creatures play exotic big band music on odd-looking
+<scene><setting>INTERIOR: TATOOINE -- MOS EISLEY -- CANTINA.</setting>
+<sd>	Strange creatures play exotic big band music on odd-looking
 	instruments as Luke, still giddy, downs a fresh drink and
 	follows Ben and Chewbacca to a booth where Han Solo is
 	sitting. Han is a tough, roguish starpilot about thirty years
@@ -2265,8 +2263,8 @@ could really save my neck. Get back to the ship and get her ready.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- MOS EISLEY -- STREET.
-</sd>
+<scene><setting>EXTERIOR: TATOOINE -- MOS EISLEY -- STREET.</setting>
+<sd></sd>
 
 <sp><speaker>BEN</speaker> You'll have to sell your speeder.
 </sp>
@@ -2275,8 +2273,8 @@ could really save my neck. Get back to the ship and get her ready.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MOS EISLEY -- CANTINA.
-	As Han is about to leave, Greedo, a slimy green-faced alien 
+<scene><setting>INTERIOR: MOS EISLEY -- CANTINA.</setting>
+<sd>	As Han is about to leave, Greedo, a slimy green-faced alien 
 	with a short trunk-nose, pokes a gun in his side. The creature
 	speaks in a foreign tongue translated into English subtitles.
 </sd>
@@ -2336,13 +2334,13 @@ a long time.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	Several TIE fighters approach the Death Star.
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	Several TIE fighters approach the Death Star.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- CONTROL ROOM.
-</sd>
+<scene><setting>INTERIOR: DEATH STAR -- CONTROL ROOM.</setting>
+<sd></sd>
 
 <sp><speaker>VADER</speaker> Her resistance to the mind probe is considerable. It will be
 some time before we can extract any information from her.
@@ -2369,8 +2367,8 @@ of Alderaan.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- MOS EISLEY -- STREET.
-	Four heavily-armed stormtroopers move menacingly along a
+<scene><setting>EXTERIOR: TATOOINE -- MOS EISLEY -- STREET.</setting>
+<sd>	Four heavily-armed stormtroopers move menacingly along a
 	narrow slum alleyway crowed with darkly clad creatures hawking
 	exotic goods in the dingy little stalls. Men, monsters, and
 	robots crouch in the waste-filled doorways, whispering and
@@ -2398,8 +2396,8 @@ sure it must be your fault.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- MOS EISLEY -- STREET -- ALLEYWAY -- USED SPEEDER LOT.
-	Ben and Luke are standing in a sleazy used speeder lot,
+<scene><setting>EXTERIOR: TATOOINE -- MOS EISLEY -- STREET -- ALLEYWAY -- USED SPEEDER LOT.</setting>
+<sd>	Ben and Luke are standing in a sleazy used speeder lot,
 	talking with a tall, grotesque, insect-like used speeder
 	dealer. Strange exotic bodies and spindly-legged beasts pass
 	by as the insect concludes the sale by giving Luke some coins.
@@ -2422,8 +2420,8 @@ they're just not in demand.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DOCKING BAY 94 -- DAY.
-	Jabba the Hut and a half-dozen grisly alien pirates and purple
+<scene><setting>INTERIOR: DOCKING BAY 94 -- DAY.</setting>
+<sd>	Jabba the Hut and a half-dozen grisly alien pirates and purple
 	creatures stand in the middle of the docking bay. Jabba is the
 	grossest of the slavering hulks and his scarred face is a grim
 	testimonial to his prowess as a vicious killer. He is a fat,
@@ -2486,8 +2484,8 @@ life.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: DOCKING PORT ENTRY -- ALLEYWAY.
-	Chewbacca waits restlessly at the entrance to Docking Bay 94.
+<scene><setting>EXTERIOR: DOCKING PORT ENTRY -- ALLEYWAY.</setting>
+<sd>	Chewbacca waits restlessly at the entrance to Docking Bay 94.
 	Ben, Luke, and the robots make their way up the street.
 	Chewbacca jabbers excitedly and signals for them to hurry. The
 	darkly clad creature has followed them from the speeder lot.
@@ -2496,8 +2494,8 @@ life.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MOS EISLEY SPACEPORT -- DOCKING BAY 94
-	Chewbacca leads the group into a giant dirt pit that is Docking
+<scene><setting>INTERIOR: MOS EISLEY SPACEPORT -- DOCKING BAY 94</setting>
+<sd>	Chewbacca leads the group into a giant dirt pit that is Docking
 	Bay 94. Resting in the middle of the huge hole is a large,
 	round, beat-up, pieced-together hunk of junk that could only
 	loosely be called a starship.
@@ -2522,14 +2520,14 @@ here.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON.
-	Chewbacca settles into the pilot's chair and starts the mighty
+<scene><setting>INTERIOR: MILLENNIUM FALCON.</setting>
+<sd>	Chewbacca settles into the pilot's chair and starts the mighty
 	engines of the starship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MOS EISLEY SPACEPORT -- DOCKING BAY 94.
-	Luke, Ben, Threepio, and Artoo move toward the Millennium
+<scene><setting>INTERIOR: MOS EISLEY SPACEPORT -- DOCKING BAY 94.</setting>
+<sd>	Luke, Ben, Threepio, and Artoo move toward the Millennium
 	Falcon passing Solo.
 </sd>
 
@@ -2537,8 +2535,8 @@ here.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- MOS EISLEY -- STREET.
-	Eight Imperial stormtroopers rush up to the darkly clad
+<scene><setting>EXTERIOR: TATOOINE -- MOS EISLEY -- STREET.</setting>
+<sd>	Eight Imperial stormtroopers rush up to the darkly clad
 	creature.
 </sd>
 
@@ -2551,8 +2549,8 @@ here.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MOS EISLEY SPACEPORT -- DOCKING BAY 94.
-	The troops hold their guns at the ready and charge down the
+<scene><setting>INTERIOR: MOS EISLEY SPACEPORT -- DOCKING BAY 94.</setting>
+<sd>	The troops hold their guns at the ready and charge down the
 	docking bay entrance.
 </sd>
 
@@ -2570,8 +2568,8 @@ here.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON.
-</sd>
+<scene><setting>INTERIOR: MILLENNIUM FALCON.</setting>
+<sd></sd>
 
 <sp><speaker>HAN</speaker> Chewie, get us out of here!
 		</sp><sd> The group straps in for take off.
@@ -2581,27 +2579,27 @@ here.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: TATOOINE -- MOS EISLEY -- STREETS.
-	The half-dozen stormtroopers at a check point hear the general
+<scene><setting>EXTERIOR: TATOOINE -- MOS EISLEY -- STREETS.</setting>
+<sd>	The half-dozen stormtroopers at a check point hear the general
 	alarm and look to the sky as the huge starship rises above the
 	dingy slum dwellings and quickly disappears into the morning
 	sky.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-	Han climbs into the pilot's chair next to Chewbacca, who
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd>	Han climbs into the pilot's chair next to Chewbacca, who
 	chatters away as he points to something on the radar scope.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE -- PLANET TATOOINE.
-	The Corellian pirateship zooms from Tatooine into space.
+<scene><setting>EXTERIOR: SPACE -- PLANET TATOOINE.</setting>
+<sd>	The Corellian pirateship zooms from Tatooine into space.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-	Han frantically types information into the ship's computer.
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd>	Han frantically types information into the ship's computer.
 	Little Artoo appears momentarily at the cockpit doorway, makes
 	a few beeping remarks, then scurries away.
 </sd>
@@ -2612,15 +2610,15 @@ while I make the calculations for the jump to light speed.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE -- PLANET TATOOINE.
-	The Millennium Falcon pirateship races away from the yellow
+<scene><setting>EXTERIOR: SPACE -- PLANET TATOOINE.</setting>
+<sd>	The Millennium Falcon pirateship races away from the yellow
 	planet, Tatooine. It is followed by two huge Imperial
 	stardestroyers.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-	Over the shoulders of Chewbacca and Han, we can see the galaxy
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd>	Over the shoulders of Chewbacca and Han, we can see the galaxy
 	spread before them. Luke and Ben make their way into the
 	cramped cockpit where Han continues his calculation.
 </sd>
@@ -2639,13 +2637,13 @@ Besides, I know a few maneuvers. We'll lose them!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE -- PLANET TATOOINE.
-	Imperial cruisers fire at the pirateship.
+<scene><setting>EXTERIOR: SPACE -- PLANET TATOOINE.</setting>
+<sd>	Imperial cruisers fire at the pirateship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-	The ship shudders as an explosion flashes outside the window.
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd>	The ship shudders as an explosion flashes outside the window.
 </sd>
 
 <sp><speaker>HAN</speaker> Here's where the fun begins!
@@ -2681,19 +2679,19 @@ going to make the jump to light speed.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	The Millennium Falcon zooms into infinity in less than a
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	The Millennium Falcon zooms into infinity in less than a
 	second.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: DEATH STAR.
-	Alderaan looms behind the Death Star battlestation.
+<scene><setting>EXTERIOR: DEATH STAR.</setting>
+<sd>	Alderaan looms behind the Death Star battlestation.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- CONTROL ROOM.
-	Admiral Motti enters the quiet control room and bows before
+<scene><setting>INTERIOR: DEATH STAR -- CONTROL ROOM.</setting>
+<sd>	Admiral Motti enters the quiet control room and bows before
 	Governor Tarkin, who stands before the huge wall screen
 	displaying a small green planet.
 </sd>
@@ -2770,8 +2768,8 @@ friends soon enough.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- BLAST CHAMBER.
-</sd>
+<scene><setting>INTERIOR: DEATH STAR -- BLAST CHAMBER.</setting>
+<sd></sd>
 
 <sp><speaker>VADER</speaker> Commence primary ignition.
 		</sp><sd> A button is pressed which switches on a panel of lights. A
@@ -2784,8 +2782,8 @@ friends soon enough.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- CENTRAL HOLD AREA.
-	Ben watches Luke practice the lightsaber with a small "seeker"
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- CENTRAL HOLD AREA.</setting>
+<sd>	Ben watches Luke practice the lightsaber with a small "seeker"
 	robot. Ben suddenly turns away and sits down. He falters,
 	seems almost faint.
 </sd>
@@ -2942,8 +2940,8 @@ the living? That's something else.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- CONFERENCE ROOM.
-	Imperial Officer Cass stands before Governor Tarkin and the
+<scene><setting>INTERIOR: DEATH STAR -- CONFERENCE ROOM.</setting>
+<sd>	Imperial Officer Cass stands before Governor Tarkin and the
 	evil Dark Lord Darth Vader.
 </sd>
 
@@ -2966,14 +2964,14 @@ surrounding systems.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: HYPERSPACE.
-	The pirateship is just coming out of hyperspace; a strange
+<scene><setting>EXTERIOR: HYPERSPACE.</setting>
+<sd>	The pirateship is just coming out of hyperspace; a strange
 	surreal light show surrounds the ship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-</sd>
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>HAN</speaker> Stand by, Chewie, here we go. Cut in the sublight engines.
 		</sp><sd> Han pulls back on a control lever. Outside the cockpit
@@ -3041,13 +3039,13 @@ a thousand ships with more fire power than I've...
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	The fighter races past the Corellian pirateship.
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	The fighter races past the Corellian pirateship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-</sd>
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>LUKE</speaker> It sure is leaving in a big hurry. If they identify us, we're in
 big trouble.
@@ -3063,14 +3061,14 @@ big trouble.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	The pirateship zooms over the camera and away into the
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	The pirateship zooms over the camera and away into the
 	vastness of space after the Imperial TIE fighter.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-	The tension mounts as the pirateship gains on the tiny fighter.
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd>	The tension mounts as the pirateship gains on the tiny fighter.
 	In the distance, one of the stars becomes brighter until it is
 	obvious that the TIE ship is heading for it. Ben stands behind
 	Chewbacca.
@@ -3087,14 +3085,14 @@ about us.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	The TIE fighter is losing ground to the larger pirateship as
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	The TIE fighter is losing ground to the larger pirateship as
 	they race toward camera and disappear over head.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-	The distant star can be distinguished as a small moon or
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd>	The distant star can be distinguished as a small moon or
 	planet.
 </sd>
 
@@ -3141,8 +3139,8 @@ fight!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- DEATH STAR.
-	As the battered pirate starship is towed closer to the awesome
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- DEATH STAR.</setting>
+<sd>	As the battered pirate starship is towed closer to the awesome
 	metal moon, the immense size of the massive battle station
 	becomes staggering. Running along the equator of the gigantic
 	sphere is a mile-high band of huge docking ports into which
@@ -3150,8 +3148,8 @@ fight!
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: DEATH STAR -- HUGE PORT DOORS.
-	The helpless Millennium Falcon is pulled past a docking port
+<scene><setting>EXTERIOR: DEATH STAR -- HUGE PORT DOORS.</setting>
+<sd>	The helpless Millennium Falcon is pulled past a docking port
 	control room and huge laser turret cannons.
 </sd>
 
@@ -3160,8 +3158,8 @@ opening the magnetic field.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- DOCKING BAY 2037.
-	The pirateship is pulled in through port doors of the Death
+<scene><setting>INTERIOR: DEATH STAR -- DOCKING BAY 2037.</setting>
+<sd>	The pirateship is pulled in through port doors of the Death
 	Star, coming to rest in a huge hangar. Thirty stormtroopers
 	stand at attention in a central assembly area.
 </sd>
@@ -3173,13 +3171,13 @@ opening the magnetic field.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- HALLWAY.
-	Stormtroopers run to their posts.
+<scene><setting>INTERIOR: DEATH STAR -- HALLWAY.</setting>
+<sd>	Stormtroopers run to their posts.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- HANGAR 2037.
-	A line of stormtroopers march toward the pirateship in
+<scene><setting>INTERIOR: DEATH STAR -- HANGAR 2037.</setting>
+<sd>	A line of stormtroopers march toward the pirateship in
 	readiness to board it, while other troopers stand with weapons
 	ready to fire.
 </sd>
@@ -3188,8 +3186,8 @@ opening the magnetic field.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- CONFERENCE ROOM.
- 
+<scene><setting>INTERIOR: DEATH STAR -- CONFERENCE ROOM.</setting>
+<sd> 
 	Tarkin pushes a button and responds to the intercom buzz.
 </sd>
 
@@ -3206,8 +3204,8 @@ She may yet be of some use to us.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- DOCKING BAY 2037.
-	Vader and a commander approach the troops as an Officer and
+<scene><setting>INTERIOR: DEATH STAR -- DOCKING BAY 2037.</setting>
+<sd>	Vader and a commander approach the troops as an Officer and
 	several heavily armed troops exit the spacecraft.
 </sd>
 
@@ -3243,8 +3241,8 @@ part of this ship checked!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- HALLWAY.
-	A trooper runs through the hallway heading for the exit. In a
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- HALLWAY.</setting>
+<sd>	A trooper runs through the hallway heading for the exit. In a
 	few moments all is quiet. The muffled sounds of a distant
 	officer giving orders finally fade. Two floor panels suddenly
 	pop up revealing Han Solo and Luke. Ben Kenobi sticks his head
@@ -3271,8 +3269,8 @@ past the tractor beam.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- MAIN FORWARD BAY.
-	The crewmen carry a heavy box on board the ship, past the two
+<scene><setting>INTERIOR: DEATH STAR -- MAIN FORWARD BAY.</setting>
+<sd>	The crewmen carry a heavy box on board the ship, past the two
 	stormtroopers guarding either side of the ramp.
 </sd>
 
@@ -3288,8 +3286,8 @@ report it immediately. All right, let's go.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- FORWARD BAY -- COMMAND OFFICE.
-	In a very small command office near the entrance to the
+<scene><setting>INTERIOR: DEATH STAR -- FORWARD BAY -- COMMAND OFFICE.</setting>
+<sd>	In a very small command office near the entrance to the
 	pirateship, a Gantry Officer looks out his window and notices
 	the guards are missing. He speaks into the comlink.
 </sd>
@@ -3532,8 +3530,8 @@ should Artoo and I do if we're discovered here?
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- DETENTION AREA -- ELEVATOR TUBE.
-	Han and Luke try to look inconspicuous in their armored suits
+<scene><setting>INTERIOR: DEATH STAR -- DETENTION AREA -- ELEVATOR TUBE.</setting>
+<sd>	Han and Luke try to look inconspicuous in their armored suits
 	as they wait for a vacuum elevator to arrive. Troops,
 	bureaucrats, and robots bustle about, ignoring the trio
 	completely. Only a few give the giant Wookiee a curious
@@ -3548,8 +3546,8 @@ should Artoo and I do if we're discovered here?
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- MAIN HALLWAY.
-	Several Imperial officers walk through the wide main
+<scene><setting>INTERIOR: DEATH STAR -- MAIN HALLWAY.</setting>
+<sd>	Several Imperial officers walk through the wide main
 	passageway. They pass several stormtroopers and a robot
 	similar to Threepio but with an insect face. At the far end of
 	the hallway, a passing flash of Ben Kenobi appears, then
@@ -3559,8 +3557,8 @@ should Artoo and I do if we're discovered here?
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- INTERIOR ELEVATOR -- DETENTION SECURITY AREA.
-	Luke and Han step forward to exit the elevator, but the door
+<scene><setting>INTERIOR: DEATH STAR -- INTERIOR ELEVATOR -- DETENTION SECURITY AREA.</setting>
+<sd>	Luke and Han step forward to exit the elevator, but the door
 	slides open behind them. The giant Wookiee and his two guards
 	enter the old grey security station. Guards and laser gates
 	are everywhere. Han whispers to Luke under his breath.
@@ -3576,8 +3574,8 @@ should Artoo and I do if we're discovered here?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DETENTION AREA.
-	Elevator doors open. A tall, grim looking Officer approaches
+<scene><setting>INTERIOR: DETENTION AREA.</setting>
+<sd>	Elevator doors open. A tall, grim looking Officer approaches
 	the trio.
 </sd>
 
@@ -3652,8 +3650,8 @@ going to have company!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- CELL ROW.
-	Luke stops in front of one of the cells and blasts the door
+<scene><setting>INTERIOR: DEATH STAR -- CELL ROW.</setting>
+<sd>	Luke stops in front of one of the cells and blasts the door
 	away with a laser pistol. When the smoke clears, Luke sees the
 	dazzling young princess-senator. She had been sleeping and is
 	now looking at him with an uncomprehending look on her face.
@@ -3683,8 +3681,8 @@ Kenobi.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- CONFERENCE ROOM.
-	Darth Vader paces the room as Governor Tarkin sits at the far
+<scene><setting>INTERIOR: DEATH STAR -- CONFERENCE ROOM.</setting>
+<sd>	Darth Vader paces the room as Governor Tarkin sits at the far
 	end of the conference table.
 </sd>
 
@@ -3729,8 +3727,8 @@ detention block A A-twenty-three.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- DETENTION AREA -- HALLWAY.
-	An ominous buzzing sound is heard on the other side of the
+<scene><setting>INTERIOR: DEATH STAR -- DETENTION AREA -- HALLWAY.</setting>
+<sd>	An ominous buzzing sound is heard on the other side of the
 	elevator door.
 </sd>
 
@@ -3770,8 +3768,8 @@ bay?...What was that? I didn't copy!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- MAIN BAY GANTRY -- CONTROL TOWER.
-	Threepio paces the control center as little Artoo beeps and
+<scene><setting>INTERIOR: DEATH STAR -- MAIN BAY GANTRY -- CONTROL TOWER.</setting>
+<sd>	Threepio paces the control center as little Artoo beeps and
 	whistles a blue streak. Threepio yells into the small comlink
 	transmitter.
 </sd>
@@ -3789,8 +3787,8 @@ information on your level is restricted.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- DETENTION CORRIDOR.
-	Luke and Leia crouch together in an alcove for protection as
+<scene><setting>INTERIOR: DEATH STAR -- DETENTION CORRIDOR.</setting>
+<sd>	Luke and Leia crouch together in an alcove for protection as
 	they continue to exchange fire with troops. Han and Chewbacca
 	are barely able to keep the stormtroopers at bay at the far
 	and of the hallway. The laserfire is very intense, and smoke
@@ -3841,8 +3839,8 @@ like her. Get in there!
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- GARBAGE ROOM.
-	Han tumbles into the large room filled with garbage and muck.
+<scene><setting>INTERIOR: DEATH STAR -- GARBAGE ROOM.</setting>
+<sd>	Han tumbles into the large room filled with garbage and muck.
 	Luke is already stumbling around looking for an exit. He finds
 	a small hatchway and struggles to get it open. It won't budge.
 </sd>
@@ -3962,8 +3960,8 @@ to figure out what happened to us.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- MAIN GANTRY -- COMMAND OFFICE.
-	A soft buzzer and the muted voice of Luke calling out for
+<scene><setting>INTERIOR: DEATH STAR -- MAIN GANTRY -- COMMAND OFFICE.</setting>
+<sd>	A soft buzzer and the muted voice of Luke calling out for
 	See-Threepio can be heard on Threepio's hand comlink, which is
 	sitting on the deserted computer console. Artoo and Threepio
 	are nowhere in sight. Suddenly there is a great explosion and
@@ -4002,8 +4000,8 @@ maintenance.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- GARBAGE ROOM.
-	As the walls rumble closed, the room gets smaller and smaller.
+<scene><setting>INTERIOR: DEATH STAR -- GARBAGE ROOM.</setting>
+<sd>	As the walls rumble closed, the room gets smaller and smaller.
 Chewie is whining and trying to hold a wall back with his giant paws.
 Han is leaning back against the other wall. Garbage is snapping and
 popping. Luke is trying to reach Threepio.
@@ -4024,8 +4022,8 @@ popping. Luke is trying to reach Threepio.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- MAIN FORWARD BAY -- SERVICE PANEL.
-</sd>
+<scene><setting>INTERIOR: DEATH STAR -- MAIN FORWARD BAY -- SERVICE PANEL.</setting>
+<sd></sd>
 
 <sp><speaker>THREEPIO</speaker> They aren't here! Something must have happened to them. See
 if they've been captured.
@@ -4038,8 +4036,8 @@ if they've been captured.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- GARBAGE ROOM.
-	The walls are only feet apart. Leia and Han are braced against
+<scene><setting>INTERIOR: DEATH STAR -- GARBAGE ROOM.</setting>
+<sd>	The walls are only feet apart. Leia and Han are braced against
 	the walls. The princess is frightened. They look at each
 	other. Leia reaches out and takes Han's hand and she holds it
 	tightly. She's terrified and suddenly groans as she feels the
@@ -4054,8 +4052,8 @@ Leia) Get on top of it!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- MAIN FORWARD BAY -- SERVICE PANEL.
-</sd>
+<scene><setting>INTERIOR: DEATH STAR -- MAIN FORWARD BAY -- SERVICE PANEL.</setting>
+<sd></sd>
 
 <sp><speaker>THREEPIO</speaker> (to Artoo) Thank goodness, they haven't found them! Where
 could they be?
@@ -4067,15 +4065,15 @@ could they be?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- GARBAGE ROOM.
-	Meanwhile, Luke is lying on his side, trying to keep his head
+<scene><setting>INTERIOR: DEATH STAR -- GARBAGE ROOM.</setting>
+<sd>	Meanwhile, Luke is lying on his side, trying to keep his head
 	above the rising ooze. Luke's comlink begins to buzz and he
 	rips it off his belt.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- MAIN FORWARD BAY -- SERVICE PANEL.
-	Muffled sounds of Luke's voice over the comlink can be heard,
+<scene><setting>INTERIOR: DEATH STAR -- MAIN FORWARD BAY -- SERVICE PANEL.</setting>
+<sd>	Muffled sounds of Luke's voice over the comlink can be heard,
 	but not distinctly.
 </sd>
 
@@ -4083,15 +4081,15 @@ could they be?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- GARBAGE ROOM.
-</sd>
+<scene><setting>INTERIOR: DEATH STAR -- GARBAGE ROOM.</setting>
+<sd></sd>
 
 <sp><speaker>LUKE</speaker> Threepio!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- MAIN FORWARD BAY -- SERVICE PANEL.
-</sd>
+<scene><setting>INTERIOR: DEATH STAR -- MAIN FORWARD BAY -- SERVICE PANEL.</setting>
+<sd></sd>
 
 <sp><speaker>THREEPIO</speaker> We've had some problems...
 </sp>
@@ -4101,15 +4099,15 @@ garbage mashers on the detention level, will you? Do you copy?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- GARBAGE ROOM.
-</sd>
+<scene><setting>INTERIOR: DEATH STAR -- GARBAGE ROOM.</setting>
+<sd></sd>
 
 <sp><speaker>LUKE</speaker> Shut down all the garbage mashers on the detention level.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- MAIN FORWARD BAY -- SERVICE PANEL.
-</sd>
+<scene><setting>INTERIOR: DEATH STAR -- MAIN FORWARD BAY -- SERVICE PANEL.</setting>
+<sd></sd>
 
 <sp><speaker>LUKE</speaker> (over comlink) Shut down all the garbage mashers on the
 detention level.
@@ -4128,8 +4126,8 @@ wasn't fast enough. It's all my fault! My poor master!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- GARBAGE ROOM.
-	The screaming and hollering is the sound of joyous relief. The
+<scene><setting>INTERIOR: DEATH STAR -- GARBAGE ROOM.</setting>
+<sd>	The screaming and hollering is the sound of joyous relief. The
 	walls have stopped moving. Han, Chewie and Leia embrace in the
 	background.
 </sd>
@@ -4144,15 +4142,15 @@ where are we?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- MAIN FORWARD BAY -- SERVICE PANEL.
-</sd>
+<scene><setting>INTERIOR: DEATH STAR -- MAIN FORWARD BAY -- SERVICE PANEL.</setting>
+<sd></sd>
 
 <sp><speaker>HAN</speaker> (over comlink) Three-two-six-eight-two-seven.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- TRACTOR BEAM -- POWER GENERATOR TRENCH.
-	Ben enters a humming service trench that powers the huge
+<scene><setting>INTERIOR: DEATH STAR -- TRACTOR BEAM -- POWER GENERATOR TRENCH.</setting>
+<sd>	Ben enters a humming service trench that powers the huge
 	tractor beam. The trench seems to be a hundred miles deep. The
 	clacking sound of huge switching devices can be heard. The old
 	Jedi edges his his way along a narrow ledge leading to a
@@ -4162,8 +4160,8 @@ where are we?
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- UNUSED HALLWAY.
-	The group exits the garbage room into a dusty, unused hallway.
+<scene><setting>INTERIOR: DEATH STAR -- UNUSED HALLWAY.</setting>
+<sd>	The group exits the garbage room into a dusty, unused hallway.
 	Han and Luke remove the trooper suits and strap on the blaster
 	belts.
 </sd>
@@ -4217,8 +4215,8 @@ somebody get this big walking carpet out of my way?
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- POWER TRENCH.
-	Suddenly a door behind Ben slides open and a detachment of
+<scene><setting>INTERIOR: DEATH STAR -- POWER TRENCH.</setting>
+<sd>	Suddenly a door behind Ben slides open and a detachment of
 	stormtroopers marches to the power trench. Ben instantly slips
 	into the shadows as an Officer moves to within a few feet of
 	him.
@@ -4249,8 +4247,8 @@ somebody get this big walking carpet out of my way?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- HALLWAY.
-	Luke, Han, Chewbacca, and Leia run down an empty hallway and
+<scene><setting>INTERIOR: DEATH STAR -- HALLWAY.</setting>
+<sd>	Luke, Han, Chewbacca, and Leia run down an empty hallway and
 	stop before a bay window overlooking the pirateship. Troopers
 	are milling about the ship. Luke takes out his pocket comlink.
 </sd>
@@ -4305,8 +4303,8 @@ from the ship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- SUBHALLWAY.
-	Han chases the stormtroopers down a long subhallway. He is
+<scene><setting>INTERIOR: DEATH STAR -- SUBHALLWAY.</setting>
+<sd>	Han chases the stormtroopers down a long subhallway. He is
 	yelling and brandishing his laser pistol. The troops reach a
 	dead end and are forced to turn and fight. Han stops a few
 	feet from them and assumes a defensive position. The troops
@@ -4317,8 +4315,8 @@ from the ship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- SUBHALLWAY.
-	Chewbacca runs down the subhallway in a last-ditch attempt to
+<scene><setting>INTERIOR: DEATH STAR -- SUBHALLWAY.</setting>
+<sd>	Chewbacca runs down the subhallway in a last-ditch attempt to
 	save his bold captain. Suddenly he hears the firing of laser
 	guns and yelling. Around the corner shoots Han, pirate
 	extraordinaire, running for his life, followed by a host of
@@ -4327,16 +4325,16 @@ from the ship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- SUBHALLWAY.
-	Luke fires his laser pistol wildly as he and Leia rush down a
+<scene><setting>INTERIOR: DEATH STAR -- SUBHALLWAY.</setting>
+<sd>	Luke fires his laser pistol wildly as he and Leia rush down a
 	narrow subhallway, chased by several stormtroopers. They
 	quickly reach the end of the subhallway and race through an
 	open hatchway.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- CENTRAL CORE SHAFT.
-	Luke and Leia race through the hatch onto a narrow bridge that
+<scene><setting>INTERIOR: DEATH STAR -- CENTRAL CORE SHAFT.</setting>
+<sd>	Luke and Leia race through the hatch onto a narrow bridge that
 	spans a huge, deep shaft that seems to go into infinity. The
 	bridge has been retracted into the wall of the shaft, and Luke
 	almost rushes into the abyss. He loses his balance off the end
@@ -4411,8 +4409,8 @@ the bridge.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- NARROW PASSAGEWAY.
-	Ben hides in the shadows of the narrow passageway as several
+<scene><setting>INTERIOR: DEATH STAR -- NARROW PASSAGEWAY.</setting>
+<sd>	Ben hides in the shadows of the narrow passageway as several
 	stormtroopers rush past him in the main hallway. He checks to
 	make sure they're gone, then runs down the hallway in the
 	opposite direction. Darth Vader appears at the far end of the
@@ -4420,8 +4418,8 @@ the bridge.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- MAIN FORWARD BAY.
-	Threepio looks around at the troops milling about the
+<scene><setting>INTERIOR: DEATH STAR -- MAIN FORWARD BAY.</setting>
+<sd>	Threepio looks around at the troops milling about the
 	pirateship entry ramp.
 </sd>
 
@@ -4431,8 +4429,8 @@ the bridge.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- CORRIDOR -- BLAST SHIELDS DOOR.
-	Han and Chewbacca run down a long corridor with several
+<scene><setting>INTERIOR: DEATH STAR -- CORRIDOR -- BLAST SHIELDS DOOR.</setting>
+<sd>	Han and Chewbacca run down a long corridor with several
 	troopers hot on their trail.
 </sd>
 
@@ -4448,8 +4446,8 @@ the bridge.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- HALLWAY LEADING TO MAIN FORWARD BAY.
-	Ben hurries along one of the tunnels leading to the hangar
+<scene><setting>INTERIOR: DEATH STAR -- HALLWAY LEADING TO MAIN FORWARD BAY.</setting>
+<sd>	Ben hurries along one of the tunnels leading to the hangar
 	where the pirateship waits. Just before he reaches the hangar,
 	Darth Vader steps into view at the end of the tunnel, not ten
 	feet away. Vader lights his saber. Ben also ignites his and
@@ -4490,8 +4488,8 @@ powerful than you can possibly imagine.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- MAIN FORWARD BAY.
-	Han Solo and Chewbacca, their weapons in hand, lean back
+<scene><setting>INTERIOR: DEATH STAR -- MAIN FORWARD BAY.</setting>
+<sd>	Han Solo and Chewbacca, their weapons in hand, lean back
 	against the wall surveying the forward bay, watching the
 	Imperial stormtroopers make their rounds of the hangar.
 </sd>
@@ -4515,8 +4513,8 @@ tractor beam out of commission.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- HALLWAY.
-	Vader and Ben Kenobi continue their powerful duel. As they hit
+<scene><setting>INTERIOR: DEATH STAR -- HALLWAY.</setting>
+<sd>	Vader and Ben Kenobi continue their powerful duel. As they hit
 	their lightsabers together, lightning flashes on impact.
 	Troopers look on in interest as the old Jedi and Dark Lord of
 	The Sith fight. Suddenly Luke spots the battle from his
@@ -4529,8 +4527,8 @@ tractor beam out of commission.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- DOCKING BAY.
-	Threepio and Artoo-Detoo are in the center of the Death Star's
+<scene><setting>INTERIOR: DEATH STAR -- DOCKING BAY.</setting>
+<sd>	Threepio and Artoo-Detoo are in the center of the Death Star's
 	Imperial docking bay.
 </sd>
 
@@ -4541,8 +4539,8 @@ tractor beam out of commission.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- HALLWAY.
-	Solo, Chewie, Luke, and Leia tensely watch the duel. The
+<scene><setting>INTERIOR: DEATH STAR -- HALLWAY.</setting>
+<sd>	Solo, Chewie, Luke, and Leia tensely watch the duel. The
 	troops rush toward the battling knights.
 </sd>
 
@@ -4595,8 +4593,8 @@ tractor beam out of commission.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-	Han pulls back on the controls and the ship begins to move. The
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd>	Han pulls back on the controls and the ship begins to move. The
 	dull thud of laser bolts bouncing off the outside of the ship
 	as Chewie adjusts his controls.
 </sd>
@@ -4607,23 +4605,23 @@ this is going to be a real short trip. Okay, hit it!
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: MILLENNIUM FALCON.
-	The Millennium Falcon powers away from the Death Star docking
+<scene><setting>EXTERIOR: MILLENNIUM FALCON.</setting>
+<sd>	The Millennium Falcon powers away from the Death Star docking
 	bay, makes a spectacular turn and disappears into the vastness
 	of space.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- CENTRAL HOLD AREA.
-	Luke, saddened by the loss of Obi-Wan Kenobi, stares off
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- CENTRAL HOLD AREA.</setting>
+<sd>	Luke, saddened by the loss of Obi-Wan Kenobi, stares off
 	blankly as the robots look on. Leia puts a blanket around him
 	protectively, and Luke turns and looks up at her. She sits
 	down beside him.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-	Solo spots approaching enemy ships.
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd>	Solo spots approaching enemy ships.
 </sd>
 
 <sp><speaker>HAN</speaker> (to Chewie) We're coming up on the sentry ships. Hold 'em off!
@@ -4631,8 +4629,8 @@ Angle the deflector shields while I charge up the main guns!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- CENTRAL HOLD AREA.
-	Luke looks downward sadly, shaking his head back and forth, as
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- CENTRAL HOLD AREA.</setting>
+<sd>	Luke looks downward sadly, shaking his head back and forth, as
 	the princess smiles comfortingly at him.
 </sd>
 
@@ -4649,26 +4647,26 @@ Angle the deflector shields while I charge up the main guns!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- GUNPORTS -- COCKPIT.
-	Solo climbs into his attack position in the topside gunport.
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- GUNPORTS -- COCKPIT.</setting>
+<sd>	Solo climbs into his attack position in the topside gunport.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- HOLD AREA.
-	Luke gets up and moves out toward the gunports as Leia heads
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- HOLD AREA.</setting>
+<sd>	Luke gets up and moves out toward the gunports as Leia heads
 	for the cockpit.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- GUNPORTS -- COCKPIT.
-	Luke climbs down the ladder into the gunport cockpit, settling
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- GUNPORTS -- COCKPIT.</setting>
+<sd>	Luke climbs down the ladder into the gunport cockpit, settling
 	into one of the two main laser cannons mounted in large
 	rotating turrets on either side of the ship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- SOLO'S GUNPORT.
-	Han adjusts his headset as he sits before the controls of his
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- SOLO'S GUNPORT.</setting>
+<sd>	Han adjusts his headset as he sits before the controls of his
 	laser cannon, then speaks into the attached microphone.
 </sd>
 
@@ -4676,105 +4674,105 @@ Angle the deflector shields while I charge up the main guns!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- GUNPORTS -- COCKPIT.
-	Chewbacca and Princess Leia search the heavens for attacking
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- GUNPORTS -- COCKPIT.</setting>
+<sd>	Chewbacca and Princess Leia search the heavens for attacking
 	TIE fighters. The Wookiee pulls back on the speed controls as
 	the ship bounces slightly.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- SOLO'S GUNPORT -- COCKPIT.
-	Computer graphic readouts form on Solo's target screen, as Han
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- SOLO'S GUNPORT -- COCKPIT.</setting>
+<sd>	Computer graphic readouts form on Solo's target screen, as Han
 	reaches for controls.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- GUNPORT -- COCKPIT.
-	Luke sits in readiness for the attack, his hand on the laser
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- GUNPORT -- COCKPIT.</setting>
+<sd>	Luke sits in readiness for the attack, his hand on the laser
 	cannon's control button.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-	Chewbacca spots the enemy ships and barks.
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd>	Chewbacca spots the enemy ships and barks.
 </sd>
 
 <sp><speaker>LEIA</speaker> (into intercom) Here they come!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT -- POV (POINT OF VIEW) -- SPACE.
-	The Imperial TIE fighters move towards the Millennium Falcon,
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT -- POV (POINT OF VIEW) -- SPACE.</setting>
+<sd>	The Imperial TIE fighters move towards the Millennium Falcon,
 	one each veering off to the left and right of the pirateship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: TIE FIGHTER -- COCKPIT.
-	The stars whip past behind the Imperial pilot as he adjusts
+<scene><setting>INTERIOR: TIE FIGHTER -- COCKPIT.</setting>
+<sd>	The stars whip past behind the Imperial pilot as he adjusts
 	his maneuvering joy stick.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: MILLENNIUM FALCON -- IN SPACE.
-	The TIE fighter races past the Falcon, firing laser beams as
+<scene><setting>EXTERIOR: MILLENNIUM FALCON -- IN SPACE.</setting>
+<sd>	The TIE fighter races past the Falcon, firing laser beams as
 	it passes.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- HOLD AREA.
-	Threepio is seated in the hold area, next to Artoo-Detoo. The
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- HOLD AREA.</setting>
+<sd>	Threepio is seated in the hold area, next to Artoo-Detoo. The
 	pirateship bounces and vibrates as the power goes out in the
 	room and then comes back on.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT -- GUNPORTS.
-	A TIE fighter maneuvers in front of Han, who follows it and
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT -- GUNPORTS.</setting>
+<sd>	A TIE fighter maneuvers in front of Han, who follows it and
 	fires at it with the laser cannon. Luke does likewise, as the
 	fighter streaks into view. The ship has suffered a minor hit,
 	and bounces slightly. 
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	Two TIE fighters dive down toward the pirateship.
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	Two TIE fighters dive down toward the pirateship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- GUNPORTS.
-	Luke fires at an unseen fighter.
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- GUNPORTS.</setting>
+<sd>	Luke fires at an unseen fighter.
 </sd>
 
 <sp><speaker>LUKE</speaker> They're coming in too fast!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE -- MILLENNIUM FALCON/TIE FIGHTERS.
-	Pan with pirateship as two TIE fighters charge through the
+<scene><setting>EXTERIOR: SPACE -- MILLENNIUM FALCON/TIE FIGHTERS.</setting>
+<sd>	Pan with pirateship as two TIE fighters charge through the
 	background. Laserbolts streak from all the craft.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- CHEWBACCA.
-	The ship shudders as a laserbolt hits very close to the
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- CHEWBACCA.</setting>
+<sd>	The ship shudders as a laserbolt hits very close to the
 	cockpit. The Wookiee chatters something to Leia.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TIE FIGHTER -- SPACE.
-	Full shot of a TIE fighter as it moves fast through the frame,
+<scene><setting>EXTERIOR: TIE FIGHTER -- SPACE.</setting>
+<sd>	Full shot of a TIE fighter as it moves fast through the frame,
 	firing on the pirate starship.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE -- TIE FIGHTERS.
-	The two TIE fighters fire a barrage of laserbeams at the
+<scene><setting>EXTERIOR: SPACE -- TIE FIGHTERS.</setting>
+<sd>	The two TIE fighters fire a barrage of laserbeams at the
 	pirateship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- MAIN PASSAGEWAY.
-	A laserbolt streaks into the side of the pirateship. The ship
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- MAIN PASSAGEWAY.</setting>
+<sd>	A laserbolt streaks into the side of the pirateship. The ship
 	lurches violently, throwing poor Threepio into a cabinet fill
 	of small computer chips.
 </sd>
@@ -4783,8 +4781,8 @@ Angle the deflector shields while I charge up the main guns!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT -- GUNPORTS.
-	Leia watches the computer readout as Chewbacca manipulates the
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT -- GUNPORTS.</setting>
+<sd>	Leia watches the computer readout as Chewbacca manipulates the
 	ship's controls.
 </sd>
 
@@ -4803,60 +4801,60 @@ Angle the deflector shields while I charge up the main guns!
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- GUNPORT.
-	Luke swivels in his gun mount, following the TIE fighter with
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- GUNPORT.</setting>
+<sd>	Luke swivels in his gun mount, following the TIE fighter with
 	his laser cannon.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- GUNPORT.
-	Solo aims his laser cannon at the enemy fighter.
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- GUNPORT.</setting>
+<sd>	Solo aims his laser cannon at the enemy fighter.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	A TIE fighter streaks in front of the starship.
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	A TIE fighter streaks in front of the starship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-	Leia watches the TIE fighter ship fly over.
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd>	Leia watches the TIE fighter ship fly over.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	A TIE fighter heads right for the pirateship, then zooms
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	A TIE fighter heads right for the pirateship, then zooms
 	overhead.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- GUNPORTS.
-	Luke follows the TIE fighter across his field of view, firing
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- GUNPORTS.</setting>
+<sd>	Luke follows the TIE fighter across his field of view, firing
 	laserbeams from his cannon.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: TIE FIGHTER.
-	A TIE fighter dives past the pirateship.
+<scene><setting>EXTERIOR: TIE FIGHTER.</setting>
+<sd>	A TIE fighter dives past the pirateship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- GUNPORTS.
-	Luke fires at a TIE fighter. At his port, Han follows a
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- GUNPORTS.</setting>
+<sd>	Luke fires at a TIE fighter. At his port, Han follows a
 	fighter in his sights, releasing a blast of laserfire. He
 	connects, and the fighter explodes into fiery dust. Han laughs
 	victoriously.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	Two TIE fighters move toward and over the Millennium Falcon,
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	Two TIE fighters move toward and over the Millennium Falcon,
 	unleashing a barrage of laserbolts at the ship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- GUNPORTS.
-	Another TIE fighter moves in on the pirateship and Luke,
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- GUNPORTS.</setting>
+<sd>	Another TIE fighter moves in on the pirateship and Luke,
 	smiling, fires the laser cannon at it, scoring a spectacular
 	direct hit.
 </sd>
@@ -4871,13 +4869,13 @@ Angle the deflector shields while I charge up the main guns!
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	Two more TIE fighters cross in front of the pirateship.
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	Two more TIE fighters cross in front of the pirateship.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT
-	While Chewbacca manipulates the controls, Leia turns, looking
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT</setting>
+<sd>	While Chewbacca manipulates the controls, Leia turns, looking
 	over her shoulder out the ports.
 </sd>
 
@@ -4885,14 +4883,14 @@ Angle the deflector shields while I charge up the main guns!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	A TIE fighter moves up over the pirateship, firing laserblasts
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	A TIE fighter moves up over the pirateship, firing laserblasts
 	at it.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- GUNPORTS.
-	Luke and Han look into their respective projected target
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- GUNPORTS.</setting>
+<sd>	Luke and Han look into their respective projected target
 	screens. An Imperial fighter crosses Solo's port, and Han
 	swivels in his chair, following it with blasts from his laser
 	cannon. Another fighter crosses Luke's port, and he reacts in
@@ -4901,28 +4899,28 @@ Angle the deflector shields while I charge up the main guns!
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	The TIE fighter zooms toward the pirateship, firing
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	The TIE fighter zooms toward the pirateship, firing
 	destructive blasts at it.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- GUNPORTS.
-	Luke fires a laserblast at the approaching enemy fighter, and
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- GUNPORTS.</setting>
+<sd>	Luke fires a laserblast at the approaching enemy fighter, and
 	it bursts into a spectacular explosion. Luke's projected
 	screen gives a readout of the hit. The pirateship bounces
 	slightly as it is struck by the enemy fire.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE -- TIE FIGHTER.
-	The last of the attacking Imperial TIE fighters looms in,
+<scene><setting>EXTERIOR: SPACE -- TIE FIGHTER.</setting>
+<sd>	The last of the attacking Imperial TIE fighters looms in,
 	firing upon the Falcon.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- GUNPORT.
-	Solo swivels behind his cannon, his aim describing the arc of
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- GUNPORT.</setting>
+<sd>	Solo swivels behind his cannon, his aim describing the arc of
 	the TIE fighter. The fighter comes closer, firing at the
 	pirateship, but a well-aimed blast from Solo's laser cannon
 	hits the attacker, which blows up in a small atomic shower of
@@ -4938,8 +4936,8 @@ Angle the deflector shields while I charge up the main guns!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- PASSAGEWAY.
-	Threepio lies on the floor of the ship, completely tangled in
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- PASSAGEWAY.</setting>
+<sd>	Threepio lies on the floor of the ship, completely tangled in
 	the smoking, sparking wires.
 </sd>
 
@@ -4950,14 +4948,14 @@ fault.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE -- MILLENNIUM FALCON.
-	The victorious Millennium Falcon moves off majestically
+<scene><setting>EXTERIOR: SPACE -- MILLENNIUM FALCON.</setting>
+<sd>	The victorious Millennium Falcon moves off majestically
 	through space.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- CONTROL ROOM.
-	Darth Vader strides into the control room, where Tarkin is
+<scene><setting>INTERIOR: DEATH STAR -- CONTROL ROOM.</setting>
+<sd>	Darth Vader strides into the control room, where Tarkin is
 	watching the huge view screen. A sea of stars is before him.
 </sd>
 
@@ -4972,8 +4970,8 @@ taking an awful risk, Vader. This had better work.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-	Han, removes his gloves and smiling, is at the controls of the
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd>	Han, removes his gloves and smiling, is at the controls of the
 	ship. Chewie moves into the aft section to check the damage.
 	Leia is seated near Han.
 </sd>
@@ -5045,26 +5043,26 @@ think? Do you think a princess and a guy like me...
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND FOURTH MOON OF YAVIN.
-	The battered pirateship drifts into orbit around the planet
+<scene><setting>EXTERIOR: SPACE AROUND FOURTH MOON OF YAVIN.</setting>
+<sd>	The battered pirateship drifts into orbit around the planet
 	Yavin and proceeds to one of its tiny green moons.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: FOURTH MOON OF YAVIN.
-	The pirateship soars over the dense jungle.
+<scene><setting>EXTERIOR: FOURTH MOON OF YAVIN.</setting>
+<sd>	The pirateship soars over the dense jungle.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: MASSASSI OUTPOST.
-	An alert guard, his laser gun in hand, scans the countryside.
+<scene><setting>EXTERIOR: MASSASSI OUTPOST.</setting>
+<sd>	An alert guard, his laser gun in hand, scans the countryside.
 	He sets the gun down and looks toward the temple, barely
 	visible in the foliage.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: MASSASSI OUTPOST -- JUNGLE TEMPLE.
-	Rotting in a forest of gargantuan trees, an ancient temple
+<scene><setting>EXTERIOR: MASSASSI OUTPOST -- JUNGLE TEMPLE.</setting>
+<sd>	Rotting in a forest of gargantuan trees, an ancient temple
 	lies shrouded in an eerie mist. The air is heavy with the
 	fantastic cries of unimaginable creatures. Han, Luke and the
 	others are greeted by the Rebel troops.
@@ -5073,8 +5071,8 @@ think? Do you think a princess and a guy like me...
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI -- MAIN HANGAR DECK.
-	The military speeder stops in a huge spaceship hangar, set up
+<scene><setting>INTERIOR: MASSASSI -- MAIN HANGAR DECK.</setting>
+<sd>	The military speeder stops in a huge spaceship hangar, set up
 	in the interior of the crumbling temple. Willard, the
 	commander of the Rebel forces, rushes up to the group and
 	gives Leia a big hug. Every one is pleased to see her.
@@ -5095,14 +5093,14 @@ information in this R2 unit to plan the attack. It is our only hope.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	The surface of the Death Star ominously approaches the red
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	The surface of the Death Star ominously approaches the red
 	planet Yavin.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- CONTROL ROOM.
-	Grand Moff Tarkin and Lord Vader are interrupted in their
+<scene><setting>INTERIOR: DEATH STAR -- CONTROL ROOM.</setting>
+<sd>	Grand Moff Tarkin and Lord Vader are interrupted in their
 	discussion by the buzz of the comlink. Tarkin moves to answer
 	the call.
 </sd>
@@ -5116,15 +5114,15 @@ planet.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: YAVIN -- JUNGLE.
-	A lone guard stands in a tower high above the Yavin landscape,
+<scene><setting>EXTERIOR: YAVIN -- JUNGLE.</setting>
+<sd>	A lone guard stands in a tower high above the Yavin landscape,
 	surveying the countryside. A mist hangs over the jungle of
 	twisted green.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI -- WAR ROOM BRIEFING AREA.
-	Dodonna stands before a large electronic wall display. Leia
+<scene><setting>INTERIOR: MASSASSI -- WAR ROOM BRIEFING AREA.</setting>
+<sd>	Dodonna stands before a large electronic wall display. Leia
 	and several other senators are to one side of the giant
 	readout. The low-ceilinged room is filled with starpilots,
 	navigators, and a sprinkling of R2-type robots. Everyone is
@@ -5179,14 +5177,14 @@ T-sixteen back home. They're not much bigger than two meters.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	The Death Star begins to move around the planet toward the
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	The Death Star begins to move around the planet toward the
 	tiny green moon.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR.
-	Tarkin and Vader watch the computer projected screen with
+<scene><setting>INTERIOR: DEATH STAR.</setting>
+<sd>	Tarkin and Vader watch the computer projected screen with
 	interest, as a circle of lights intertwines around one another
 	on the screen showing it's position in relation to Yavin and
 	the forth moon.
@@ -5201,8 +5199,8 @@ Kenobi and it will soon see the end of the Rebellion.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- MAIN HANGAR DECK.
-	Luke, Threepio and little Artoo enter the huge spaceship
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- MAIN HANGAR DECK.</setting>
+<sd>	Luke, Threepio and little Artoo enter the huge spaceship
 	hangar and hurry along a long line of gleaming spacefighters.
 	Flight crews rush around loading last-minute armaments and
 	unlocking power couplings. In an area isolated from this
@@ -5251,8 +5249,8 @@ what you're best at, isn't it?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MAIN HANGAR DECK -- LUKE'S SHIP.
-	Luke, Leia, and Dodonna meet under a huge space fighter.
+<scene><setting>INTERIOR: MAIN HANGAR DECK -- LUKE'S SHIP.</setting>
+<sd>	Luke, Leia, and Dodonna meet under a huge space fighter.
 </sd>
 
 <sp><speaker>LEIA</speaker> What's wrong?
@@ -5359,8 +5357,8 @@ lot together. (to Artoo) You okay, Artoo?
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: MASSASSI OUTPOST -- JUNGLE.
-	All that can be seen of the fortress is a lone guard standing
+<scene><setting>EXTERIOR: MASSASSI OUTPOST -- JUNGLE.</setting>
+<sd>	All that can be seen of the fortress is a lone guard standing
 	on a small pedestal jutting out above the dense jungle. The
 	muted gruesome crying sounds that naturally permeate this
 	eerie purgatory are overwhelmed by the thundering din of ion
@@ -5369,8 +5367,8 @@ lot together. (to Artoo) You okay, Artoo?
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	The princess, Threepio, and a field commander sit quietly
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	The princess, Threepio, and a field commander sit quietly
 	before the giant display showing the planet Yavin and its four
 	moons. The red dot that represents the Death Star moves ever
 	closer to the system. A series of green dots appear around the
@@ -5382,23 +5380,23 @@ Estimated time to firing range, fifteen minutes.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	The Death Star slowly moves behind the massive yellow surface
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	The Death Star slowly moves behind the massive yellow surface
 	of Yavin in the foreground, as many X-wing fighters flying in
 	formation zoom toward us and out of the frame.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE -- ANOTHER ANGLE.
-	Light from a distant sun creates an eerie atmospheric glow
+<scene><setting>EXTERIOR: SPACE -- ANOTHER ANGLE.</setting>
+<sd>	Light from a distant sun creates an eerie atmospheric glow
 	around a huge planet, Yavin. Rebel fighters flying in
 	formation settle ominously in the foreground and very slowly
 	pull away.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER STARSHIP -- COCKPIT.
-	Red Leader lowers his visor and adjusts his gun sights,
+<scene><setting>INTERIOR: RED LEADER STARSHIP -- COCKPIT.</setting>
+<sd>	Red Leader lowers his visor and adjusts his gun sights,
 	looking to each side at his wing men.
 </sd>
 
@@ -5406,16 +5404,16 @@ Estimated time to firing range, fifteen minutes.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: ANOTHER COCKPIT.
-	One of the Rebel fighters checks in through his mike.
+<scene><setting>INTERIOR: ANOTHER COCKPIT.</setting>
+<sd>	One of the Rebel fighters checks in through his mike.
 </sd>
 
 <sp><speaker>RED TEN</speaker> Red Ten standing by.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: BIGGS' COCKPIT.
-	Biggs checks his fighter's controls, alert and ready for
+<scene><setting>INTERIOR: BIGGS' COCKPIT.</setting>
+<sd>	Biggs checks his fighter's controls, alert and ready for
 	combat.
 </sd>
 
@@ -5426,8 +5424,8 @@ Estimated time to firing range, fifteen minutes.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: PORKINS' COCKPIT.
-</sd>
+<scene><setting>INTERIOR: PORKINS' COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>PORKINS</speaker> Red Six standing by.
 </sp>
@@ -5436,15 +5434,15 @@ Estimated time to firing range, fifteen minutes.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: WEDGE'S FIGHTER -- COCKPIT.
-</sd>
+<scene><setting>INTERIOR: WEDGE'S FIGHTER -- COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>WEDGE</speaker> Red Two standing by.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-</sd>
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>RED ELEVEN</speaker> (over headset) Red Eleven standing by.
 </sp>
@@ -5453,43 +5451,43 @@ Estimated time to firing range, fifteen minutes.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: LUKE'S X-WING FIGHTER
-	Artoo-Detoo, in position outside of the fighter, turns his
+<scene><setting>EXTERIOR: LUKE'S X-WING FIGHTER</setting>
+<sd>	Artoo-Detoo, in position outside of the fighter, turns his
 	head from side to side and makes beeping sounds.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S FIGHTER -- COCKPIT.
-</sd>
+<scene><setting>INTERIOR: RED LEADER'S FIGHTER -- COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>RED LEADER</speaker> Lock S-foils in attack position.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	The group of X-wing fighters move in formation toward the
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	The group of X-wing fighters move in formation toward the
 	Death Star, unfolding the wings and locking them in the "X"
 	position.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: BIGGS' COCKPIT
-</sd>
+<scene><setting>INTERIOR: BIGGS' COCKPIT</setting>
+<sd></sd>
 
 <sp><speaker>READ LEADER</speaker> (over headset) We're passing through their magnetic
 field.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-</sd>
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>RED LEADER</speaker> Hold tight!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke adjusts his controls as he concentrates on the
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke adjusts his controls as he concentrates on the
 	approaching Death Star. The ship begins to be buffeted
 	slightly.
 </sd>
@@ -5498,15 +5496,15 @@ field.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: ANOTHER COCKPIT.
-</sd>
+<scene><setting>INTERIOR: ANOTHER COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>RED LEADER</speaker> (over headset) Double front!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	The fighters, now X-shaped darts, move in formation. The Death
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	The fighters, now X-shaped darts, move in formation. The Death
 	Star now appears to be a small moon growing rapidly in size as
 	the Rebel fighters approach. Complex patterns on the metallic
 	surface begin to become visible. A large dish antenna is built
@@ -5514,8 +5512,8 @@ field.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: WEDGE'S COCKPIT.
-	Wedge is amazed and slightly frightened at the awesome
+<scene><setting>INTERIOR: WEDGE'S COCKPIT.</setting>
+<sd>	Wedge is amazed and slightly frightened at the awesome
 	spectacle.
 </sd>
 
@@ -5526,15 +5524,15 @@ field.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-</sd>
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>RED LEADER</speaker> Accelerate to attack speed. This is it, boys!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	As the fighters move closer to the Death Star, the awesome
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	As the fighters move closer to the Death Star, the awesome
 	size of the gargantuan Imperial fortress is revealed. Half of
 	the deadly space station is in shadow and this area sparkles
 	with thousands of small lights running in thin lines and
@@ -5543,8 +5541,8 @@ field.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: GOLD LEADER'S COCKPIT.
-</sd>
+<scene><setting>INTERIOR: GOLD LEADER'S COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>GOLD LEADER</speaker> Red Leader, this is Gold Leader.
 </sp>
@@ -5556,8 +5554,8 @@ field.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-	Red Leader looks around at his wingmen; the Death Star looming
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd>	Red Leader looks around at his wingmen; the Death Star looming
 	in from behind. Two Y-wing fighters bob back and forth in the
 	background. He moves his computer targeting device into
 	position.
@@ -5568,31 +5566,31 @@ try and draw their fire.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	Two squads of Rebel fighters peel off. The X-wings dive
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	Two squads of Rebel fighters peel off. The X-wings dive
 	towards the Death Star surface. A thousand lights glow across
 	the dark grey expanse of the huge station.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR.
-	Alarm sirens scream as soldiers scramble to large turbo-
+<scene><setting>INTERIOR: DEATH STAR.</setting>
+<sd>	Alarm sirens scream as soldiers scramble to large turbo-
 	powered laser gun emplacements. Electronic drivers rotate the
 	huge guns into position as crew adjust their targeting
 	devices.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Laserbolts streak through the star-filled night. The Rebel
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Laserbolts streak through the star-filled night. The Rebel
 	X-wing fighters move in toward the Imperial base, as the Death
 	Star aims its massive laser guns at the Rebel forces and
 	fires.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	Princess Leia listens to the battle over the intercom.
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	Princess Leia listens to the battle over the intercom.
 	Threepio is at her side.
 </sd>
 
@@ -5603,29 +5601,29 @@ try and draw their fire.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	An X-wing zooms across the surface of the Death Star.
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	An X-wing zooms across the surface of the Death Star.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR.
-	Technical crews scurry here and there loading last-minute
+<scene><setting>INTERIOR: DEATH STAR.</setting>
+<sd>	Technical crews scurry here and there loading last-minute
 	armaments and unlocking power cables.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: WEDGE'S COCKPIT.
-	Wedge maneuvers his fighter toward the menacing Death Star.
+<scene><setting>INTERIOR: WEDGE'S COCKPIT.</setting>
+<sd>	Wedge maneuvers his fighter toward the menacing Death Star.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	X-wings continue in their attack course on the Death Star.
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	X-wings continue in their attack course on the Death Star.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke nosedives radically, starting his attack on the monstrous
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke nosedives radically, starting his attack on the monstrous
 	fortress. The Death Star surface streaks past the cockpit
 	window.
 </sd>
@@ -5634,15 +5632,15 @@ try and draw their fire.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	Luke's X-wing races toward the Death Star. Laserbolts streak
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	Luke's X-wing races toward the Death Star. Laserbolts streak
 	from Luke's weapons, creating a huge fireball explosion on the
 	dim surface.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Terror crosses Luke's face as he realizes he won't be able to
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Terror crosses Luke's face as he realizes he won't be able to
 	pull out in time to avoid the fireball.
 </sd>
 
@@ -5650,21 +5648,21 @@ try and draw their fire.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF DEATH STAR.
-	Luke's ship emerges from the fireball, with the leading edges
+<scene><setting>EXTERIOR: SURFACE OF DEATH STAR.</setting>
+<sd>	Luke's ship emerges from the fireball, with the leading edges
 	of his wings slightly scorched.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: BIGGS' COCKPIT.
-</sd>
+<scene><setting>INTERIOR: BIGGS' COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>BIGGS</speaker> Are you all right?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke adjusts his controls and breathes a sigh of relief. Flak
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke adjusts his controls and breathes a sigh of relief. Flak
 	bursts outside the cockpit window.
 </sd>
 
@@ -5672,14 +5670,14 @@ try and draw their fire.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Rebel fighters continue to strafe the Death Star's surface
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Rebel fighters continue to strafe the Death Star's surface
 	with laserbolts.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR.
-	Walls buckle and cave in. Troops and equipment are blown in
+<scene><setting>INTERIOR: DEATH STAR.</setting>
+<sd>	Walls buckle and cave in. Troops and equipment are blown in
 	all directions. Stormtroopers stagger out of the rubble.
 	Standing in the middle of the chaos, a vision of calm and
 	foreboding, is Darth Vader. One of his Astro-Officers rushes
@@ -5695,8 +5693,8 @@ fighters.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR.
-	Smoke belches from the giant laser guns as they wind up their
+<scene><setting>INTERIOR: DEATH STAR.</setting>
+<sd>	Smoke belches from the giant laser guns as they wind up their
 	turbine generators to create sufficient power. The crew rushes
 	about preparing for another blast. Even the troopers head gear
 	is not adequate to protect them from the overwhelming noise of
@@ -5705,16 +5703,16 @@ fighters.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: READ LEADER'S X-WING FIGHTER -- COCKPIT -- TRAVELING.
-	Red Leader flies through a heavy hail of flak.
+<scene><setting>INTERIOR: READ LEADER'S X-WING FIGHTER -- COCKPIT -- TRAVELING.</setting>
+<sd>	Red Leader flies through a heavy hail of flak.
 </sd>
 
 <sp><speaker>RED LEADER</speaker> Luke, let me know when you're going in.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING -- COCKPIT -- TRAVELING.
-	The Red Leader's X-wing flies past Luke as he puts his nose
+<scene><setting>INTERIOR: LUKE'S X-WING -- COCKPIT -- TRAVELING.</setting>
+<sd>	The Red Leader's X-wing flies past Luke as he puts his nose
 	down and starts his attack dive.
 </sd>
 
@@ -5729,57 +5727,57 @@ right side of that deflection tower.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Luke flings his X-wing into a twisting dive across the horizon
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Luke flings his X-wing into a twisting dive across the horizon
 	and down onto the dim grey surface.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: LUKE'S X-WING TRAVELING.
-	A shot hurls from Luke's guns. Laserbolts streak toward the
+<scene><setting>EXTERIOR: LUKE'S X-WING TRAVELING.</setting>
+<sd>	A shot hurls from Luke's guns. Laserbolts streak toward the
 	onrushing Death Star surface. Several small radar emplacements
 	erupt in flame. Laserfire erupts from a protruding tower on
 	the surface.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING -- COCKPIT -- TRAVELING.
-	The blurry Death Star surface races past the cockpit window as
+<scene><setting>INTERIOR: LUKE'S X-WING -- COCKPIT -- TRAVELING.</setting>
+<sd>	The blurry Death Star surface races past the cockpit window as
 	a big smile sweeps across Luke's face at the success of his
 	run. Flak thunders on all sides of him.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	The Death Star superstructure races past Luke as he maneuvers
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	The Death Star superstructure races past Luke as he maneuvers
 	his craft through a wall of laserfire and peels away from the
 	surface towards the heavens.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR.
-	The thunder and smoke of the big guns reverberate throughout
+<scene><setting>INTERIOR: DEATH STAR.</setting>
+<sd>	The thunder and smoke of the big guns reverberate throughout
 	the massive structure. Many soldiers rush about in the smoke
 	and chaos, silhouetted by the almost continual flash of
 	explosions.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: BIGGS' COCKPIT -- TRAVELING.
-	Biggs dives through a forest of radar domes, antennae, and gun
+<scene><setting>INTERIOR: BIGGS' COCKPIT -- TRAVELING.</setting>
+<sd>	Biggs dives through a forest of radar domes, antennae, and gun
 	towers as he shoots low across the Death Star surface. A dense
 	barrage of laserfire streaks by on all sides.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR.
-	Imperial star pilots dash in unison to a line of small
+<scene><setting>INTERIOR: DEATH STAR.</setting>
+<sd>	Imperial star pilots dash in unison to a line of small
 	auxiliary hatches that lead to Imperial TIE fighters.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	Princess Leia, surrounded by her generals and aides, paces
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	Princess Leia, surrounded by her generals and aides, paces
 	nervously before a lighted computer table. On all sides
 	technicians work in front of many lighted glass walls. Dodonna
 	watches quietly from one corner. One of the officers working
@@ -5791,8 +5789,8 @@ signals. Enemy fighters coming your way.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING -- COCKPIT -- TRAVELING.
-	Luke looks around to see if he can spot the approaching
+<scene><setting>INTERIOR: LUKE'S X-WING -- COCKPIT -- TRAVELING.</setting>
+<sd>	Luke looks around to see if he can spot the approaching
 	Imperial fighters.
 </sd>
 
@@ -5800,8 +5798,8 @@ signals. Enemy fighters coming your way.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S X-WING -- COCKPIT -- TRAVELING.
-	The Death Star's surface sweeps past as Red Leader searches
+<scene><setting>INTERIOR: RED LEADER'S X-WING -- COCKPIT -- TRAVELING.</setting>
+<sd>	The Death Star's surface sweeps past as Red Leader searches
 	the sky for the Imperial fighters. Flak pounds at his ship.
 </sd>
 
@@ -5810,23 +5808,23 @@ they'll be on top of you before your scope can pick them up.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Silhouetted against the rim lights of the Death Star horizon,
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Silhouetted against the rim lights of the Death Star horizon,
 	four ferocious Imperial TIE ships dive on the Rebel fighters.
 	Two of the TIE fighters peel off and drop out of frame. Pan
 	with the remaining two TIE ships.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: BIGGS' COCKPIT -- TRAVELING.
-	Biggs panics when he discovers a TIE ship on his tail. The
+<scene><setting>INTERIOR: BIGGS' COCKPIT -- TRAVELING.</setting>
+<sd>	Biggs panics when he discovers a TIE ship on his tail. The
 	horizon in the background twists around as he peels off,
 	hoping to lose the Imperial fighter.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-</sd>
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>RED LEADER</speaker> Biggs! You've picked one up...watch it!
 </sp>
@@ -5835,15 +5833,15 @@ they'll be on top of you before your scope can pick them up.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Biggs zooms off the surface and into space, closely followed
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Biggs zooms off the surface and into space, closely followed
 	by an Imperial TIE fighter. The TIE ship fires several
 	laserbolts at Biggs, but misses.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: BIGGS' COCKPIT -- TRAVELING.
-	Biggs see the TIE ship behind him and swings around, trying to
+<scene><setting>INTERIOR: BIGGS' COCKPIT -- TRAVELING.</setting>
+<sd>	Biggs see the TIE ship behind him and swings around, trying to
 	avoid him.
 </sd>
 
@@ -5851,15 +5849,15 @@ they'll be on top of you before your scope can pick them up.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Biggs, flying at high altitude, peels off and dives toward the
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Biggs, flying at high altitude, peels off and dives toward the
 	Death Star surface, but he is unable to lose the TIE fighter,
 	who sticks close to his tail.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: X-WING FIGHTER -- COCKPIT -- TRAVELING.
-	Luke is flying upside down. He rotates his ship around to
+<scene><setting>INTERIOR: X-WING FIGHTER -- COCKPIT -- TRAVELING.</setting>
+<sd>	Luke is flying upside down. He rotates his ship around to
 	normal attitude as he comes out of his dive.
 </sd>
 
@@ -5867,21 +5865,21 @@ they'll be on top of you before your scope can pick them up.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Biggs and the tailing TIE ship dive for the surface, now
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Biggs and the tailing TIE ship dive for the surface, now
 	followed by a fast-gaining Luke. After Biggs dives out of
 	sight, Luke chases the Imperial fighter.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE AROUND THE DEATH STAR.
-	In the foreground, the Imperial fighter races across the Death
+<scene><setting>EXTERIOR: SURFACE AROUND THE DEATH STAR.</setting>
+<sd>	In the foreground, the Imperial fighter races across the Death
 	Star's surface, closely followed by Luke in the background.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT -- TRAVELING.
-	There is a shot from Luke's X-wing of the TIE ship exploding
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT -- TRAVELING.</setting>
+<sd>	There is a shot from Luke's X-wing of the TIE ship exploding
 	in a mass of flames.
 </sd>
 
@@ -5889,8 +5887,8 @@ they'll be on top of you before your scope can pick them up.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR.
-	Darth Vader strides purposefully down a Death Star corridor,
+<scene><setting>INTERIOR: DEATH STAR.</setting>
+<sd>	Darth Vader strides purposefully down a Death Star corridor,
 	flanked by Imperial stormtroopers.
 </sd>
 
@@ -5899,8 +5897,8 @@ me!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	A concerned Princess Leia, Threepio, Dodonna, and other
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	A concerned Princess Leia, Threepio, Dodonna, and other
 	officers of the Rebellion stand around the huge round readout
 	screen, listening to the ship-to-ship communication on the
 	room's loudspeaker.
@@ -5919,33 +5917,33 @@ me!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	Luke's ship soars away from the Death Star's surface as he
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	Luke's ship soars away from the Death Star's surface as he
 	spots the tailing TIE fighter.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: TIE FIGHTER'S COCKPIT.
-	The TIE pilot takes aim at Luke's X-wing.
+<scene><setting>INTERIOR: TIE FIGHTER'S COCKPIT.</setting>
+<sd>	The TIE pilot takes aim at Luke's X-wing.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	The Imperial TIE fighter pilot scores a hit on Luke's ship.
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	The Imperial TIE fighter pilot scores a hit on Luke's ship.
 	Fire breaks out on the right side of the X-wing.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke looks out of his cockpit at the flames on his ship.
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke looks out of his cockpit at the flames on his ship.
 </sd>
 
 <sp><speaker>LUKE</speaker> I'm hit, but not bad.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: LUKE'S X-WING FIGHTER.
-	Smoke pours out from behind Artoo-Detoo.
+<scene><setting>EXTERIOR: LUKE'S X-WING FIGHTER.</setting>
+<sd>	Smoke pours out from behind Artoo-Detoo.
 </sd>
 
 <sp><speaker>LUKE'S VOICE</speaker> Artoo, see what you can do with it. Hang on back there.</sp>
@@ -5954,16 +5952,16 @@ me!
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING -- COCKPIT.
-	Luke nervously works his controls.
+<scene><setting>INTERIOR: LUKE'S X-WING -- COCKPIT.</setting>
+<sd>	Luke nervously works his controls.
 </sd>
 
 <sp><speaker>RED LEADER</speaker> (over headset) Red Six...
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	In the war room, Leia stands frozen as she listens and worries
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	In the war room, Leia stands frozen as she listens and worries
 	about Luke.
 </sd>
 
@@ -5975,8 +5973,8 @@ Five, where are you?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING -- COCKPIT.
-	Luke spots the TIE fighter behind him and soars away from the
+<scene><setting>INTERIOR: LUKE'S X-WING -- COCKPIT.</setting>
+<sd>	Luke spots the TIE fighter behind him and soars away from the
 	Death Star surface.
 </sd>
 
@@ -5984,69 +5982,69 @@ Five, where are you?
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Luke's ship soars closer to the surface of the Death Star, an
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Luke's ship soars closer to the surface of the Death Star, an
 	Imperial TIE fighter closing in on him in hot pursuit.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: WEDGE'S COCKPIT.
-	The Death Star whips below Wedge.
+<scene><setting>INTERIOR: WEDGE'S COCKPIT.</setting>
+<sd>	The Death Star whips below Wedge.
 </sd>
 
 <sp><speaker>WEDGE</speaker> I'm on him, Luke!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING -- COCKPIT.
-</sd>
+<scene><setting>INTERIOR: LUKE'S X-WING -- COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>WEDGE</speaker> (over headset) Hold on!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Wedge dives across the horizon toward Luke and the TIE
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Wedge dives across the horizon toward Luke and the TIE
 	fighter.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: WEDGE'S COCKPIT.
-	Wedge moves his X-wing in rapidly.
+<scene><setting>INTERIOR: WEDGE'S COCKPIT.</setting>
+<sd>	Wedge moves his X-wing in rapidly.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING -- COCKPIT.
-	Luke reacts frantically.
+<scene><setting>INTERIOR: LUKE'S X-WING -- COCKPIT.</setting>
+<sd>	Luke reacts frantically.
 </sd>
 
 <sp><speaker>LUKE</speaker> Blast it! Wedge where are you?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: TIE FIGHTER -- COCKPIT.
-	The fighter pilot watches Wedge's X-wing approach. Another
+<scene><setting>INTERIOR: TIE FIGHTER -- COCKPIT.</setting>
+<sd>	The fighter pilot watches Wedge's X-wing approach. Another
 	X-wing joins him, and both unleash a volley of laserfire on
 	the Imperial fighter.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	The TIE fighter explodes, filling the screen with white light.
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	The TIE fighter explodes, filling the screen with white light.
 	Luke's ship can be seen far in the distance.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING -- COCKPIT.
-	Luke looks about in relief.
+<scene><setting>INTERIOR: LUKE'S X-WING -- COCKPIT.</setting>
+<sd>	Luke looks about in relief.
 </sd>
 
 <sp><speaker>LUKE</speaker> Thanks, Wedge.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	Leia, Threepio, Dodonna and other Rebel officers are listening
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	Leia, Threepio, Dodonna and other Rebel officers are listening
 	to the Rebel Fighter's radio transmissions over the war room
 	intercom.
 </sd>
@@ -6058,8 +6056,8 @@ Five, where are you?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.
-	Gold Leader peels off and starts toward the long trenches at
+<scene><setting>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.</setting>
+<sd>	Gold Leader peels off and starts toward the long trenches at
 	the Death Star surface pole.
 </sd>
 
@@ -6067,14 +6065,14 @@ Five, where are you?
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Three Y-wing fighters of the Gold group dive out of the stars
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Three Y-wing fighters of the Gold group dive out of the stars
 	toward the Death Star surface.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	Leia and the others are grouped around the screen, as
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	Leia and the others are grouped around the screen, as
 	technicians move about attending to their duties.
 </sd>
 
@@ -6082,14 +6080,14 @@ Five, where are you?
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Three Imperial TIE ships in precise formation dive toward the
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Three Imperial TIE ships in precise formation dive toward the
 	Death Star surface.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Darth Vader calmly adjusts his control stick as the stars whip
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Darth Vader calmly adjusts his control stick as the stars whip
 	past in the window above his head.
 </sd>
 
@@ -6097,39 +6095,39 @@ Five, where are you?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	Technicians are seated at the computer readout table.
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	Technicians are seated at the computer readout table.
 </sd>
 
 <sp><speaker>GOLD LEADER</speaker> (over speaker) The exhaust post is...
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.
-</sd>
+<scene><setting>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>GOLD LEADER</speaker> ...marked and locked in!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Gold Leader approaches the surface and pulls out to skim the
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Gold Leader approaches the surface and pulls out to skim the
 	surface of the huge station. The ship moves into a deep
 	trench, firing laserbolts. The surface streaks past as
 	laserfire is returned by the Death Star.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: GOLD FIVE'S Y-WING -- COCKPIT -- TRAVELING.
-	Gold Five is a pilot in his early fifties with a very battered
+<scene><setting>INTERIOR: GOLD FIVE'S Y-WING -- COCKPIT -- TRAVELING.</setting>
+<sd>	Gold Five is a pilot in his early fifties with a very battered
 	helmet that looks like it's been through many battles. He
 	looks around to see if enemy ships are near. His fighter is
 	buffeted by Imperial flak.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.
-	Gold Leader races down the enormous trench that leads to the
+<scene><setting>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.</setting>
+<sd>	Gold Leader races down the enormous trench that leads to the
 	exhaust port. Laserbolts blast toward him in increasing
 	numbers, occasionally exploding near the ship causing it to
 	bounce about.
@@ -6139,27 +6137,27 @@ Five, where are you?
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Three Y-wing skim the Death Star surface deep in the trench,
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Three Y-wing skim the Death Star surface deep in the trench,
 	as laserbolts streak past on all sides.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: DEATH STAR SURFACE -- GUN EMPLACEMENTS.
-	An exterior surface gun blazes away at the oncoming Rebel
+<scene><setting>EXTERIOR: DEATH STAR SURFACE -- GUN EMPLACEMENTS.</setting>
+<sd>	An exterior surface gun blazes away at the oncoming Rebel
 	fighters.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.
-</sd>
+<scene><setting>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>GOLD LEADER</speaker> How many guns do you think, Gold Five.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-</sd>
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd></sd>
 
 <sp><speaker>GOLD FIVE</speaker> (over speaker) I'd say about twenty guns. Some on the
 surface, some on the towers.
@@ -6173,14 +6171,14 @@ five minutes.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-		 The three Y-wing fighters race toward camera and zoom
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>		 The three Y-wing fighters race toward camera and zoom
 	overhead through a hail of laserfire.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.
-		 Gold Leader pulls his computer targeting device down in
+<scene><setting>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.</setting>
+<sd>		 Gold Leader pulls his computer targeting device down in
 	front of his eye. Laserbolts continue to batter the Rebel
 	craft.
 </sd>
@@ -6189,8 +6187,8 @@ five minutes.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: GOLD TWO'S Y-WING -- COCKPIT.
-		 Gold Two, a younger pilot about Luke's age, pulls down his
+<scene><setting>INTERIOR: GOLD TWO'S Y-WING -- COCKPIT.</setting>
+<sd>		 Gold Two, a younger pilot about Luke's age, pulls down his
 	targeting eye viewer and adjusts it. His ship shudders under
 	intense laser barrage.
 </sd>
@@ -6205,30 +6203,30 @@ five minutes.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: GOLD FIVE'S COCKPIT.
-	Gold Five looks behind him.
+<scene><setting>EXTERIOR: GOLD FIVE'S COCKPIT.</setting>
+<sd>	Gold Five looks behind him.
 </sd>
 
 <sp><speaker>GOLD FIVE</speaker> Stabilize your read deflectors. Watch for enemy fighters.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.
-</sd>
+<scene><setting>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>GOLD LEADER</speaker> They've coming in! Three marks at two ten.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Three Imperial TIE ships, Darth Vader in the center flanked by
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Three Imperial TIE ships, Darth Vader in the center flanked by
 	two wingmen, dive in precise formation almost vertically
 	toward the Death Star surface.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Darth Vader calmly adjusts his control stick as the stars zoom
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Darth Vader calmly adjusts his control stick as the stars zoom
 	by.
 </sd>
 
@@ -6239,56 +6237,56 @@ five minutes.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Three TIE fighters zoom across the surface of the Death Star.
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Three TIE fighters zoom across the surface of the Death Star.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader lines up Gold Two in his targeting computer. Vader's
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader lines up Gold Two in his targeting computer. Vader's
 	hands grip the control stick as he presses the button.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT
-	The cockpit explodes around Gold Two. His head falls forward.
+<scene><setting>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT</setting>
+<sd>	The cockpit explodes around Gold Two. His head falls forward.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	As Gold Two's ship explodes, debris is flung out into space.
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	As Gold Two's ship explodes, debris is flung out into space.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.
-	Gold Leader looks over his shoulder at the scene.
+<scene><setting>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.</setting>
+<sd>	Gold Leader looks over his shoulder at the scene.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: DEATH STAR TRENCH.
-	The three TIE fighters race along in the trench in a tight
+<scene><setting>EXTERIOR: DEATH STAR TRENCH.</setting>
+<sd>	The three TIE fighters race along in the trench in a tight
 	formation.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.
-	Gold Leader panics.
+<scene><setting>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.</setting>
+<sd>	Gold Leader panics.
 </sd>
 
 <sp><speaker>GOLD LEADER</speaker> (into mike) I can't maneuver!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: GOLD FIVE'S Y-WING -- COCKPIT.
-	Gold Five, the old veteran, trys to calm Gold Leader.
+<scene><setting>INTERIOR: GOLD FIVE'S Y-WING -- COCKPIT.</setting>
+<sd>	Gold Five, the old veteran, trys to calm Gold Leader.
 </sd>
 
 <sp><speaker>GOLD FIVE</speaker> Stay on target.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.
-	The Death Star races by outside the cockpit window as he
+<scene><setting>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.</setting>
+<sd>	The Death Star races by outside the cockpit window as he
 	adjusts his targeting device.
 </sd>
 
@@ -6296,49 +6294,49 @@ five minutes.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: GOLD FIVE'S Y-WING -- COCKPIT.
-	The older pilot remains calm.
+<scene><setting>INTERIOR: GOLD FIVE'S Y-WING -- COCKPIT.</setting>
+<sd>	The older pilot remains calm.
 </sd>
 
 <sp><speaker>GOLD FIVE</speaker> Stay on target!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.
-	Now he's really panicked.
+<scene><setting>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.</setting>
+<sd>	Now he's really panicked.
 </sd>
 
 <sp><speaker>GOLD LEADER</speaker> Loosen up!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader calmly adjusts his targeting computer and pushes the
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader calmly adjusts his targeting computer and pushes the
 	fire button.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.
-	Gold Leader's ship is hit by Vader's laser.
+<scene><setting>INTERIOR: GOLD LEADER'S Y-WING -- COCKPIT.</setting>
+<sd>	Gold Leader's ship is hit by Vader's laser.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Gold Leader explodes in a ball of flames, throwing debris in
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Gold Leader explodes in a ball of flames, throwing debris in
 	all directions.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: GOLD FIVE'S Y-WING -- COCKPIT.
-	Gold Five moves in on the exhaust port.
+<scene><setting>INTERIOR: GOLD FIVE'S Y-WING -- COCKPIT.</setting>
+<sd>	Gold Five moves in on the exhaust port.
 </sd>
 
 <sp><speaker>GOLD FIVE</speaker> Gold Five to Red Leader...
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke looks over his shoulder at the action outside of his
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke looks over his shoulder at the action outside of his
 	cockpit.
 </sd>
 
@@ -6346,22 +6344,22 @@ five minutes.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-</sd>
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>RED LEADER</speaker> I copy, Gold Five.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: GOLD FIVE'S Y-WING -- COCKPIT.
-</sd>
+<scene><setting>INTERIOR: GOLD FIVE'S Y-WING -- COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>GOLD FIVE</speaker> They came from behind....
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	One of the engines explodes on Gold Five's Y-wing fighter,
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	One of the engines explodes on Gold Five's Y-wing fighter,
 	blazing out of control. He dives past the horizon toward the
 	Death Star's surface, passing a TIE fighter during his
 	descent. Gold Five, a veteran of countless campaigns, spins
@@ -6369,13 +6367,13 @@ five minutes.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke looks nervously about him at the explosive battle.
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke looks nervously about him at the explosive battle.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- CONTROL ROOM.
-	Grant Moff Tarkin and a Chief Officer stand in the Death
+<scene><setting>INTERIOR: DEATH STAR -- CONTROL ROOM.</setting>
+<sd>	Grant Moff Tarkin and a Chief Officer stand in the Death
 	Star's control room.
 </sd>
 
@@ -6394,16 +6392,16 @@ their chances!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: READ LEADER'S COCKPIT.
-	Red Leader looks over at his wingmen.
+<scene><setting>INTERIOR: READ LEADER'S COCKPIT.</setting>
+<sd>	Red Leader looks over at his wingmen.
 </sd>
 
 <sp><speaker>RED LEADER</speaker> Red Group, this is Red Leader.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	Dodonna moves to the intercom as he fiddles with the computer
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	Dodonna moves to the intercom as he fiddles with the computer
 	keys.
 </sd>
 
@@ -6417,16 +6415,16 @@ their chances!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT:
-</sd>
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT:</setting>
+<sd></sd>
 
 <sp><speaker>DODONNA</speaker> (over headset) Red Leader, this is Base One. Keep half your
 group out of range for the next run.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-</sd>
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>RED LEADER'S VOICE</speaker> (over headset) Copy, Base One. Luke, take Red Two
 and Three. Hold up here and wait for my signal...to start your run.
@@ -6434,26 +6432,26 @@ and Three. Hold up here and wait for my signal...to start your run.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	The X-wing fighters of Luke, Biggs, and Wedge fly in formation
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	The X-wing fighters of Luke, Biggs, and Wedge fly in formation
 	high above the Death Star's surface.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke peers out from his cockpit.
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke peers out from his cockpit.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Two X-wings move across the surface of the Death Star. Red
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Two X-wings move across the surface of the Death Star. Red
 	Leader's X-wing drops down to the surface leading to the
 	exhaust port.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-	Red Leader looks around to watch for the TIE fighters. He
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd>	Red Leader looks around to watch for the TIE fighters. He
 	begins to perspire.
 </sd>
 
@@ -6461,54 +6459,54 @@ and Three. Hold up here and wait for my signal...to start your run.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	Red Leader roams down the trench of the Death Star as lasers
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	Red Leader roams down the trench of the Death Star as lasers
 	streak across the black heavens.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: DEATH STAR SURFACE -- GUN EMPLACEMENTS.
-	A huge remote-control laser cannon fires at the approaching
+<scene><setting>EXTERIOR: DEATH STAR SURFACE -- GUN EMPLACEMENTS.</setting>
+<sd>	A huge remote-control laser cannon fires at the approaching
 	Rebel fighters.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: DEATH STAR TRENCH.
-	The Rebel fighters evade the Imperial laser blasts.
+<scene><setting>EXTERIOR: DEATH STAR TRENCH.</setting>
+<sd>	The Rebel fighters evade the Imperial laser blasts.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: RED TEN'S COCKPIT.
-	Red Ten looks around for the Imperial fighters.
+<scene><setting>INTERIOR: RED TEN'S COCKPIT.</setting>
+<sd>	Red Ten looks around for the Imperial fighters.
 </sd>
 
 <sp><speaker>RED TEN</speaker> We should be able to see it by now.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: DEATH STAR TRENCH.
-	From the cockpits of the Rebel pilots, the surface of the
+<scene><setting>EXTERIOR: DEATH STAR TRENCH.</setting>
+<sd>	From the cockpits of the Rebel pilots, the surface of the
 	Death Star streaks by, with Imperial laserfire shooting toward
 	them.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-</sd>
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>RED LEADER</speaker> Keep your eyes open for those fighters!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: RED TEN'S COCKPIT.
-</sd>
+<scene><setting>INTERIOR: RED TEN'S COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>RED TEN</speaker> There's too much interference!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE -- DEATH STAR TRENCH.
-	Three X-wing fighters move in formation down the Death Star
+<scene><setting>EXTERIOR: SPACE -- DEATH STAR TRENCH.</setting>
+<sd>	Three X-wing fighters move in formation down the Death Star
 	trench.
 </sd>
 
@@ -6516,16 +6514,16 @@ and Three. Hold up here and wait for my signal...to start your run.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke looks down at the Death Star surface below.
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke looks down at the Death Star surface below.
 </sd>
 
 <sp><speaker>LUKE</speaker> No sign of any...wait!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: RED TEN'S COCKPIT.
-	Red Ten looks up and sees the Imperial fighters.
+<scene><setting>INTERIOR: RED TEN'S COCKPIT.</setting>
+<sd>	Red Ten looks up and sees the Imperial fighters.
 </sd>
 
 <sp><speaker>LUKE</speaker> (over headset) Coming in point three five.
@@ -6535,15 +6533,15 @@ and Three. Hold up here and wait for my signal...to start your run.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Three TIE fighters, Vader flanked by two wingmen, dive in a
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Three TIE fighters, Vader flanked by two wingmen, dive in a
 	tight formation. The sun reflects off their dominate solar
 	fins as they loop toward the Death Star's surface.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-	Red Leader pulls his targeting device in front of his eyes and
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd>	Red Leader pulls his targeting device in front of his eyes and
 	makes several adjustments.
 </sd>
 
@@ -6551,13 +6549,13 @@ and Three. Hold up here and wait for my signal...to start your run.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Red Leader's X-wing moves up the Death Star trench.
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Red Leader's X-wing moves up the Death Star trench.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-</sd>
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>RED LEADER</speaker> Target's coming up!
 		</sp><sd> Red Leader looks at his computer target readout screen. He
@@ -6568,8 +6566,8 @@ and Three. Hold up here and wait for my signal...to start your run.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader adjusts his control lever and dives on the X-wing
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader adjusts his control lever and dives on the X-wing
 	fighters.
 </sd>
 
@@ -6577,39 +6575,39 @@ and Three. Hold up here and wait for my signal...to start your run.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: DEATH STAR TRENCH.
-	The three TIE fighters move in formation across the Death Star
+<scene><setting>EXTERIOR: DEATH STAR TRENCH.</setting>
+<sd>	The three TIE fighters move in formation across the Death Star
 	surface.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-		 Red Leader lines up his target on the targeting device
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd>		 Red Leader lines up his target on the targeting device
 	cross hairs.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Vader and his wingmen zoom down the trench.
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Vader and his wingmen zoom down the trench.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader rapidly approaches the two X-wings of Red Ten and Red
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader rapidly approaches the two X-wings of Red Ten and Red
 	Twelve. Vader's laser cannon flashes below the view of the
 	front porthole. the X-wings show in the center of Vader's
 	computer screen.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	Red Twelve's X-wing fighter is hit by Vader's laserfire, and
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	Red Twelve's X-wing fighter is hit by Vader's laserfire, and
 	it explodes into flames against the trench.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: RED TEN'S COCKPIT.
-	Red Ten works at his controls furiously, trying to avoid
+<scene><setting>INTERIOR: RED TEN'S COCKPIT.</setting>
+<sd>	Red Ten works at his controls furiously, trying to avoid
 	Vader's fighter behind him.
 </sd>
 
@@ -6617,68 +6615,68 @@ and Three. Hold up here and wait for my signal...to start your run.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-	Red Leader is concentrating on his targeting device.
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd>	Red Leader is concentrating on his targeting device.
 </sd>
 
 <sp><speaker>RED LEADER</speaker> Almost there!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: RED TEN'S COCKPIT.
-	Red Ten panics.
+<scene><setting>INTERIOR: RED TEN'S COCKPIT.</setting>
+<sd>	Red Ten panics.
 </sd>
 
 <sp><speaker>RED TEN</speaker> I can't hold them!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Vader and his wingmen whip through the trench in pursuit of
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Vader and his wingmen whip through the trench in pursuit of
 	the Rebel fighters.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader cooly pushes the fire button on his control stick.
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader cooly pushes the fire button on his control stick.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: RED TEN'S COCKPIT.
-	Darth Vader's well-aimed laserfire proves to be unavoidable,
+<scene><setting>INTERIOR: RED TEN'S COCKPIT.</setting>
+<sd>	Darth Vader's well-aimed laserfire proves to be unavoidable,
 	and strikes Red Ten's ship. Red Ten screams in anguish and
 	pain.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.  
-	Red Ten's ship explodes and bursts into flames.
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.  </setting>
+<sd>	Red Ten's ship explodes and bursts into flames.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-	Grimly, Red Leader takes careful aim and watches his computer
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd>	Grimly, Red Leader takes careful aim and watches his computer
 	targeting device, which shows the target lined up in the cross
 	hairs, and fires.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-</sd>
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>RED LEADER</speaker> It's away!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR.   
-	An armed Imperial stormtrooper is knocked to the floor from
+<scene><setting>INTERIOR: DEATH STAR.   </setting>
+<sd>	An armed Imperial stormtrooper is knocked to the floor from
 	the attack explosion. Other troopers scurrying about the
 	corridors are knocked against the wall and lose their balance.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	Leia and the others stare at the computer screen.
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	Leia and the others stare at the computer screen.
 </sd>
 
 <sp><speaker>RED NINE'S VOICE</speaker> (over speaker) It's a hit!
@@ -6688,8 +6686,8 @@ and Three. Hold up here and wait for my signal...to start your run.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-	Red Leader looks back at the receding Death Star. Tiny
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd>	Red Leader looks back at the receding Death Star. Tiny
 	explosions are visible in the distance.
 </sd>
 
@@ -6698,27 +6696,27 @@ surface.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR -- TIE FIGHTER.
-	Darth Vader peels off in pursuit as Red Leader's X-wing passes
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR -- TIE FIGHTER.</setting>
+<sd>	Darth Vader peels off in pursuit as Red Leader's X-wing passes
 	the Death Star horizon.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader swings his ship around for the next kill.
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader swings his ship around for the next kill.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-</sd>
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>LUKE</speaker> (over headset) Red Leader, we're right above you. Turn to
 point...
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke tries to spot Red Leader. He looks down at the Death Star
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke tries to spot Red Leader. He looks down at the Death Star
 	surface.
 </sd>
 
@@ -6729,58 +6727,58 @@ point...
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-	A wary Red Leader looks about nervously.
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd>	A wary Red Leader looks about nervously.
 </sd>
 
 <sp><speaker>RED LEADER</speaker> ...I just lost my starboard engine.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke looks excitedly toward Red Leader's X-wing.
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke looks excitedly toward Red Leader's X-wing.
 </sd>
 
 <sp><speaker>RED LEADER</speaker> (over headset) Get set to make your attack run.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader's gloved hands make contact with the control sticks, and
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader's gloved hands make contact with the control sticks, and
 	he presses their firing buttons.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: RED LEADER'S COCKPIT.
-	Red Leader fights to gain control of his ship.
+<scene><setting>INTERIOR: RED LEADER'S COCKPIT.</setting>
+<sd>	Red Leader fights to gain control of his ship.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Laserbolts are flung from Vader's TIE fighter, connecting with
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Laserbolts are flung from Vader's TIE fighter, connecting with
 	Red Leader's Rebel X-wing fighter. Red Leader buys it,
 	creating a tremendous explosion far below. He screams and is
 	destroyed.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke looks out the window of his X-wing at the explosion far
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke looks out the window of his X-wing at the explosion far
 	below. For the first time, he feels the helplessness of his
 	situation.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR.
-	Grand Moff Tarkin casts a sinister eye at the computer screen.
+<scene><setting>INTERIOR: DEATH STAR.</setting>
+<sd>	Grand Moff Tarkin casts a sinister eye at the computer screen.
 </sd>
 
 <sp><speaker>DEATH STAR INTERCOM VOICE</speaker> Rebel base, one minute and closing.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	Dodonna and Princess Leia, with Threepio beside them, listen
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	Dodonna and Princess Leia, with Threepio beside them, listen
 	intently to the talk between the pilots. The room is grim
 	after Red Leader's death. Princess Leia nervously paces the
 	room.
@@ -6791,50 +6789,50 @@ We're going in full throttle.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: WEDGE'S COCKPIT.
-	The horizon twists as Wedge begins to pull out.
+<scene><setting>INTERIOR: WEDGE'S COCKPIT.</setting>
+<sd>	The horizon twists as Wedge begins to pull out.
 </sd>
 
 <sp><speaker>WEDGE</speaker> Right with you, boss.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.  
-	The two X-wings peel off against a background of stars and
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.  </setting>
+<sd>	The two X-wings peel off against a background of stars and
 	dive toward the Death Star.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: BIGGS' COCKPIT.
-</sd>
+<scene><setting>INTERIOR: BIGGS' COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>BIGGS</speaker> Luke, at that speed will you be able to pull out in time?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-</sd>
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>LUKE</speaker> It'll be just like Beggar's Canyon back home.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	The three X-wings move in, unleashing a barrage of laserfire.
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	The three X-wings move in, unleashing a barrage of laserfire.
 	Laserbolts are returned from the Death Star.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: BIGGS' COCKPIT.
-	Luke's lifelong friend struggles with his controls.
+<scene><setting>INTERIOR: BIGGS' COCKPIT.</setting>
+<sd>	Luke's lifelong friend struggles with his controls.
 </sd>
 
 <sp><speaker>BIGGS</speaker> We'll stay back far enough to cover you.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S COCKPIT.
-	Flak and laserbolts flash outside Luke's cockpit window.
+<scene><setting>INTERIOR: LUKE'S COCKPIT.</setting>
+<sd>	Flak and laserbolts flash outside Luke's cockpit window.
 </sd>
 
 <sp><speaker>WEDGE</speaker> (over headset) My scope shows the tower, but I can't see the
@@ -6842,14 +6840,14 @@ exhaust port! Are you sure the computer can hit it?
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: DEATH STAR -- GUN EMPLACEMENTS.
-	The Death Star laser cannon slowly rotates as it shoots
+<scene><setting>EXTERIOR: DEATH STAR -- GUN EMPLACEMENTS.</setting>
+<sd>	The Death Star laser cannon slowly rotates as it shoots
 	laserbolts.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke looks around for the Imperial TIE fighters. He thinks for
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke looks around for the Imperial TIE fighters. He thinks for
 	a moment and then moves his targeting device into position.
 </sd>
 
@@ -6857,28 +6855,28 @@ exhaust port! Are you sure the computer can hit it?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: WEDGE'S COCKPIT.
-	Wedge looks excitedly about for any sign of the TIE fighters.
+<scene><setting>INTERIOR: WEDGE'S COCKPIT.</setting>
+<sd>	Wedge looks excitedly about for any sign of the TIE fighters.
 </sd>
 
 <sp><speaker>WEDGE</speaker> What about the tower?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-</sd>
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>LUKE</speaker> You worry about those fighters! I'll worry about the tower!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: DEATH STAR SURFACE.
-	Luke's X-wing streaks through the trench, firing lasers.
+<scene><setting>EXTERIOR: DEATH STAR SURFACE.</setting>
+<sd>	Luke's X-wing streaks through the trench, firing lasers.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke breaks into a nervous sweat as the laserfire is returned,
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke breaks into a nervous sweat as the laserfire is returned,
 	knicking one of his wings close to the engine.
 </sd>
 
@@ -6887,41 +6885,41 @@ See if you can't lock it down!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: LUKE'S X-WING FIGHTER.
-	Artoo works to repair the damages. The canyon wall rushes by
+<scene><setting>EXTERIOR: LUKE'S X-WING FIGHTER.</setting>
+<sd>	Artoo works to repair the damages. The canyon wall rushes by
 	in the background, making his delicate task seem even more
 	precarious.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: DEATH STAR.
-	Two laser cannons are firing on the Rebel fighters.
+<scene><setting>EXTERIOR: DEATH STAR.</setting>
+<sd>	Two laser cannons are firing on the Rebel fighters.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: WEDGE'S COCKPIT.
-	Wedge looks up and sees the TIE ships.
+<scene><setting>INTERIOR: WEDGE'S COCKPIT.</setting>
+<sd>	Wedge looks up and sees the TIE ships.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke's targeting device marks off the distance to the target.
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke's targeting device marks off the distance to the target.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Vader and his wingmen zoom closer.
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Vader and his wingmen zoom closer.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader adjusts his controls and fires laserbolts at two X-wings
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader adjusts his controls and fires laserbolts at two X-wings
 	flying down the trench. He scores a direct hit on Wedge.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	Leia and the others are grouped around the computer board.
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	Leia and the others are grouped around the computer board.
 </sd>
 
 <sp><speaker>WEDGE</speaker> (over speaker) I'm hit! I can't stay with you.
@@ -6931,41 +6929,41 @@ See if you can't lock it down!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-</sd>
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>LUKE</speaker> You can't do any more good back there!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: WEDGE'S COCKPIT.
-</sd>
+<scene><setting>INTERIOR: WEDGE'S COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>WEDGE</speaker> Sorry!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Wedge pulls his crippled X-wing back away from the battle.
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Wedge pulls his crippled X-wing back away from the battle.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader watches the escape but issues a command to his wingmen.
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader watches the escape but issues a command to his wingmen.
 </sd>
 
 <sp><speaker>VADER</speaker> Let him go! Stay on the leader!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Luke's X-wing speeds down the trench; the three TIE fighters,
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Luke's X-wing speeds down the trench; the three TIE fighters,
 	still in perfect unbroken formation, tail close behind.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: BIGGS' COCKPIT.
-	Biggs looks around at the TIE fighters. He is worried.
+<scene><setting>INTERIOR: BIGGS' COCKPIT.</setting>
+<sd>	Biggs looks around at the TIE fighters. He is worried.
 </sd>
 
 <sp><speaker>BIGGS</speaker> Hurry, Luke, they're coming in much faster this time. I can't
@@ -6973,44 +6971,44 @@ hold them!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	The three TIE fighters move ever closer, closing in on Luke
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	The three TIE fighters move ever closer, closing in on Luke
 	and Biggs.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke looks back anxiously at little Artoo.
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke looks back anxiously at little Artoo.
 </sd>
 
 <sp><speaker>LUKE</speaker> Artoo, try and increase the power!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: LUKE'S X-WING FIGHTER.
-	Ignoring the bumpy ride, flak, and lasers, a beeping
+<scene><setting>EXTERIOR: LUKE'S X-WING FIGHTER.</setting>
+<sd>	Ignoring the bumpy ride, flak, and lasers, a beeping
 	Artoo-Detoo struggles to increase the power, his dome turning
 	from side to side.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Stealthily, the TIE formation creeps closer.
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Stealthily, the TIE formation creeps closer.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader adjusts his control stick.
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader adjusts his control stick.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: BIGGS' COCKPIT.
-	Biggs looks around at the TIE fighters.
+<scene><setting>INTERIOR: BIGGS' COCKPIT.</setting>
+<sd>	Biggs looks around at the TIE fighters.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER.
-	Luke looks into his targeting device. He moves it away for a
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER.</setting>
+<sd>	Luke looks into his targeting device. He moves it away for a
 	moment and ponders its use. He looks back into the computer
 	targeter.
 </sd>
@@ -7019,49 +7017,49 @@ hold them!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Vader and his wingmen race through the Death Star trench.
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Vader and his wingmen race through the Death Star trench.
 	Biggs moves in to cover for Luke, but Vader gains on him.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: BIGGS' COCKPIT.
-	Biggs sees the TIE fighter aiming at him.
+<scene><setting>INTERIOR: BIGGS' COCKPIT.</setting>
+<sd>	Biggs sees the TIE fighter aiming at him.
 </sd>
 
 <sp><speaker>BIGGS</speaker> Wait!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader squeezes the fire button on his controls.
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader squeezes the fire button on his controls.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: BIGGS' COCKPIT.
-	Biggs' cockpit explodes around him, lighting him in red.
+<scene><setting>INTERIOR: BIGGS' COCKPIT.</setting>
+<sd>	Biggs' cockpit explodes around him, lighting him in red.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Biggs' ship bursts into a million flaming bits and scatters
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Biggs' ship bursts into a million flaming bits and scatters
 	across the surface.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	Leia and the others stare at the computer board.
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	Leia and the others stare at the computer board.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING COCKPIT.
-	Luke is stunned by Biggs' death. His eyes are watering, but
+<scene><setting>INTERIOR: LUKE'S X-WING COCKPIT.</setting>
+<sd>	Luke is stunned by Biggs' death. His eyes are watering, but
 	his anger is also growing.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- CONTROL ROOM.
-	Grand Moff Tarkin watches the projected target screen with
+<scene><setting>INTERIOR: DEATH STAR -- CONTROL ROOM.</setting>
+<sd>	Grand Moff Tarkin watches the projected target screen with
 	satisfaction.
 </sd>
 
@@ -7069,21 +7067,21 @@ hold them!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader takes aim on Luke and talks to the wingmen.
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader takes aim on Luke and talks to the wingmen.
 </sd>
 
 <sp><speaker>VADER</speaker> I'm on the leader.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR -- LUKE'S SHIP.
-	Luke's ship streaks through the trench of the Death Star.
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR -- LUKE'S SHIP.</setting>
+<sd>	Luke's ship streaks through the trench of the Death Star.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	Princess Leia returns her general's worried and doubtful
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	Princess Leia returns her general's worried and doubtful
 	glances with solid, grim determination. Threepio seems nervous.
 </sd>
 
@@ -7091,33 +7089,33 @@ hold them!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING -- COCKPIT.
-	Luke concentrates on his targeting device.
+<scene><setting>INTERIOR: LUKE'S X-WING -- COCKPIT.</setting>
+<sd>	Luke concentrates on his targeting device.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Three TIE fighters charge away down the trench toward Luke.
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Three TIE fighters charge away down the trench toward Luke.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader's finger's curls around the control stick.
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader's finger's curls around the control stick.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING -- COCKPIT.
-	Luke adjusts the lens of his targeting device.
+<scene><setting>INTERIOR: LUKE'S X-WING -- COCKPIT.</setting>
+<sd>	Luke adjusts the lens of his targeting device.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Luke's ship charges down the trench.
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Luke's ship charges down the trench.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING -- COCKPIT.
-	Luke lines up the yellow cross-hair lines of the targeting
+<scene><setting>INTERIOR: LUKE'S X-WING -- COCKPIT.</setting>
+<sd>	Luke lines up the yellow cross-hair lines of the targeting
 	device's screen. He looks into the targeting device, then
 	starts at a voice he hears.
 </sd>
@@ -7126,13 +7124,13 @@ hold them!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	The Death Star trench zooms by.
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	The Death Star trench zooms by.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING -- COCKPIT.
-	Luke looks up, then starts to look back into the targeting
+<scene><setting>INTERIOR: LUKE'S X-WING -- COCKPIT.</setting>
+<sd>	Luke looks up, then starts to look back into the targeting
 	device. He has second thoughts.
 </sd>
 
@@ -7142,25 +7140,25 @@ hold them!
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Luke's fighter streaks through the trench.
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Luke's fighter streaks through the trench.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-</sd>
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>VADER</speaker> The Force is strong with this one!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Vader follows Luke's X-wing down the trench.
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Vader follows Luke's X-wing down the trench.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING -- COCKPIT.
-	Luke looks to the targeting device, then away as he hears
+<scene><setting>INTERIOR: LUKE'S X-WING -- COCKPIT.</setting>
+<sd>	Luke looks to the targeting device, then away as he hears
 	Ben's voice.
 </sd>
 
@@ -7170,8 +7168,8 @@ hold them!
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	Leia and the others stand watching the projected screen.
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	Leia and the others stand watching the projected screen.
 </sd>
 
 <sp><speaker>BASE VOICE</speaker> (over speaker) His computer's off. Luke, you switched off
@@ -7182,49 +7180,49 @@ your targeting computer. What's wrong?
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Luke's ship streaks ever close to the exhaust port.
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Luke's ship streaks ever close to the exhaust port.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING -- COCKPIT.
-	Luke looks at the Death Star surface streaking by.
+<scene><setting>INTERIOR: LUKE'S X-WING -- COCKPIT.</setting>
+<sd>	Luke looks at the Death Star surface streaking by.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: LUKE'S X-WING FIGHTER.
-	Artoo-Detoo turns his head from side to side, beeping in
+<scene><setting>EXTERIOR: LUKE'S X-WING FIGHTER.</setting>
+<sd>	Artoo-Detoo turns his head from side to side, beeping in
 	anticipation.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	The three TIE fighters, manned by Vader and his two wingmen,
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	The three TIE fighters, manned by Vader and his two wingmen,
 	follow Luke's X-wing down the trench.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader maneuvers his controls as he looks at his doomed target.
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader maneuvers his controls as he looks at his doomed target.
 	He presses the fire buttons on his control sticks. Laserfire
 	shoots toward Luke's X-wing fighter.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: LUKE'S X-WING FIGHTER.
-	A large burst of Vader's laserfire engulfs Artoo. The arms go
+<scene><setting>EXTERIOR: LUKE'S X-WING FIGHTER.</setting>
+<sd>	A large burst of Vader's laserfire engulfs Artoo. The arms go
 	limp on the smoking little droid as he makes a high-pitched
 	sound.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke looks frantically back over his shoulder at Artoo.
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke looks frantically back over his shoulder at Artoo.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: LUKE'S X-WING FIGHTER.
-	Smoke billows out around little Artoo and sparks begin to fly.
+<scene><setting>EXTERIOR: LUKE'S X-WING FIGHTER.</setting>
+<sd>	Smoke billows out around little Artoo and sparks begin to fly.
 </sd>
 
 <sp><speaker>LUKE</speaker> I've lost Artoo!
@@ -7232,8 +7230,8 @@ your targeting computer. What's wrong?
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	Leia and the others stare intently at the projected screen,
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	Leia and the others stare intently at the projected screen,
 	while Threepio watches the Princess. Lights representing the
 	Death Star and targets glow brightly.
 </sd>
@@ -7243,8 +7241,8 @@ Death Star has cleared the planet.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR -- CONTROL ROOM.
-	Tarkin glares at the projected target screen.
+<scene><setting>INTERIOR: DEATH STAR -- CONTROL ROOM.</setting>
+<sd>	Tarkin glares at the projected target screen.
 </sd>
 
 <sp><speaker>DEATH STAR INTERCOM VOICE</speaker> Rebel base, in range.
@@ -7259,30 +7257,30 @@ Death Star has cleared the planet.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	The three TIE fighters zoom down the Death Star trench in
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	The three TIE fighters zoom down the Death Star trench in
 	pursuit of Luke, never breaking formation.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S COCKPIT.
-	Luke looks anxiously at the exhaust port.
+<scene><setting>INTERIOR: LUKE'S COCKPIT.</setting>
+<sd>	Luke looks anxiously at the exhaust port.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader adjusts his control sticks, checking his projected
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader adjusts his control sticks, checking his projected
 	targeting screen.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Luke's ship barrels down the trench.
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Luke's ship barrels down the trench.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader's targeting computer swings around into position. Vader
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader's targeting computer swings around into position. Vader
 	takes careful aim on Luke's X-wing fighter.
 </sd>
 
@@ -7291,50 +7289,50 @@ Death Star has cleared the planet.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	The three TIE fighters move in on Luke. As Vader's center
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	The three TIE fighters move in on Luke. As Vader's center
 	fighter unleashes a volley of laserfire, one of the TIE ships
 	at his side is hit and explodes into flame. The two remaining
 	ships continue to move in.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke looks about, wondering whose laserfire destroyed Vader's
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke looks about, wondering whose laserfire destroyed Vader's
 	wingman.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader is taken by surprise, and looks out from his cockpit.
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader is taken by surprise, and looks out from his cockpit.
 </sd>
 
 <sp><speaker>VADER</speaker> What?
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S WINGMAN -- COCKPIT.
-	Vader's wingman searches around him trying to locate the
+<scene><setting>INTERIOR: DARTH VADER'S WINGMAN -- COCKPIT.</setting>
+<sd>	Vader's wingman searches around him trying to locate the
 	unknown attacker.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-	Han and Chewbacca grin from ear to ear.
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd>	Han and Chewbacca grin from ear to ear.
 </sd>
 
 <sp><speaker>HAN</speaker> (yelling) Yahoo!
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	The Millennium Falcon heads right at the two TIE fighters.
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	The Millennium Falcon heads right at the two TIE fighters.
 	It's a collision course.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: WINGMAN'S COCKPIT.
-	The wingman spots the pirateship coming at him and warns the
+<scene><setting>INTERIOR: WINGMAN'S COCKPIT.</setting>
+<sd>	The wingman spots the pirateship coming at him and warns the
 	Dark Lord.
 </sd>
 
@@ -7342,8 +7340,8 @@ Death Star has cleared the planet.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: DEATH STAR TRENCH.
-	Vader's wingman panics at the sight of the oncoming pirate
+<scene><setting>EXTERIOR: DEATH STAR TRENCH.</setting>
+<sd>	Vader's wingman panics at the sight of the oncoming pirate
 	starship and veers radically to one side, colliding with
 	Vader's TIE fighter in the process. Vader's wingman crashes
 	into the side wall of the trench and explodes. Vader's damaged
@@ -7351,60 +7349,60 @@ Death Star has cleared the planet.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Vader's ship spins out of control with a bent solar fin,
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Vader's ship spins out of control with a bent solar fin,
 	heading for deep space.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DARTH VADER'S COCKPIT.
-	Vader turns round and round in circles as his ship spins
+<scene><setting>INTERIOR: DARTH VADER'S COCKPIT.</setting>
+<sd>	Vader turns round and round in circles as his ship spins
 	into space.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Solo's ship moves in toward the Death Star trench.
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Solo's ship moves in toward the Death Star trench.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-	Solo, smiling, speaks to Luke over his headset mike.
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd>	Solo, smiling, speaks to Luke over his headset mike.
 </sd>
 
 <sp><speaker>HAN</speaker> (into mike) You're all clear, kid.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.
-	Leia and the others listen to Solo's transmission.
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- WAR ROOM.</setting>
+<sd>	Leia and the others listen to Solo's transmission.
 </sd>
 
 <sp><speaker>HAN</speaker> (over speaker) Now let's blow this thing and go home!
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke looks up and smiles. He concentrates on the exhaust port,
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke looks up and smiles. He concentrates on the exhaust port,
 	then fires his laser torpedoes.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SURFACE OF THE DEATH STAR.
-	Luke's torpedoes shoot toward the port and seems to simply
+<scene><setting>EXTERIOR: SURFACE OF THE DEATH STAR.</setting>
+<sd>	Luke's torpedoes shoot toward the port and seems to simply
 	disappear into the surface and not explode. But the shots do
 	find their mark and have gone into the exhaust port and are
 	heading for the main reactor.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke throws his head back in relief.
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke throws his head back in relief.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR.
-	An Imperial soldier runs to the control panel board and pulls
+<scene><setting>INTERIOR: DEATH STAR.</setting>
+<sd>	An Imperial soldier runs to the control panel board and pulls
 	the attack lever as the board behind him lights up.
 </sd>
 
@@ -7412,14 +7410,14 @@ Death Star has cleared the planet.
 </sp>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	Two X-wings, a Y-wing, and the pirateship race toward Yavin in
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	Two X-wings, a Y-wing, and the pirateship race toward Yavin in
 	the distance.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: DEATH STAR.
-	Several Imperial soldiers, flanking a pensive Grand Moff
+<scene><setting>INTERIOR: DEATH STAR.</setting>
+<sd>	Several Imperial soldiers, flanking a pensive Grand Moff
 	Tarkin, busily push control levers and buttons.
 </sd>
 
@@ -7428,23 +7426,23 @@ Death Star has cleared the planet.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE AROUND THE DEATH STAR.
-	The Rebel ships race out of sight, leaving the moon-like Death
+<scene><setting>EXTERIOR: SPACE AROUND THE DEATH STAR.</setting>
+<sd>	The Rebel ships race out of sight, leaving the moon-like Death
 	Star alone against a blanket of stars. Several small flashes
 	appear on the surface. The Death Star bursts into a supernova,
 	creating a spectacular heavenly display.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MILLENNIUM FALCON -- COCKPIT.
-</sd>
+<scene><setting>INTERIOR: MILLENNIUM FALCON -- COCKPIT.</setting>
+<sd></sd>
 
 <sp><speaker>HAN</speaker> Great shot, kid. That was one in a million.
 </sp>
 
 </scene>
-<scene><sd>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.
-	Luke is at ease, and his eyes are closed.
+<scene><setting>INTERIOR: LUKE'S X-WING FIGHTER -- COCKPIT.</setting>
+<sd>	Luke is at ease, and his eyes are closed.
 </sd>
 
 <sp><speaker>BEN'S VOICE</speaker> Remember, the Force will be with you...always.
@@ -7452,18 +7450,18 @@ Death Star has cleared the planet.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: DARTH VADER'S TIE FIGHTER.
-	Vader's ship spins off into space.
+<scene><setting>EXTERIOR: DARTH VADER'S TIE FIGHTER.</setting>
+<sd>	Vader's ship spins off into space.
 </sd>
 
 </scene>
-<scene><sd>EXTERIOR: SPACE.
-	The Rebel ships race toward the fourth moon of Yavin.
+<scene><setting>EXTERIOR: SPACE.</setting>
+<sd>	The Rebel ships race toward the fourth moon of Yavin.
 </sd>
 
 </scene>
-<scene><sd>INTERIOR: MASSASSI OUTPOST -- MAIN HANGAR.
-	Luke climbs out of his starship fighter and is cheered by a
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- MAIN HANGAR.</setting>
+<sd>	Luke climbs out of his starship fighter and is cheered by a
 	throng of ground crew and pilots. Luke climbs down the ladder
 	as they all welcome him with laughter, cheers, and shouting.
 		 Princess Leia rushes toward him.
@@ -7510,9 +7508,8 @@ will help, I'll gladly donate them.
 <sp><speaker>LUKE</speaker> He'll be all right.
 </sp>
 </scene>
-<scene>
-<sd>INTERIOR: MASSASSI OUTPOST -- MAIN THRONE ROOM.
-	Luke, Han, and Chewbacca enter the huge ruins of the main
+<scene><setting>INTERIOR: MASSASSI OUTPOST -- MAIN THRONE ROOM.</setting>
+<sd>	Luke, Han, and Chewbacca enter the huge ruins of the main
 	temple. Hundreds of troops are lined up in neat rows. Banners
 	are flying and at the far end stands a vision in white, the
 	beautiful young Senator Leia. Luke and the others solemnly
@@ -7529,7 +7526,6 @@ will help, I'll gladly donate them.
 	who all bow before them. Chewbacca growls and Artoo beeps with
 	happiness.</sd>
 							 FADE OUT</scene>
-					 END CREDITS OVER STARS
-							 THE END
+</body>
 
 </xml>						
