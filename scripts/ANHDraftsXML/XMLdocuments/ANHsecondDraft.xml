@@ -11,13 +11,13 @@
 	 and he shall be known as: THE SON
 	 OF THE SUNS."
  
-	Journal of the Whills, 3:127</sp>
-
+	Journal of the Whills, 3:127
+</metadata>
 
 <body>
 <sd>FADE IN:</sd>
 
-</scene>
+
 <scene n="1"><setting>SPACE</setting>
 
 <sd>A vast sea of stars is broken as the warm, amber surface
@@ -560,12 +560,11 @@
 
 <sd>Artoo throws a short beep over his shoulder.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</sp></speaker>
-
-<sd>Leaving?!  Leaving where?  Don't 
+<sp><speaker>THREEPIO (CONT'D)</speaker>
+Leaving?!  Leaving where?  Don't 
 		be ridiculous, that's desertion!  
 		I order you to stop.  Did you 
-		hear me?  Stop!</sd>
+		hear me?  Stop!</sp>
 
 <sd>Artoo continues on, countering with a frenzy of electronic 
 		whistles and twangs.</sd>
@@ -5952,5 +5951,6 @@ Chewbacca and the robots.</sd>
 <sd>FADE OUT:</sd>
 
 <sd>END CREDITS.</sd>
+</scene>
 	 </body>
 </xml>
