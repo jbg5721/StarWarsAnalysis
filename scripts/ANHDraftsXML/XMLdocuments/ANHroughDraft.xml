@@ -12,11 +12,9 @@ Lucasfilm Ltd.</draft>
 </metadata>
 
 <body>
-<sd>  FADE IN:</sd>
-
 
 <scene n="1"><setting>SPACE</setting>
-
+<sd>  FADE IN:</sd>
 <sd>A sea of stars is broken by the vast blue surface of the planet, Utapau.  Five
 small moons slowly drift into view from the far side of the planet.  The main
 titles are followed by a roll-up:</sd>
@@ -3851,8 +3849,6 @@ whose face is hidden in the shadows of a computer bank.</sd>
 Welcome, gentlemen.  You must have had a difficult journey.  We'll be
 departing shortly....</sp>
 
-<sp>[p. 77 is all screwed up.  I attempt to interpret here:]</sp>
-
 <sd>Four Imperial troopers silently enter the room behind the two [??] Their
 laserswords are drawn.</sd>
 
@@ -3861,45 +3857,44 @@ laserswords are drawn.</sd>
 [?] I have been authorized to accept payment [?] the chrome company
 cooperation.  I [?] you've brought it with you.</sp>
 
-<sp>[?] moves out of the shadows, and is revealed to [be Valorum, F]irst Knight of
+<sd>[?] moves out of the shadows, and is revealed to [be Valorum, F]irst Knight of
 the Sith.  Instantly, both Han and [the general] understand the situation.
 They turn, drawing their [laserswords? ?] the move, and cut down the four
 Imperial troopers.  [?] chamber instantly seals shut.  Valorum hasn't [?] and
-remains unusually calm.  The two Jedi turn [?]</sp>
+remains unusually calm.  The two Jedi turn [?]</sd>
 
 <sp><speaker>VALORUM</speaker>
 
 [?] over, gentlemen.  The chamber is sealed.  [?] force me to release the Jai
 gas...</sp>
 
-<sp>[?] and the black knight turns to an intercom.</sp>
+<sd>[?] and the black knight turns to an intercom.</sd>
 
 <sp><speaker>INTERCOM</speaker>
 
 [?]ion secure.  Prisoners taken to hold "B,"... [?] casualties.... gas was
 necessary.</sp>
 
-<sp>[?]eral relax and drop their weapons.  The door [?] behind them and six guards
+<sd>[?]eral relax and drop their weapons.  The door [?] behind them and six guards
 enter wearing face-[?]nd the two Jedi with chrome microcuffs.  A [?] creeps
-across Valorum's face.  General [?] unimpressed with the knightly trap.</sp>
+across Valorum's face.  General [?] unimpressed with the knightly trap.</sd>
 
 <sp><speaker>VALORUM</speaker>
 
 [?] it's ended.  (to guard)  Take them [?] "G."  I don't want them with the
 others.  [?] for departure.</sp>
 
-<sp>[?esc]ort Han and the general out of the chamber [?] hallways.</sp>
+<sd>[?esc]ort Han and the general out of the chamber [?] hallways.</sd>
 
-<sp>[?93.  INTERIOR - BALTA]RIAN FREIGHTERS - AQUILAE</sp>
+</scene>
+<scene n="93">
+        <setting>[?93.  INTERIOR - BALTA]RIAN FREIGHTERS - AQUILAE</setting>
 
-<sp>[?]ch Han and the general into the hold of the [?] near the main exit where
-Artwo and Threepio [?] looking lost.  Threepio sees the general pass [?]ay.</sp>
+<sd>[?]ch Han and the general into the hold of the [?] near the main exit where
+Artwo and Threepio [?] looking lost.  Threepio sees the general pass [?]ay.</sd>
 
 <sp><speaker>THREEPIO</speaker>
-
 [?]ere he is.  Come on.</sp>
-
-<sp>[end of p. 77]</sp>
 
 <sd>The robots waddle off after the Jedi prisoners.  As the small procession
 passes detention cell B where the princess and the others are being held, Han
