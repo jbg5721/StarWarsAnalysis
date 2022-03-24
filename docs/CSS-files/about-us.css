@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2|Yatra+One');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Exo 2', sans-serif;
+}
+.wrapper{
+  margin-top: 60px;
+  text-align: center;
+}
+
+.wrapper h1{
+  font-family: 'star_jedi_hollowregular';
+  font-size: 70px;
+  color: #FFE81F;
+  margin-bottom: 30px;
+}
+
+.our_team{
+  width: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.our_team .team_member{
+  width: 250px;
+  margin: 10px;
+  background: #F2F3F5;
+  padding: 15px 20px;
+  border-radius:15px;
+  border: 1px solid black;
+}
+
+.our_team .team_member .member_img{  
+  max-width: 190px;
+  width: 100%;
+  height: 200px;
+  margin: 0 auto;
+  padding: 5px 0px;
+  position: relative;
+  cursor: pointer;
+  border: 2px green;
+}
+img{
+    border-radius: 50%;
+}
+.our_team .team_member .member_img img{
+  width: 100%;
+  height: 100%;
+}
+
+.our_team .team_member h3{
+  text-transform: uppercase;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  margin: 15px 0 10px;
+}
+
+.our_team .team_member span{
+  font-size: 16px;
+}
+
+.our_team .team_member p{
+  margin-top: 10px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.our_team .team_member .member_img .social_media{
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  background: rgba(0,0,0,0.65);
+  width: 95%;
+  height: 95%;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: scale(0);
+   transition: all 0.5s ease;
+}
+
