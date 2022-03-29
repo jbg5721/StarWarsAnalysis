@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../XMLdocuments/anewschema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="anewschema-change.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
    <metadata>
       <title>THE STAR WARS</title>
@@ -5276,7 +5276,8 @@
          <sp spk="VADER">
 		Get me the Captain of the Guard.</sp>
       </scene>
-      <scene n="170">170  DETENTION AREA - MAIN ENTRY - SPACE FORTRESS - TOWNOWI
+      <scene n="170">
+      	<setting>170  DETENTION AREA - MAIN ENTRY - SPACE FORTRESS - TOWNOWI</setting>
 
 	<sd>Three squads of troops, including Captain Valor, stand at
 	attention in the main entrance to the detention area, while 

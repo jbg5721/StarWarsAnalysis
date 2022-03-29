@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../XMLdocuments/anewschema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="anewschema-change.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
    <metadata>
       <title>The Star Wars</title>
