@@ -1,4 +1,6 @@
-<?xml-model href="anewschema.rnc" type="application/relax-ng-compact-syntax"?>
+
+
+<?xml-model href="anewschema-change.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <metadata>
 <title>ADVENTURES OF THE STARKILLER (episode one) "The Star Wars"</title>
@@ -73,7 +75,7 @@
 		direct hit.  The gunnery CHIEF finishes speaking into his 
 		helmet "com-link", and yells to the crew.</sd>
 
-<sp><speaker>CHIEF</speaker>
+<sp spk="CHIEF">
 		I don't know what you boys are 
 		so cheery about; there are still 
 		three more out there.</sp>
@@ -97,7 +99,7 @@
 		human proportions.  He has a gleaming bronze-like metallic 
 		surface of an "Art Deco" design.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Artoo, my friend, this is madness!  
 		If this keeps up, we're going to 
 		be destroyed.  I'm afraid I'm still 
@@ -107,7 +109,7 @@
 <sd>The little dwarf robot makes a series of electronic sounds 
 		that only a robot could understand.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		Relax?!?...What do you mean we're 
 		in no immediate danger??!  You're 
 		faulty, this is madness!</sp>
@@ -115,7 +117,7 @@
 <sd>Artoo gives his tall companion a sheepish computer blink
 		and starts off down the hallway. .</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		Artoo Detoo, wait!  Wait a 
 		minute.</sp>
 
@@ -143,7 +145,7 @@
 		of freight canisters.  The lanky Threepio becomes lodged 
 		under a computer console.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I'm dead!...I told you this 
 		would happen.  Artoo, I can't 
 		move.</sp>
@@ -153,7 +155,7 @@
 		sparking and smoking computer.  He is chattering away in 
 		an elaborate combination of whistles, beeps and clicks.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		Oh my, I think something is 
 		melting.  Artoo Detoo, this is 
 		all your fault...I should have 
@@ -170,37 +172,37 @@
 		the desk-like console; but they recognize the voice of their 
 		captain: DEAK STARKILLER.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		Shhh, it's the captain...</sp>
 
 <sd>The captain's FIRST OFFICER pops his head under the console 
 		and sees Artoo straining to free Threepio.  The little 
 		robot stops.</sd>
 
-<sp><speaker>OFFICER</speaker>
+<sp spk="OFFICER">
 		Well, Hello!  Are you boys all 
 		right?</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Yes sir, I'll be out in a minute.  
 		No damage that I can tell. Sorry 
 		to be of trouble, sir...</sp>
 
-<sp><speaker>OFFICER</speaker>
+<sp spk="OFFICER">
 		As you were.</sp>
 
 <sd>Artoo goes back to his pulling and pushing as the officer
 		again becomes a pair of legs, and is joined by the sturdier 
 		legs of Captain Starkiller.</sd>
 
-<sp><speaker>OFFICER (CONT'D)</speaker>
+<sp spk="OFFICER (CONT'D)">
 		There's a C-3 unit jammed under 
 		the console, but no damage, sir.</sp>
 
 <sd>Artoo uses one of his claw arms to cut away a small metal
 		beam bent around Threepio's shoulder.</sd>
 
-<sp><speaker>DEAK</speaker>
+<sp spk="DEAK">
 		The solar activators are burned 
 		out.  The shields are down.  
 		They'll be boarding in no time.  
@@ -210,7 +212,7 @@
 		tions.  The BOGAN force is strong 
 		with the enemy.</sp>
 
-<sp><speaker>OFFICER</speaker>
+<sp spk="OFFICER">
 		Yes sir, the men are ready.</sp>
 
 <sd>The officer bows low and hurries out of the smoldering cham-
@@ -222,7 +224,7 @@
 		ship yells out to the captain, and he rushes out of the room.  
 		Threepio breathes a sigh of relief.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I think there will be no es-
 		cape for the captain this time...</sp>
 
@@ -244,11 +246,11 @@
 		the chief pilot maneuver the huge warship above the tiny 
 		rebel spacefighter.</sd>
 
-<sp><speaker>CHIEF PILOT</speaker>
+<sp spk="CHIEF PILOT">
 		That's as close as I dare take 
 		her.</sp>
 
-<sp><speaker>CAPTAIN</speaker>
+<sp spk="CAPTAIN">
 (into intercom)
 		We are in position...stand by.  
 		Remember, Lord Vader wants as 
@@ -278,7 +280,7 @@
 		the smoking debris into the padded hallway.  The SERGEANT 
 		and four more armored troopers quickly follow.</sd>
 
-<sp><speaker>SERGEANT</speaker>
+<sp spk="SERGEANT">
 		Use your blades!  There's too 
 		much risk of blaster ricochet 
 		in these cramped quarters.</sp>
@@ -312,7 +314,7 @@
 		yells into his helmet intercom as he aims a laser pistol at 
 		the tiny chrome projectiles.</sd>
 
-<sp><speaker>TROOPER</speaker>
+<sp spk="TROOPER">
 		Seekers!  Seekers!  Close the 
 		hatches!!</sp>
 
@@ -344,21 +346,21 @@
 		mask, but he appears to be about twenty-five years old. He 
 		is wearing the loose-fitting robes of a Jedi knight.</sd>
 
-<sp><speaker>RANGER</speaker>
+<sp spk="RANGER">
 		The Bogan force is too strong 
 		upon us.  Our spirit is broken.</sp>
 
-<sp><speaker>DEAK</speaker>
+<sp spk="DEAK">
 		You must rally the men, fight 
 		off your despair.  The force of 
 		others is still with us...</sp>
 
-<sp><speaker>RANGER</speaker>
+<sp spk="RANGER">
 		Clieg is dead.  They're blasting 
 		the lifepods before we can clear 
 		the ship.  We're trapped...</sp>
 
-<sp><speaker>DEAK</speaker>
+<sp spk="DEAK">
 		Then we must make this treachery 
 		costly for them.  Return to your 
 		station.</sp>
@@ -367,19 +369,19 @@
 		out of the cockpit.  The pilot has returned to his seat in 
 		front of the ship's main control board.</sd>
 
-<sp><speaker>DEAK (CONT'D)</speaker>
+<sp spk="DEAK (CONT'D)">
 		What's the power now?</sp>
 
-<sp><speaker>PILOT (TYREE)</speaker>
+<sp spk="PILOT (TYREE)">
 		It's up to five point nine; but 
 		we'll need a lot more to ignite 
 		the engines...There just isn't 
 		enough time...</sp>
 
-<sp><speaker>DEAK</speaker>
+<sp spk="DEAK">
 		Keep at it.I'm going aft.</sp>
 
-<sp><speaker>PILOT (TYREE)</speaker>
+<sp spk="PILOT (TYREE)">
 		But what about your father. He 
 		must have the KIBER Crystal if 
 		Ogana Major is to survive.  He 
@@ -390,7 +392,7 @@
 		with Luke now.  We've lost every-
 		thing.  We should never...</sp>
 
-<sp><speaker>DEAK</speaker>
+<sp spk="DEAK">
 		You're feeling the Bogan's despair.
 		Be strong, Tyree, drive it from 
 		your thoughts.  Luke is father's 
@@ -400,20 +402,20 @@
 
 <sd>He moves to the computer bank, and speaks into the intercom.</sd>
 
-<sp><speaker>DEAK (CONT'D)</speaker>
+<sp spk="DEAK (CONT'D)">
 		All R-2 units stand by for new 
 		prime directive programming...</sp>
 
 <sd>He turns back to the pilot for a moment.</sd>
 
-<sp><speaker>DEAK (CONT'D)</speaker>
+<sp spk="DEAK (CONT'D)">
 		What's the R-2 scramble code?</sp>
 
-<sp><speaker>Pilot (TYREE)</speaker>
-		"Tan-takk RS-411".  Do you think 
+<sp spk="Pilot (TYREE)">		
+	"Tan-takk RS-411".  Do you think 
 		one of them might get through?</sp>
 
-<sp><speaker>DEAK</speaker>
+<sp spk="DEAK">
 		I'm afraid the chances of an R-2
 		unit finding Luke down there are 
 		much better than Luke's chances 
@@ -433,7 +435,7 @@
 		from a large hatchway at one end of the corridor.  Artoo's 
 		computer face blinks wildly.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		We're cut off.  They're coming 
 		from that direction.  I heard 
 		them.  Come on, we'll have to go 
@@ -441,7 +443,7 @@
 
 <sd>Artoo lets out a long musical whistle, but doesn't move.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		Wait!?? They'll be here in mo-
 		ments!  I have no intention of 
 		getting sent to the spice mines 
@@ -469,7 +471,7 @@
 		flex action.  A slow grim smile creeps across Deak's face, 
 		as the troops realize they are outmatched.</sd>
 
-<sp><speaker>TROOPER</speaker>
+<sp spk="TROOPER">
 		He's a Jedi.  Use your blasters!</sp>
 
 <sd>Six troopers who are carrying their chrome laser rifles at 
@@ -490,14 +492,14 @@
 		laser bolts fly past him.  Artoo beeps to his terrified com-
 		panion.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		No more adventures!  I'm not 
 		going in there.  No!  Never!</sp>
 
 <sd>Artoo disappears down the ominous shaft.  He leaves his friend 
 		with a few parting whistles.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		Don't call me a mindless philosopher, 
 		you overweight glob of grease!  I 
 		simply think you are going the wrong 
@@ -505,7 +507,7 @@
 
 <sd>Threepio peers into the gloom of the vent shaft.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		Hello?!?  Artoo?...</sp>
 
 </scene>
@@ -530,7 +532,7 @@
 		blade.  Troopers still fleeing the area crash into those re-
 		turning.</sd>
 
-<sp><speaker>TROOPER</speaker>
+<sp spk="TROOPER">
 		The Sith Knight...Lord Vader is 
 		coming.  Go back.  Go back!</sp>
 
@@ -546,14 +548,14 @@
 		row corridors, yelling at Artoo, who races along as fast as 
 		his stubby mechanical feet will carry him.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Wait!  Wait a minute.  I'm coming.
 		...Would you mind telling me where
 		you are off to?</sp>
 
 <sd>Artoo throws a short beep over his shoulder.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 Leaving?!  Leaving where?  Don't 
 		be ridiculous, that's desertion!  
 		I order you to stop.  Did you 
@@ -562,8 +564,8 @@ Leaving?!  Leaving where?  Don't
 <sd>Artoo continues on, countering with a frenzy of electronic 
 		whistles and twangs.</sd>
 
-<sp>
-	<speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
+	
 		What new prime directive?  Why 
 		didn't I receive it?  
 		What's so important that I'm 
@@ -576,7 +578,7 @@ Leaving?!  Leaving where?  Don't
 		begins to flash.  The stubby, dwarf-robot works his way 
 		into the cramped four-man pod.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		Hey!  What are you doing?  You 
 		can't use that!...It's restricted.  
 		You're not permitted in there; 
@@ -590,7 +592,7 @@ Leaving?!  Leaving where?  Don't
 		bots.  After a flurry of electronic swearing from Artoo, the 
 		lanky bronze Threepio jumps into the lifepod.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		I think I'm going to regret this; 
 		but my prime directive IS preser-
 		vation.</sp>
@@ -605,16 +607,16 @@ Leaving?!  Leaving where?  Don't
 <sd>On the main viewscreen, the lifepod carrying the two terri-
 		fied robots speeds away from the stricken rebel spacecraft.</sd>
 
-<sp><speaker>CHIEF PILOT</speaker>
+<sp spk="CHIEF PILOT">
 		There goes another one.  Look.</sp>
 
-<sp><speaker>CAPTAIN</speaker>
+<sp spk="CAPTAIN">
 		Hold your fire.  No lifeforms.
 		It must have short-circuited.</sp>
 
 <sd>The captain gets a message on his headset.</sd>
 
-<sp><speaker>CAPTAIN (CONT'D)</speaker>
+<sp spk="CAPTAIN (CONT'D)">
 		Yes...Yes...He's on his way 
 		down now...No. Good, excellent.
 		I'll relay it.
@@ -633,7 +635,7 @@ the pilots)
 		destroyers grows smaller as the pod descends toward the 
 		planet.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		That's funny, the damage 
 		doesn't look as bad from out 
 		here.  Are you sure this thing 
@@ -645,7 +647,7 @@ the pilots)
 <sd>Deak Starkiller cuts down several troops who make a fren-
 		zied, suicidal charge with laser swords.</sd>
 
-<sp><speaker>TROOPS</speaker>
+<sp spk="TROOPS">
 		The Bogan!  The Bogan!</sp>
 
 <sd>They are no match for the incredibly agile young Jedi.  For 
@@ -671,10 +673,10 @@ the pilots)
 		in an oddly filtered voice through his complex breathing 
 		mask.</sd>
 
-<sp><speaker>VADER</speaker>
+<sp spk="VADER">
 		At last we meet!</sp>
 
-<sp><speaker>DEAK</speaker>
+<sp spk="DEAK">
 		With so much commotion, I 
 		expected your master, not 
 		merely a servant.</sp>
@@ -685,13 +687,13 @@ the pilots)
 		Jedi.  When the objects reach about two feet of Deak, they 
 		are deflected by an invisible shield which surrounds him.</sd>
 
-<sp><speaker>DEAK (CONT'D)</speaker>
+<sp spk="DEAK (CONT'D)">
 		The Bogan is strong with you; 
 		but not nearly strong enough.  
 		I'm afraid you�ll have to use 
 		your weapon, if you're able!</sp>
 
-<sp><speaker>VADER</speaker>
+<sp spk="VADER">
 		I am Lord Darth Vader, first 
 		Knight of the Sith, and right 
 		hand to His Eminence Prince 
@@ -709,7 +711,7 @@ the pilots)
 		were being placed upon him.  He shakes his head and blink-
 		ing, tries to clear his eyes.</sd>
 
-<sp><speaker>VADER (CONT'D)</speaker>
+<sp spk="VADER (CONT'D)">
 		Your powers are weak...</sp>
 
 <sd>Deak makes a sudden lunge at the huge warrior but is checked 
@@ -727,7 +729,7 @@ the pilots)
 		commander.  Deak's arms and legs are pinned to the wall.
 		He struggles with his bonds.</sd>
 
-<sp><speaker>COMMANDER</speaker>
+<sp spk="COMMANDER">
 		So, we got him.  Your para-
 		force is strong indeed.  The 
 		Emperor will be pleased. Why, 
@@ -736,12 +738,12 @@ the pilots)
 <sd>An Imperial officer takes a gold medallion from around the 
 		young Jedi's neck.</sd>
 
-<sp><speaker>OFFICER</speaker>
+<sp spk="OFFICER">
 		The Starkiller!</sp>
 
 <sd>A murmur of astonishment races throughout the troops.</sd>
 
-<sp><speaker>COMMANDER</speaker>
+<sp spk="COMMANDER">
 		Impossible!  He would have to 
 		be over three hundred years old.
 		How could this Jedi possibly be 
@@ -751,32 +753,32 @@ the pilots)
 		stares into the eyes of the fuming Jedi.  Vader has a visi-
 		ble dislike of the commander.</sd>
 
-<sp><speaker>VADER</speaker>
+<sp spk="VADER">
 		This is another of his sons.</sp>
 
-<sp><speaker>COMMANDER</speaker>
+<sp spk="COMMANDER">
 		Your master said he'd killed them 
 		all...And why is he wearing his 
 		father's crest?</sp>
 
-<sp><speaker>VADER</speaker>
+<sp spk="VADER">
 		His father must be dead.  The 
 		Starkiller would never give this 
 		up if he were alive...It possesses 
 		great power.  This boy must be 
 		the last...</sp>
 
-<sp><speaker>COMMANDER</speaker>
+<sp spk="COMMANDER">
 		"The son of the suns!" The 
 		last of the Starkiller line, 
 		whom the seer's have said 
 		would bring down the Empire.</sp>
 
-<sp><speaker>VADER</speaker>
+<sp spk="VADER">
 		It appears we have altered 
 		destiny.</sp>
 
-<sp><speaker>COMMANDER</speaker>
+<sp spk="COMMANDER">
 (to an aid)
 		Send word to the Emperor.
 		We've captured their "Savior".
@@ -789,13 +791,13 @@ the pilots)
 		squirms in pain but does not cry out.  He is struck again.
 		An officer approaches the commander.</sd>
 
-<sp><speaker>OFFICER</speaker>
+<sp spk="OFFICER">
 		Why would he chance running 
 		the blockade to come out here 
 		in the middle of nowhere.
 		There is little on this planet...</sp>
 
-<sp><speaker>COMMANDER</speaker>
+<sp spk="COMMANDER">
 		An interesting question. Send 
 		a platoon of "Tuskens" to the 
 		planet surface and have them 
@@ -811,7 +813,7 @@ to Vader)
 		commander turns and rushes out of the cabin in great dis-
 		tress.  Vader punches Deak one last time.</sd>
 
-<sp><speaker>VADER</speaker>
+<sp spk="VADER">
 		You will come to know such suf-
 		fering as only the Master of the 
 		Bogan Force can provide.  From 
@@ -820,7 +822,7 @@ to Vader)
 <sd>Vader throws Deak's head back painfully hard against the
 		wall.</sd>
 
-<sp><speaker>VADER (CONT'D)</speaker>
+<sp spk="VADER (CONT'D)">
 (to the guards)
 		Bind him, and take him to my 
 		ship.
@@ -841,13 +843,13 @@ to Vader)
 		starts off in the direction of the rocky desert mesas.  
 		Threepio stops and yells at him.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Where do you think you're going?!?</sp>
 
 <sd>A stream of electronic noises pour forth from the small ro-
 		bot.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		...to find Owen Lars?!?  What's 
 		that?!?  Just because the boss 
 		was looking for his brother 
@@ -861,7 +863,7 @@ to Vader)
 
 <sd>Artoo continues his electronic babbling.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		Don't get technical with me. I 
 		think you're going the wrong way.
 		I've had just about enough of you!  
@@ -877,7 +879,7 @@ to Vader)
 		of the dune sea.  Artoo struggles to his three, stubby feet 
 		and shakes a metallic claw arm at his disappearing ex-partner.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 (over his shoulder)
 		...And don't let me catch you 
 		following me begging for help --
@@ -885,7 +887,7 @@ to Vader)
 
 <sd>Artoo counters with a few short whistles.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		Don't call ME a traitor.  My 
 		loyalty is impeccable!...You 
 		emotion-brained intellectual...</sp>
@@ -901,7 +903,7 @@ to Vader)
 		less miles.  He looks back in the direction of the now dis-
 		tant rock mesas.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		You little malfunctioning twerp.
 		This is all your fault.  You 
 		tricked me into going this way, 
@@ -1010,13 +1012,13 @@ to Vader)
 		which is extended on a long tube from his box-like body.  
 		Little Artoo jumps back in fright.</sd>
 
-<sp><speaker>LABORER</speaker>
+<sp spk="LABORER">
 		Shut off that light!</sp>
 
 <sd>Artoo is still shaken, but manages a short apology and then 
 		shuts off his light.  The laborer robot is barely visible.</sd>
 
-<sp><speaker>LABORER (CONT'D)</speaker>
+<sp spk="LABORER (CONT'D)">
 		Is there no peace!?  This is 
 		MY chamber, go find yourself 
 		another.  Go on...go on!  Get 
@@ -1038,14 +1040,14 @@ to Vader)
 		situation as they waddle toward the group.  A voice of rec-
 		ognition calls out from the gloom.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Artoo!  Artoo Detoo!  It's you!</sp>
 
 <sd>A battered and slightly worse-for-wear Threepio scrambles
 		up to Artoo on his hands and knees (remember the four foot 
 		ceiling) and embraces him.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		...they've caught you, too. I'm
 		afraid we're doomed!  We're 
 		doomed!</sp>
@@ -1053,7 +1055,7 @@ to Vader)
 <sd>The blue robot continues on back to the group as the two
 		old companions huddle in a hollow of scrap metal.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		We've landed on one of the 
 		OUTLAND DARK PLANETS!  There is 
 		no hope for us now.  These Jawa's 
@@ -1064,7 +1066,7 @@ to Vader)
 
 <sd>Artoo makes a short electronic reply.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		You're right.  I should not have 
 		ignored your prime directive.
 		But it's a little late now...
@@ -1097,7 +1099,7 @@ to Vader)
 		electronic shouts and yells.  The "common labor" robot runs 
 		past the confused Artoo and Threepio.</sd>
 
-<sp><speaker>LABORER</speaker>
+<sp spk="LABORER">
 		We're free!  We're free!</sp>
 
 <sd>Amidst the confusion of the fleeing robots, Artoo and Threepio 
@@ -1127,7 +1129,7 @@ to Vader)
 		The two robots study the sleepy little camp from a bluff 
 		some distance away.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I don't like it.
 		What if there are more Jawa-
 		scavengers down there?</sp>
@@ -1135,7 +1137,7 @@ to Vader)
 <sd>The runt-like Artoo starts off down the side of the rocky
 		bluff.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		Wait a minute!It's too 
 		dangerous.  We need a plan...</sp>
 
@@ -1155,7 +1157,7 @@ to Vader)
 		the building.  The two robots cautiously approach the dilapi-
 		dated power station.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I don't like this...</sp>
 
 <sd>It is quiet, but for the continual wind.  A dismantled speeder 
@@ -1163,7 +1165,7 @@ to Vader)
 		There is a sharp dripping sound coming from the speeder. It 
 		appears that no one is around.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		Greetings!...Greetings.  Is 
 		anyone home?
 (to Artoo)
@@ -1173,16 +1175,16 @@ to Vader)
 <sd>Out of the gloom of the office behind them, a voice cuts
 		through the silence:</sd>
 
-<sp><speaker>VOICE (MECHANIC)</speaker>
+<sp spk="VOICE (MECHANIC)">
 		What can I do you for?</sp>
 
 <sd>The robots turn around with a start.  A short, wizened old 
 		MECHANIC of sixty or seventy stands before them.</sd>
 
-<sp><speaker>MECHANIC (CONT'D)</speaker>
+<sp spk="MECHANIC (CONT'D)">
 		Who are you with?</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Greetings, sir.  I'm See Threepio,
 		Human-Cyborg relations.  This is 
 		my counterpart, Artoo Detoo. Your 
@@ -1193,7 +1195,7 @@ to Vader)
 		his eye.  He rubs his grimy, withered hand over Threepio's 
 		smooth metal shoulder.</sd>
 
-<sp><speaker>MECHANIC</speaker>
+<sp spk="MECHANIC">
 		You're in very good shape for 
 		these parts...Where is your 
 		master?  You do have a master,
@@ -1203,7 +1205,7 @@ to Vader)
 		mechanic begins to fiddle with the wrench he is holding,
 		in the most unsettling way.  Threepio becomes a bit nervous.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I am looking for one Owen Lars.
 		We believe him to be of this 
 		settlement.  Do you know where 
@@ -1212,7 +1214,7 @@ to Vader)
 <sd>The mechanic starts dragging a heavy power-pack toward the 
 		station.</sd>
 
-<sp><speaker>MECHANIC</speaker>
+<sp spk="MECHANIC">
 		Lars!  I should have known...He 
 		should know better than to let 
 		you travel alone.  He has a place 
@@ -1222,10 +1224,10 @@ to Vader)
 
 <sd>Artoo helps the old man with the heavy power pack.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Your kindness is greatly appreciated.</sp>
 
-<sp><speaker>MECHANIC</speaker>
+<sp spk="MECHANIC">
 		Any time I can help Lars, I am at 
 		his service.  You tell him that.
 		Be careful going out there, 
@@ -1233,7 +1235,7 @@ to Vader)
 		you two to be running loose 
 		in.</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Yes sir, we appreciate your 
 		concern.</sp>
 
@@ -1250,14 +1252,14 @@ to Vader)
 		Imperial "Tusken".  His reddish eyes are sunken in a larger 
 		than normal, dust-covered face.  He sits up in his chair.</sd>
 
-<sp><speaker>MECHANIC</speaker>
+<sp spk="MECHANIC">
 		Now there's something "out of 
 		the ordinary" for you.  I wonder 
 		what they want with Lars?</sp>
 
 <sd>The gray Tusken thinks about this for a moment.</sd>
 
-<sp><speaker>TUSKEN</speaker>
+<sp spk="TUSKEN">
 		I'd better make a report.</sp>
 
 </scene>
@@ -1267,7 +1269,7 @@ to Vader)
 		valley.  Threepio hurries after his determined companion as 
 		they near the low gray structures.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		...I don't care; he STILL could 
 		have offered us transport.  How 
 		much further do you suppose.  
@@ -1296,19 +1298,19 @@ to Vader)
 		are somewhat befuddled by the dynamic duo, and attempt to 
 		ignore them.</sd>
 
-<sp><speaker>LARS</speaker>
+<sp spk="LARS">
 		Welcome.  May we offer you 
 		shelter?  Are you lost, or do 
 		you travel with someone?</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Greetings.  I am See Threepio, 
 		Human-Cyborg relations.  This 
 		is my counterpart, Artoo Detoo.
 		We seek the dwelling of Owen 
 		Lars.</sp>
 
-<sp><speaker>LARS</speaker>
+<sp spk="LARS">
 		You have found it, my friends.
 		I am Owen Lars...
 (to the riotous
@@ -1316,7 +1318,7 @@ twins)
 		Boys, slow down a little and
 		let them speak...</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		We have come for the one called 
 		"Angel Blue".</sp>
 
@@ -1324,16 +1326,16 @@ twins)
 		Leia approaches the group, and eyes the robots suspiciously; 
 		she turns to her father.</sd>
 
-<sp><speaker>LEIA</speaker>
+<sp spk="LEIA">
 		Father, I think they're a trap, 
 		sent by an evil Jawa trading lord, 
 		or the dark master of the Bogan, 
 		or maybe even the Emperor himself.</sp>
 
-<sp><speaker>LARS</speaker>
+<sp spk="LARS">
 		Leia.</sp>
 
-<sp><speaker>LEIA</speaker>
+<sp spk="LEIA">
 		Yes, that's it.  They've inter-
 		cepted transmission fragments 
 		and are now searching the galaxy 
@@ -1341,37 +1343,37 @@ twins)
 		the origin, so they have sent 
 		these...</sp>
 
-<sp><speaker>BERU</speaker>
+<sp spk="BERU">
 		Leia, please!  Let your father 
 		handle this.</sp>
 
-<sp><speaker>LARS</speaker>
+<sp spk="LARS">
 		Who speaks for you?  From what 
 		system do you hail?</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Deak 331-27-27 of Ogana Major...</sp>
 
 <sd>Beru's concern at the mention of Deak cannot be contained.</sd>
 
-<sp><speaker>BERU</speaker>
+<sp spk="BERU">
 		What has happened?  Where is 
 		Deak?</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Our master has been attacked
 		My counterpart brings his mes-
 		sage for the one called "Angel 
 		Blue".</sp>
 
-<sp><speaker>LARS</speaker>
+<sp spk="LARS">
 		Luke is in the southern ravine.
 		The boys will take you to him.</sp>
 
 <sd>The two boys let out a cheer and run off toward the distant 
 		horizon.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Your kindness is greatly appre-
 		ciated.  We thank you...
 (turning to
@@ -1389,7 +1391,7 @@ the boys)
 		twins stop on the ridge overlooking their brother and fall 
 		silent.  The robots soon take up position behind them.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Is that "Angel Blue"?</sp>
 
 <sd>Biggs turns and gestures to the tall bronze man to be quiet.  
@@ -1420,23 +1422,23 @@ the boys)
 		Artoo and Threepio make it down the slope, Biggs and Windy 
 		are climbing all over their big brother.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		"Angel Blue"?...</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		"...the skywalker"...</sp>
 
 <sd>The two robots make a short bow before the youth.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		See Threepio, and my counterpart 
 		Artoo Detoo.  At your service, sir.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		You have word of my brother.
 		What has happened to him?</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I'm sorry, sir; but I am unable 
 		to explain the absence of our 
 		master.  We only bring his mes-
@@ -1448,7 +1450,7 @@ the boys)
 		bow of color as it flickers and jiggles in the desert waste-
 		land.</sd>
 
-<sp><speaker>DEAK'S IMAGE</speaker>
+<sp spk="DEAK'S IMAGE">
 		Whippersnapper, I didn't make 
 		it...I'm sorry.  The forces of 
 		the Bogan have become strong 
@@ -1473,10 +1475,10 @@ the boys)
 		A grave concern sweeps over Luke as he contemplates the fate 
 		of his brother.  Biggs and Windy are puzzled.</sd>
 
-<sp><speaker>BIGGS</speaker>
+<sp spk="BIGGS">
 		Who was that?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		That was your brother Deak.  I 
 		wish you could see him in person, 
 		he is so terrific...I'm afraid 
@@ -1503,7 +1505,7 @@ the boys)
 		Leia enters from the kitchen with a flask filled with blue 
 		milk.  She sits near Luke.</sd>
 
-<sp><speaker>OWEN</speaker>
+<sp spk="OWEN">
 		Where's the thanta sauce?
 (yelling into
 the other room)
@@ -1513,41 +1515,41 @@ the other room)
 <sd>Beru enters carrying a small pitcher.  She gives Owen a
 		knowing smile as she slides into her place at the table.</sd>
 
-<sp><speaker>BERU</speaker>
+<sp spk="BERU">
 		I never!  I put it right here 
 		in front so you'd see it.</sp>
 
 <sd>She hands him a dish, and he grunts an embarrassed reply.</sd>
 
-<sp><speaker>BERU (CONT'D)</speaker>
+<sp spk="BERU (CONT'D)">
 		Luke, you've hardly touched 
 		your dinner.  Have some bum-bum 
 		extract.  It's very mild.</sp>
 
-<sp><speaker>OWEN</speaker>
+<sp spk="OWEN">
 (to Luke)
 		The force of the Bogan is strong, 
 		and if you don't feel you can 
 		make it, you probably won't.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I've never even been past this 
 		planet...and I never thought I'd 
 		be going alone.
 		Suddenly I feel very small --
 		and well...desperate.</sp>
 
-<sp><speaker>OWEN</speaker>
+<sp spk="OWEN">
 		How I wish I had the counsel of 
 		your father.  Ever since your 
 		mother died, we have fallen on 
 		doubtful times...</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Deak is in trouble.  I should 
 		be helping him...</sp>
 
-<sp><speaker>OWEN</speaker>
+<sp spk="OWEN">
 		If your brother is still alive, 
 		they will have taken him to the 
 		dungeons of ALDERAAN, at the 
@@ -1557,15 +1559,15 @@ the other room)
 
 <sd>Biggs and Windy have finished eating and are getting restless.</sd>
 
-<sp><speaker>BIGGS</speaker>
+<sp spk="BIGGS">
 		May we play with the "droids"?</sp>
 
-<sp><speaker>BERU</speaker>
+<sp spk="BERU">
 		Take your plates out first.</sp>
 
 <sd>The twins scamper into the kitchen with their dirty dishes.</sd>
 
-<sp><speaker>OWEN</speaker>
+<sp spk="OWEN">
 		Your father is getting very old.
 		I fear he needs your help more 
 		than your brother does, and much 
@@ -1582,11 +1584,11 @@ the other room)
 		spirit you must learn from your 
 		father.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		But my catalog on the ancients.
 		I haven't nearly completed it...</sp>
 
-<sp><speaker>OWEN</speaker>
+<sp spk="OWEN">
 		Luke, you're not a researcher, 
 		or a philosopher.  You're the 
 		son of a Jedi.  Your brothers 
@@ -1594,12 +1596,12 @@ the other room)
 		and pride.  Anyone would.  Why 
 		can't you?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I may be a good pilot, but I'm 
 		not a warrior.  No matter how 
 		hard I try.  It's just not in me.</sp>
 
-<sp><speaker>OWEN</speaker>
+<sp spk="OWEN">
 		I know, you'd rather carve a jud 
 		stone, or work on your catalog of
 		the ancients...I've trained seven 
@@ -1608,15 +1610,15 @@ the other room)
 		gifted in the disciplines -- not 
 		in power or speed, at any rate...</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Deak was the best; but that didn't 
 		seem to be good enough...</sp>
 
-<sp><speaker>BERU</speaker>
+<sp spk="BERU">
 		But you have the way about you...
 		and wisdom far beyond your years...</sp>
 
-<sp><speaker>OWEN</speaker>
+<sp spk="OWEN">
 		You must learn to use such strength 
 		and wits as you have.  Your father 
 		has need of the Kiber Crystal. The 
@@ -1629,7 +1631,7 @@ the other room)
 <sd>Leia listens to the discussion with much interest.  She
 		watches Luke with un-concealed admiration.</sd>
 
-<sp><speaker>BERU</speaker>
+<sp spk="BERU">
 		Luke, if you do decide to go, re-
 		member Ogana Major is far across 
 		the galaxy.
@@ -1644,7 +1646,7 @@ the other room)
 		into the hands of the enemy, all 
 		hope would be lost...</sp>
 
-<sp><speaker>OWEN</speaker>
+<sp spk="OWEN">
 		Somehow, you will have to manage 
 		to find transport in MOS EISLEY,
 		and once you do, the way through 
@@ -1656,12 +1658,12 @@ the other room)
 
 <sd>Leia is unable to control her concern.</sd>
 
-<sp><speaker>LEIA</speaker>
+<sp spk="LEIA">
 		Luke, you don't even know the "grip 
 		of tython" or "the seven moves".
 		You can't...</sp>
 
-<sp><speaker>OWEN</speaker>
+<sp spk="OWEN">
 		Leia...</sp>
 
 <sd>Leia settles down, but she is clearly worried.  There is a 
@@ -1670,18 +1672,18 @@ the other room)
 		Threepio in the other room.  The silence becomes uncomfort-
 		able.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I suppose I must go...</sp>
 
 <sd>Tears begin to roll down Leia's cheeks, and she rushes from 
 		the room.  Beru looks to Owen, who looks to Luke, who looks 
 		embarrassed.</sd>
 
-<sp><speaker>BERU</speaker>
+<sp spk="BERU">
 		The prayers of all of us go 
 		with you.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		The Empire's vast size and power 
 		is its greatest weakness.  I 
 		think I can make it...But I would 
@@ -1699,7 +1701,7 @@ the other room)
 		mound.  He sits with his head bowed to his knees.  Finally 
 		he stands up and speaks to the stone.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Well, Mom. I guess this is my last 
 		visit...I'm going to finally get 
 		to meet him...I fear many Jedi have 
@@ -1723,23 +1725,22 @@ the other room)
 		watching the giant twin suns of Utapau slowly disappear be-
 		hind a distant dune range.</sd>
 
-<sp>
-	<speaker>BERU</speaker>
-		Aren't they beautiful?</sp>
+<sp spk="BERU">
+			Aren't they beautiful?</sp>
 
-<sp><speaker>OWEN</speaker>
+<sp spk="OWEN">
 		"Always and never the same."</sp>
 
-<sp><speaker>BERU</speaker>
+<sp spk="BERU">
 		Must we leave?</sp>
 
-<sp><speaker>OWEN</speaker>
+<sp spk="OWEN">
 		I think with Luke going, we'll 
 		be safe here for awhile.  We've 
 		been the happiest here, haven't 
 		we...</sp>
 
-<sp><speaker>BERU</speaker>
+<sp spk="BERU">
 		Owen, he's not ready, is he?...
 		Why don't you stop him?  What 
 		was Deak thinking of to place 
@@ -1759,29 +1760,29 @@ the other room)
 		enter with Leia and stand in the doorway.  The twins are 
 		dressed in their night clothes.</sd>
 
-<sp><speaker>BIGGS</speaker>
+<sp spk="BIGGS">
 		What's going on in here?</sp>
 
 <sd>Luke returns from his world of dark thoughts and smiles at 
 		them.  The twins rush up to Owen and Beru, give them a kiss, 
 		then bounce over to Luke, and jump into his lap.</sd>
 
-<sp><speaker>BERU</speaker>
+<sp spk="BERU">
 		Don't be too late now.</sp>
 
 <sd>Owen and Beru take Leia into the other room.</sd>
 
-<sp><speaker>WINDY</speaker>
+<sp spk="WINDY">
 		Why are you going away?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Because our father needs me, 
 		as he will need you someday.</sp>
 
-<sp><speaker>BIGGS</speaker>
+<sp spk="BIGGS">
 		I thought our father was killed?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		The time has come for me to 
 		tell you of your heritage, as 
 		Deak told it to me and as his 
@@ -1790,7 +1791,7 @@ the other room)
 
 <sd>The boys settle down and listen attentively.</sd>
 
-<sp><speaker>LUKE (CONT'D)</speaker>
+<sp spk="LUKE (CONT'D)">
 		In another time, long before 
 		the Empire, and before the 
 		Republic had been formed, a 
@@ -1800,10 +1801,10 @@ the other room)
 		influenced the destiny of all 
 		living creatures...</sp>
 
-<sp><speaker>BIGGS</speaker>
+<sp spk="BIGGS">
 		The "FORCE OF OTHERS"!</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Yes, and after much study, he 
 		was able to know the force, and 
 		it communicated with him.  He 
@@ -1814,11 +1815,11 @@ the other room)
 		system, and became one of the 
 		founders of the Republic Galactica.</sp>
 
-<sp><speaker>WINDY</speaker>
+<sp spk="WINDY">
 		The "FORCE OF OTHERS" talked to 
 		him!?!</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		In a manner different from the way 
 		we talk.  As you know, the "FORCE 
 		OF OTHERS" has two halves: Ashla, 
@@ -1845,10 +1846,10 @@ the other room)
 		Jedi families, but now there are 
 		only two or three.</sp>
 
-<sp><speaker>WINDY</speaker>
+<sp spk="WINDY">
 		What happened to them?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		As the Republic spread throughout 
 		the galaxy, encompassing over a 
 		million worlds, the GREAT SENATE 
@@ -1885,11 +1886,11 @@ the other room)
 		Many worlds were destroyed this 
 		way.  Many people starved...</sp>
 
-<sp><speaker>BIGGS</speaker>
+<sp spk="BIGGS">
 		Why didn't the "FORCE OF OTHERS" 
 		help the Jedi to put things right?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Because a terrible thing happened.
 		During one of his lessons a young 
 		PADAWAN-JEDI, a boy named Darklighter, 
@@ -1908,10 +1909,10 @@ the other room)
 		grows weaker, and the force of the 
 		Bogan grows more powerful.</sp>
 
-<sp><speaker>WINDY</speaker>
+<sp spk="WINDY">
 		Where are the Jedi now?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		They're hidden; but many are still 
 		fighting to free the systems from 
 		the grip of the Empire.  Our father 
@@ -1922,10 +1923,10 @@ the other room)
 		learn the ways of the "FORCE OF 
 		OTHERS".</sp>
 
-<sp><speaker>BIGGS</speaker>
+<sp spk="BIGGS">
 		Can we go, too?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Not yet, Biggs my boy.  There is 
 		much you must learn from Uncle 
 		Owen -- where it is safe.  And 
@@ -1945,10 +1946,10 @@ the other room)
 		back a small latch on the belt buckle revealing a small 
 		diamond-like crystal.  Luke carefully examines it.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		The Kiber Crystal!</sp>
 
-<sp><speaker>OWEN</speaker>
+<sp spk="OWEN">
 		The only one.  A Jedi can use 
 		it to intensify the Ashla force 
 		a hundred fold; but, remember it 
@@ -1960,7 +1961,7 @@ the other room)
 <sd>Luke stands looking at the Crystal for a few moments, then 
 		snaps the buckle closed and puts on the belt.</sd>
 
-<sp><speaker>OWEN (CONT'D)</speaker>
+<sp spk="OWEN (CONT'D)">
 		The enemy is everywhere, so stay 
 		alert.  If you keep due south, you 
 		should make it in two days at the
@@ -1971,7 +1972,7 @@ the other room)
 <sd>For a few awkward moments, Luke stands looking at everyone 
 		not really wanting to say goodbye.</sd>
 
-<sp><speaker>OWEN (CONT'D)</speaker>
+<sp spk="OWEN (CONT'D)">
 		It's a good day to travel. The 
 		FORCE OF OTHERS is surely with 
 		you.  We'll be moving on soon.
@@ -1982,12 +1983,12 @@ the other room)
 		adventurer then goes to his Aunt Beru and gives her a kiss 
 		and a hug.</sd>
 
-<sp><speaker>BERU</speaker>
+<sp spk="BERU">
 		The spaceport at Mos Eisley is 
 		not a decent place.  Be careful 
 		there.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I'll watch out, Aunt Beru.
 		Don't worry.</sp>
 
@@ -1996,10 +1997,10 @@ the other room)
 		hug before retreating to the speeder.  Leia is greatly dis-
 		appointed.</sd>
 
-<sp><speaker>OWEN</speaker>
+<sp spk="OWEN">
 		Wish your father well.</sp>
 
-<sp><speaker>BERU</speaker>
+<sp spk="BERU">
 		May the FORCE OF OTHERS be 
 		with you.</sp>
 
@@ -2019,11 +2020,11 @@ the other room)
 		The vibrations of the speeder causes Artoo's outer shell to 
 		rattle a rhythmic little tune.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		How long were you with my 
 		brother?</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I had the pleasure of serving 
 		Master Deak for over three years
 		...my counterpart was with him
@@ -2031,7 +2032,7 @@ the other room)
 
 <sd>Artoo chatters to his bronze interpreter.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		...Three years eight months.
 		Master Deak is a man above men.
 		You should be proud of him,
@@ -2052,10 +2053,10 @@ the other room)
 <sd>Luke thinks about this for a few moments; then rather reluc-
 		tantly, almost afraid, he asks a second question.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Have you ever met my father?</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		No, I'm afraid not, sir.  I 
 		couldn't even tell you what he 
 		looks like.  He's an elusive one.
@@ -2079,16 +2080,16 @@ the other room)
 		struts around stretching his joints between irritated whis-
 		tles.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		You were right, there is some-
 		thing following us.  We'd better 
 		move on.</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Who do you suppose it is?  Do you 
 		think they're looking for us?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		It's probably nothing.  A "jom-
 		trader" most likely; but I have 
 		a strange feeling about it.</sp>
@@ -2111,7 +2112,7 @@ the other room)
 		port.  Luke returns to his speeder, and his two mechanical 
 		companions.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Well, whoever was following us 
 		has gone into Mos Eisley...they 
 		weren't "jom traders", that's 
@@ -2130,28 +2131,28 @@ the other room)
 		is obvious from his pint size that he is a Jawa.  Artoo 
 		lets out a string of electronic beeps and whistles.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I begging your pardon, sir, but 
 		watch out for this guy.</sp>
 
 <sd>The wretched little creature moves close to the speeder and 
 		begins to run his gnarled little hand across it.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Where might I find passage on a 
 		starship?</sp>
 
-<sp><speaker>JAWA</speaker>
+<sp spk="JAWA">
 		Nice zoom zoom.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Where are the men who fly in the 
 		ships?</sp>
 
 <sd>Saliva dribbles from the dark hole where the Jawa's face
 		should be and drops, splat, on the hood of the speeder.</sd>
 
-<sp><speaker>JAWA</speaker>
+<sp spk="JAWA">
 		Drink place.  Drink place down 
 		the street.  Nice zoom zoom.</sp>
 
@@ -2168,11 +2169,11 @@ the other room)
 		forms of transport, including several unusual beasts of bur-
 		den, are parked outside the bar.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I can't abide those Jawas. Dis-
 		gusting creatures.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Take care in here.  I don't like 
 		the looks of this place.</sp>
 
@@ -2180,23 +2181,23 @@ the other room)
 		gray robes, sitting near the entrance to the cantina calls 
 		out to them.  The man appears to be a blind beggar.</sd>
 
-<sp><speaker>SEER</speaker>
+<sp spk="SEER">
 		Come to me and the truth shall 
 		be known.</sp>
 
 <sd>Luke reluctantly approaches the old man.</sd>
 
-<sp><speaker>SEER (CONT'D)</speaker>
+<sp spk="SEER (CONT'D)">
 		I've seen what is to be.  I can 
 		tell you what you need to know...</sp>
 
 <sd>Luke drops several coins in the man's open palm.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Can you tell me where I might find
 		transport to Ogana Major?</sp>
 
-<sp><speaker>SEER</speaker>
+<sp spk="SEER">
 		Your fate is clouded...but the will 
 		of the force has set your path. The 
 		man you seek you'll find inside; 
@@ -2210,7 +2211,7 @@ the other room)
 
 <sd>Luke is somewhat puzzled by the old man's dialogue.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		A profoundly illogical answer.
 		He's not completely with us, if 
 		you take my meaning.</sp>
@@ -2228,7 +2229,7 @@ the other room)
 		but human Corellian pirates.  A huge, rough-looking BAR-
 		TENDER comes over to Luke and the robots.</sd>
 
-<sp><speaker>BARTENDER</speaker>
+<sp spk="BARTENDER">
 		We don't serve "their kind" in 
 		here.</sp>
 
@@ -2236,10 +2237,10 @@ the other room)
 		landish creatures in one room, doesn't quite catch the bar-
 		tender's drift.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		What?</sp>
 
-<sp><speaker>BARTENDER</speaker>
+<sp spk="BARTENDER">
 		Your "Droids" will have to wait 
 		outside.  We don't serve 'em 
 		here.</sp>
@@ -2247,7 +2248,7 @@ the other room)
 <sd>Luke notices that several of the creatures along the bar are 
 		giving them a very unfriendly glare.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Yes, of course, I'm so sorry.
 (he turns to
 Threepio)
@@ -2256,7 +2257,7 @@ Threepio)
 		We don't want any trouble...
 		I'll bring you something...</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I must say, I agree, sir.</sp>
 
 <sd>Threepio and his stubby partner go outside, and most of the 
@@ -2265,14 +2266,14 @@ Threepio)
 		years older than himself.  He is a burly-bearded but ruggedly 
 		handsome boy dressed in a gaudy array of flamboyant apparel.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Do you know of any ship heading 
 		toward the
 		Ogana Systems?</sp>
 
 <sd>Han Solo eyes him suspiciously.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		What's your business, little one?</sp>
 
 <sd>Han turns to his companion, CHEWBACCA, an eight foot tall, 
@@ -2289,7 +2290,7 @@ Threepio)
 		the creature suddenly lets out a horrifying laugh.  Han 
 		chuckles to himself and turns back to Luke.</sd>
 
-<sp><speaker>HAN (CONT'D)</speaker>
+<sp spk="HAN (CONT'D)">
 		What would you be doing going 
 		on such a trip?  Ogana Major 
 		is part of the Alliance...You 
@@ -2299,12 +2300,12 @@ Threepio)
 <sd>He can't control his laughter, and Chewbacca starts in again, 
 		also.  Luke is getting a little worried.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I just want passage.</sp>
 
 <sd>Han puts his arm around Luke's shoulder and draws him near.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Listen, little one, why don't 
 		you go on back to the farm or 
 		wherever you come from.  Then 
@@ -2318,7 +2319,7 @@ Threepio)
 		or whatever.  A large multiple-eyed creature on the other side 
 		of Luke gives him a rather rough shove.</sd>
 
-<sp><speaker>CREATURE</speaker>
+<sp spk="CREATURE">
 		Negola dughi wooldugger?!?</sp>
 
 <sd>The hideous freak is obviously drunk.  Luke tries to ignore 
@@ -2326,28 +2327,28 @@ Threepio)
 		HUMAN and an even smaller rodent-like beast join the belli-
 		gerent monstrosity.</sd>
 
-<sp><speaker>HUMAN</speaker>
+<sp spk="HUMAN">
 		He doesn't like you.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I'm sorry.</sp>
 
-<sp><speaker>HUMAN</speaker>
+<sp spk="HUMAN">
 		I don't like you either.</sp>
 
 <sd>The big creature is getting agitated, and yells some unin-
 		telligible gibberish at the now rather nervous young Jedi.</sd>
 
-<sp><speaker>HUMAN (CONT'D)</speaker>
+<sp spk="HUMAN (CONT'D)">
 		Don't insult us.  You just watch 
 		yourself.  We're wanted men. I 
 		have the death sentence on twelve 
 		systems.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I'11 be careful then.</sp>
 
-<sp><speaker>HUMAN</speaker>
+<sp spk="HUMAN">
 		You'll be dead.</sp>
 
 <sd>The rodent lets out a loud grunt and everything at the bar 
@@ -2357,7 +2358,7 @@ Threepio)
 		has been watching the chain of events, begins to feel sorry 
 		for the young tenderfoot and intervenes.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		This little one isn't worth 
 		the effort.  Besides, he's 
 		leaving.  Come, let me buy 
@@ -2370,7 +2371,7 @@ Threepio)
 		wicked chrome laser pistol from his belt.  The bartender 
 		panics!</sd>
 
-<sp><speaker>BARTENDER</speaker>
+<sp spk="BARTENDER">
 		No blasters!!  No blaster!
 		Please!</sp>
 
@@ -2385,14 +2386,14 @@ Threepio)
 		the "little one" with new awe.  The bartender drags the 
 		bodies out.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		I could have saved myself a good 
 		bump if I had known your skill...</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I thank you for trying to help.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		They're lucky they caught me off 
 		guard.  I would have taken more 
 		time with them.  It's the Bogan 
@@ -2403,17 +2404,17 @@ Threepio)
 
 <sd>Luke is still giddy, and downs a fresh drink.</sd>
 
-<sp><speaker>HAN (CONT'D)</speaker>
+<sp spk="HAN (CONT'D)">
 		So you're looking for transport 
 		to Ogana...I might be able to 
 		help, but it's very far -- the 
 		cost would be great.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I can pay.  You know of a ship 
 		going in that direction?</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		In these times, one cannot be 
 		too careful, you understand --
 		going into a rebel zone and all
@@ -2444,7 +2445,7 @@ Threepio)
 		big kiss, then checks out the stew-like mess boiling away 
 		on a dilapidated fusion-burner in the kitchen area.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Good, good...We're hungry.
 		Bring my friends some of this.</sp>
 
@@ -2453,12 +2454,12 @@ Threepio)
 		bench in the kitchen and sit down.  Luke and Chewbacca join 
 		Han at a large table in the center of the main room.</sd>
 
-<sp><speaker>HAN (CONT'D)</speaker>
+<sp spk="HAN (CONT'D)">
 		Now tell me of your adventures.
 		What is on Ogana Major that draws 
 		you there?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I am looking to join my father.  
 		I have been living with my uncle, 
 		beyond the Great Dune sea.  He 
@@ -2466,7 +2467,7 @@ Threepio)
 		not much of an adventure, I'm 
 		afraid.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Ahh, no farmer could cut down 
 		three brigands as you did.  But, 
 		as you wish.  In time you will 
@@ -2476,7 +2477,7 @@ Threepio)
 		a large mug of some heavy brew.  Chewbacca and Han dig in 
 		with great vigor, but Luke is a little hesitant.</sd>
 
-<sp><speaker>HAN (CONT'D)</speaker>
+<sp spk="HAN (CONT'D)">
 		Eat up, don't let its smell 
 		bother you...Now, for the right 
 		sum, I could take you to Ogana 
@@ -2485,21 +2486,21 @@ Threepio)
 		business in that area, and the way 
 		is a little dangerous.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		How much?</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		An even million, I think.  We will 
 		have to somehow sneak past the 
 		Imperial blockade.  It won't be 
 		easy.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		A million!  I haven't that much.
 		I hope to get one fifty for my 
 		speeder...but that's all I have.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Well, I doubt you'll find another 
 		ship to take you.  Most captains 
 		rarely venture there.  The civil 
@@ -2516,7 +2517,7 @@ Threepio)
 		to beep, but Threepio puts his bronze hand over his little 
 		companion's mouth.  Luke thinks about this for a moment.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		No...I need them.  What if I 
 		were to pay you one fifty now, 
 		and my father gave you the rest 
@@ -2528,19 +2529,19 @@ Threepio)
 <sd>The two robots breathe a sigh of relief.  Han's waning in-
 		terest is renewed by the mention of "great influence".</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		You mean a bonus maybe.  Your 
 		father must be a man of great 
 		wealth?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I'm sure he would reward you.</sp>
 
 <sd>Han thinks about this for a few moments, then turns to
 		Chewbacca and seemingly explains the situation to him.  The 
 		Wookiee shrugs his shoulders as if to say "Why not?"</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		We've got a deal then.  Sell your 
 		speeder and I'll meet you at dock-
 		ing port twenty-three.  My ship 
@@ -2555,7 +2556,7 @@ Threepio)
 		a stiff, awkward gait.  They move along a tall gantry over-
 		looking a long, complex spacecraft.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		But you're my friend, my best and 
 		closest partner.  Oxus will still 
 		listen to you!  He will, I tell 
@@ -2569,27 +2570,27 @@ Threepio)
 		You've got to talk to Oxus...You've 
 		just got to...</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		Like your information on the AKURIAN 
 		spice shipment...After that botch, 
 		if I WERE crazy enough to suggest 
 		another one of your plots to him, 
 		he'd have us both diced...</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		But this is different.  This is 
 		our chance.  Are we partners or 
 		not?  Are you going to dream away 
 		the rest or your life, or are we 
 		going to try for the big one?</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		The only way Oxus would go along is 
 		if you killed him...I'm too old, 
 		Han.  I can't do it, you'll have to 
 		find someone else.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		There's no time.  What kind of talk 
 		is this?  Where's the old Montross 
 		that single-handedly destroyed a 
@@ -2598,7 +2599,7 @@ Threepio)
 		Montross, the greatest science 
 		officer in the galaxy, too old?!</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		You young fool!</sp>
 
 <sd>Montross suddenly ignites in a rage and swings his left
@@ -2610,7 +2611,7 @@ Threepio)
 <sd>The artificial limb flops lifelessly to Montross Holdaack's 
 		side.</sd>
 
-<sp><speaker>MONTROSS (CONT'D)</speaker>
+<sp spk="MONTROSS (CONT'D)">
 		You know, there is nothing left 
 		but my head and right arm...
 		I've lost too much, Han...I'm 
@@ -2620,7 +2621,7 @@ Threepio)
 <sd>Han bows his head in sorrow and embarrassment for one of the 
 		greatest warriors in the galaxy and a dear friend.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Take it easy...I'm sorry.  Don't 
 		be upset.  What am I going to do?
 		He's going to be here shortly 
@@ -2639,7 +2640,7 @@ Threepio)
 		and mangiest of the two slavering hulks, JABBA THE HUTT 
 		by name, throws his dice at Chewbacca.</sd>
 
-<sp><speaker>JABBA</speaker>
+<sp spk="JABBA">
 		I told you not to bring that 
 		thing on board again...Where 
 		have you been anyway...Captain 
@@ -2653,20 +2654,20 @@ Threepio)
 		still slightly crazed Montross aboard the craft.  Han gen-
 		erally ignores Jabba's tirade.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Where is everybody, anyway?</sp>
 
-<sp><speaker>JABBA</speaker>
+<sp spk="JABBA">
 		They took the shipment of "Covina" 
 		to Gordon.
 		But the captain is still here, 
 		so get to work or I'll snap you 
 		myself.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Where is he?</sp>
 
-<sp><speaker>JABBA</speaker>
+<sp spk="JABBA">
 		On the bridge, I think.  I 
 		wouldn't go looking for trouble, 
 		though...He'll sting you good 
@@ -2675,10 +2676,10 @@ Threepio)
 <sd>The second pirate notices Montross's arm, as Han sets him
 		on a bench near the door.</sd>
 
-<sp><speaker>PIRATE</speaker>
+<sp spk="PIRATE">
 		Montross fall apart again?</sp>
 
-<sp><speaker>JABBA</speaker>
+<sp spk="JABBA">
 		What's this ship coming to?
 		We've got a good-for-nothing 
 		"cabin boy" and a disintegrating 
@@ -2698,7 +2699,7 @@ Threepio)
 		to do, so he starts to leave. Oxus opens one eye.  He is 
 		in a drunken stupor.</sd>
 
-<sp><speaker>OXUS</speaker>
+<sp spk="OXUS">
 		What have you been up to, boy??
 		You finished with the conveyor 
 		system?  Bring me some more 
@@ -2708,10 +2709,10 @@ Threepio)
 		passageway to a small closet, where he takes out a cup of 
 		silver powder and returns to Oxus.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Your spice; sir...Ah, sir, may I...</sp>
 
-<sp><speaker>OXUS</speaker>
+<sp spk="OXUS">
 		You blasted, good-for-nothing.
 		Go fetch my tallock!  And be 
 		quick.  Now get out of here!</sp>
@@ -2734,7 +2735,7 @@ Threepio)
 <sd>Luke and the two robots approach the entry bay of the giant 
 		starship, and are intercepted by the giant Wookiee, Chewbacca.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Greetings!  For such a young 
 		captain, your master has a 
 		mighty ship.  Will you store 
@@ -2745,7 +2746,7 @@ Threepio)
 		them pass and carries on about something in his harsh na-
 		tive tongue.  Luke doesn't understand.</sd>
 
-<sp><speaker>LUKE (CONT'D)</speaker>
+<sp spk="LUKE (CONT'D)">
 		I don't get it??  Are we to wait 
 		here, or what?  Threepio, what's 
 		he talking about?</sp>
@@ -2754,7 +2755,7 @@ Threepio)
 		sounds to the towering monster.  They carry on an animated 
 		argument, until it appears Threepio gets in the last word.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Well, master Luke, sir.  It ap-
 		pears we must wait out here for 
 		the captain to ready the ship.
@@ -2786,20 +2787,20 @@ Threepio)
 		the control console in a vain attempt to figure out what 
 		is going on.  Han enters carrying a long gray cloak.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Your tallock, sir.  What's wrong??</sp>
 
 <sd>Oxus stumbles around in a drunken stupor.</sd>
 
-<sp><speaker>OXUS</speaker>
+<sp spk="OXUS">
 		Something's fouled up on this 
 		blasted board...</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		The reactor's wild!  It's way over 
 		a thousand.  We'd better get out.</sp>
 
-<sp><speaker>OXUS</speaker>
+<sp spk="OXUS">
 		That's impossible!  I may be under 
 		the influence, but the reactor 
 		couldn't have gotten loose...Wait 
@@ -2814,10 +2815,10 @@ Threepio)
 <sd>Han and the lumbering pirate captain charge into the entry 
 		bay, almost knocking down Jabba the Hutt.</sd>
 
-<sp><speaker>JABBA</speaker>
+<sp spk="JABBA">
 		What's going on?</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Sabotage!  The reactor's have gone 
 		wild.  Get out.  Get out...Wait, I 
 		forgot about Montross...</sp>
@@ -2834,14 +2835,14 @@ Threepio)
 		into the entry bay.  Chewbacca pushes a button, and the main 
 		hatch slams shut. The alarms continue to ring.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Where's the captain?</sp>
 
 <sd>Threepio repeats the question in Wookieese and gets a short, 
 		rather menacing answer from the creature, who points to the 
 		high-backed seat of the lounge area.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		He wants us to sit down, sir...
 		If we don't mind.  The captain 
 		will be with us shortly.</sp>
@@ -2855,12 +2856,12 @@ Threepio)
 		tons and switches.  Han rushes in and sits in the co-pilot 
 		seat.  He is laughing.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Alarms secure...ready for take-
 		off...let's get out of here be-
 		fore they figure out what happened.</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		Yes sir, captain.</sp>
 
 <sd>Montross laughs heartily as he pulls back on the throttle.
@@ -2881,18 +2882,18 @@ Threepio)
 <sd>Han sits back in the huge co-pilot's chair and puts his
 		feet up on the control console.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Sometimes I amaze myself...</sp>
 
 <sd>He chuckles.  The surface of Utapau slowly drifts out of
 		view of the cockpit windows and is replaced by a sparkling 
 		carpet of stars.</sd>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		Are you even a little worried 
 		he might hunt you down?</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Well, Montross my friend, it's a 
 		big universe.  And after we cash 
 		in on this young noble, we'll 
@@ -2900,21 +2901,21 @@ Threepio)
 		other southern systems.  He'll 
 		be a long time coming there!</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		Sometimes you amaze me, also.</sp>
 
 <sd>They both laugh.  Little Artoo appears momentarily in the
 		doorway, makes a few beeping remarks, then scurries away.
 		In a few moments, Luke appears at the doorway.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		This is a terrific ship!  How did 
 		you ever come by it?</sp>
 
 <sd>Montross gives Han a sly smile, as Artoo appears timidly
 		behind his master.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		It's a long story...I suggest you 
 		relax.  We'll be going into a 
 		Hyper-skip soon, and should reach 
@@ -2932,7 +2933,7 @@ Threepio)
 		ing master, and quietly whispers to him.  Han begins to 
 		search the belt.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		He must have SOMETHING of value.
 		Are you sure you looked through 
 		everything?  His father had bet-
@@ -2946,7 +2947,7 @@ Threepio)
 <sd>Han enters and flops down in the co-pilot's seat.  Montross 
 		is busy studying the solar system with the ship's scanner.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		We've been through everything 
 		twice.  He has nothing with him.
 		I guess we'll just have to wait 
@@ -2954,13 +2955,13 @@ Threepio)
 
 <sd>Montross looks up from the scanner with a worried look.</sd>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		I've scanned almost all the way 
 		to Ogana Major, and there is no 
 		blockade!  I don't get it.  Do 
 		you think we should continue?</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Sure, why not?...but carefully.</sp>
 
 </scene>
@@ -2978,21 +2979,21 @@ Threepio)
 		intercedes on behalf of his small companion and begins to 
 		argue with the huge Wookiee.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Let him have it...You're winning 
 		anyway...It doesn't make any dif-
 		ference.</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Yes sir, but it's the principle of 
 		the thing.</sp>
 
 <sd>A small tone sounds and the com-link crackles to life.</sd>
 
-<sp><speaker>HAN'S VOICE</speaker>
+<sp spk="HAN'S VOICE">
 		Luke, could you come up here!</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I'm on my way.</sp>
 
 </scene>
@@ -3001,27 +3002,27 @@ Threepio)
 <sd>The cockpit is alive with humming meters and softly buzz-
 		ing read-outs.  Montross and Han are busy at the controls.</sd>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		It checks out again.  There is 
 		no mistake about it.</sp>
 
 <sd>Luke enters; his boyish enthusiasm is working overtime.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		We must be just about there!</sp>
 
 <sd>Both Han and Montross are rather grim-faced.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		We ARE there...Ogana Major has 
 		been destroyed...</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		What!  What are you saying?</sp>
 
 <sd>Luke moves close and begins to search the viewing monitors.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		What's left of it is contaminated.
 		That's it there...look at those 
 		radiation read-outs!...and the 
@@ -3032,7 +3033,7 @@ Threepio)
 		the monitor read-outs.  Han is very angry at this turn of
 		events.</sd>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		I don't care how large the Imperial 
 		fleet has become, it couldn't have 
 		done this.  Half the planet is torn 
@@ -3040,39 +3041,39 @@ Threepio)
 		ships with a lot more fire power than 
 		I've ever seen...very fascinating.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Well, I don't like it.  Where is 
 		your father?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		He must be dead...All this way and 
 		he's probably dead...</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Who's going to pay us??</sp>
 
 <sd>The young pirate captain grabs Luke and holds him high
 		against the cockpit wall.</sd>
 
-<sp><speaker>HAN (CONT'D)</speaker>
+<sp spk="HAN (CONT'D)">
 		I'm beginning not to like you!</sp>
 
 <sd>Luke clears his throat and snaps out of his depression.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Deak!  Deak would know...my brother.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		What?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		My brother could help us.  He would 
 		know what to do.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Could he pay us?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		He might know what happened. He's
 		...ah...in a bit of a fix.  I'm
 		sure he would be most grateful if 
@@ -3080,63 +3081,63 @@ Threepio)
 
 <sd>Han puts the boy down and a scheme formulates in Luke's mind.</sd>
 
-<sp><speaker>LUKE (CONT'D)</speaker>
+<sp spk="LUKE (CONT'D)">
 		If my father is dead, then every-
 		thing is his...but it's no use. We 
 		could never get to him...it's im-
 		possible.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Nothing's impossible.  Not for 
 		me anyway.  Tell me where he is 
 		and we'll go there.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		He's being held prisoner...You 
 		couldn't help him...No one could, 
 		not even a Jedi Bendu knight 
 		could...</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		I could.  Where is he?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Alderaan.</sp>
 
 <sd>The word hits Han and Montross like a mad bantha; but Han
 		recovers nicely, and thinks about it for a moment.</sd>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		Well, he's right, you can't go 
 		there.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Why not?  The fact that no one 
 		in their right mind would ever 
 		try might make it easy...You're 
 		sure your brother would make it 
 		worth our while?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Beyond your wildest dreams...</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		You have no fear of Alderaan?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		As you said, the fact that no one 
 		would venture there voluntarily 
 		makes it easy.</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		You boys have the space giddies...
 		but calculating the probabilities, 
 		you may have something...</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Chart a new course...</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Boy, will Deak be surprised to see 
 		us.</sp>
 
@@ -3149,13 +3150,13 @@ Threepio)
 		in the lounge area of the starship.  Han and Luke are deep 
 		in thought.  Luke sits up.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I thought starcaptains were 
 		supposed to be clever.  I 
 		thought you did this kind of 
 		thing all the time...</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Well, I do, of course.  But 
 		Alderaan...even I've never 
 		been there.  When I said I'd 
@@ -3165,7 +3166,7 @@ Threepio)
 <sd>Montross enters the lounge area and sits down.  He flexes
 		his new left arm which was just replaced.</sd>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		This new arm is a lot stiffer 
 		than the last one.  They just 
 		don't make these things the way 
@@ -3176,13 +3177,13 @@ Threepio)
 <sd>Everyone is lost in deep and perplexing thoughts.  He is
 		slightly amused at the young adventurer's dilemma.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		I guess there is only one thing 
 		to do, and that is to fly right 
 		in there and take over...we can 
 		do it.</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		Whoa there...May I make a sugges-
 		tion to the captain?  There is only 
 		one way into Alderaan, and N0 way 
@@ -3197,10 +3198,10 @@ Threepio)
 		I have calculated the probabilities, 
 		and there might be a way.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		How??</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		It is a rather complex plan; but 
 		it has the greatest probability 
 		of working...Go to the library, 
@@ -3208,25 +3209,25 @@ Threepio)
 		procedure...You will have to learn 
 		the...</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		We're going to get in by studying
 		procedures??  I don't like it.</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		All right then, we'll use your 
 		plan.</sp>
 
 <sd>Han slumps in his seat with a dejected look.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		All right, get the tapes.</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		...and we're going to need the
 		space on all of our scan-shielded
 		compartments and lockers.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		What do you want with our scan-
 		proof lockers?</sp>
 
@@ -3255,7 +3256,7 @@ Threepio)
 		by lighted read-outs.  They wear the gleaming black uni-
 		forms of the dungeon guards.</sd>
 
-<sp><speaker>PILOT</speaker>
+<sp spk="PILOT">
 		No reply on any circuits...She 
 		appears to be drifting; but 
 		you'd better give her a blast 
@@ -3264,7 +3265,7 @@ Threepio)
 <sd>Two laser bolts scream past the cockpit and explode in front 
 		of the drifting pirate ship.</sd>
 
-<sp><speaker>PILOT (CONT'D)</speaker>
+<sp spk="PILOT (CONT'D)">
 		Kuro one to AD four.  We have 
 		what appears to be a drifting 
 		TDFI04 which does not respond 
@@ -3294,7 +3295,7 @@ Threepio)
 		on a read-out.  The pilot gives the gunner a quick look be-
 		fore he flips his sun shield over his eyes.</sd>
 
-<sp><speaker>PILOT</speaker>
+<sp spk="PILOT">
 		It appears to be a Corellian 
 		Gypsy vessel, as close as I 
 		can make out...Still no life 
@@ -3305,7 +3306,7 @@ Threepio)
 		in through the main forward bay.
 		Is that satisfactory?</sp>
 
-<sp><speaker>COM-LINK</speaker>
+<sp spk="COM-LINK">
 		Security is standing by. Kuro 
 		one, you have clearance.</sp>
 
@@ -3332,7 +3333,7 @@ Threepio)
 		amused at the cautious stormtroopers.  The battalion com-
 		mander bows before the dark and fearsome Sith knights.</sd>
 
-<sp><speaker>FIRST KNIGHT</speaker>
+<sp spk="FIRST KNIGHT">
 		Chief, get your men back.  Let us 
 		check this out.
 (to the other Sith)
@@ -3351,12 +3352,12 @@ Threepio)
 		ling, bronze Threepio pops his "Art Deco" head out of the 
 		hatchway.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Hello!</sp>
 
 <sd>The two Sith knights give each other rather puzzled looks.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		I'm See Threepio, Human Cyborg 
 		relations.
 		It appears my masters have de-
@@ -3368,7 +3369,7 @@ Threepio)
 
 <sd>The first Sith knight turns back to the battalion commander.</sd>
 
-<sp><speaker>FIRST KNIGHT</speaker>
+<sp spk="FIRST KNIGHT">
 		Chief, hold this thing for in-
 		spection, and check out the 
 		rest of the ship.  I think you 
@@ -3389,7 +3390,7 @@ Threepio)
 		commander and his aid enter the lounge.  They are approached 
 		by a slender, weasel-like OFFICER.</sd>
 
-<sp><speaker>OFFICER</speaker>
+<sp spk="OFFICER">
 		There are no other "droids", sir.
 		The ship isn't much -- a rag-tag, 
 		custom-built job...Might be worth 
@@ -3397,12 +3398,12 @@ Threepio)
 
 <sd>A TROOPER approaches the group.</sd>
 
-<sp><speaker>TROOPER</speaker>
+<sp spk="TROOPER">
 		All clear, sir.  There is a row 
 		of supply lockers we couldn't 
 		get into.</sp>
 
-<sp><speaker>COMMANDER</speaker>
+<sp spk="COMMANDER">
 		Let the scavenger crews take care 
 		of that.  Post a guard, and send 
 		the men back.  Keep the "droid" 
@@ -3426,7 +3427,7 @@ Threepio)
 		Chewbacca pokes his furry head out of the first locker and 
 		Han tells him the way is clear.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		This is ridiculous.  I tell you 
 		it's not going to work. Montross 
 		is crazed half the time...</sp>
@@ -3442,7 +3443,7 @@ Threepio)
 		four Imperial troopers stand guard.  Luke peeks around the 
 		doorway, then whispers to Han.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		There are only four.  Remember:
 		Quietly, and don't mess up the 
 		uniforms...</sp>
@@ -3463,7 +3464,7 @@ Threepio)
 		officer looks up from his desk, as if he hears something.
 		He turns to an aide who is busy readjusting a monitor.</sd>
 
-<sp><speaker>GANTRY OFFICER</speaker>
+<sp spk="GANTRY OFFICER">
 		Did you hear that?</sp>
 
 <sd>The aide shakes his head; but the officer, convinced that
@@ -3479,23 +3480,23 @@ Threepio)
 		ing over them.  The fourth guard approaches the gantry 
 		officer.</sd>
 
-<sp><speaker>GUARD</speaker>
+<sp spk="GUARD">
 		You have business here?</sp>
 
 <sd>The guard is Han Solo.  He struggles to hide a large blood 
 		stain under his right arm.</sd>
 
-<sp><speaker>OFFICER</speaker>
+<sp spk="OFFICER">
 		I thought I heard something down 
 		here.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Are you sure it was from down here?
 		We didn't hear anything...</sp>
 
 <sd>The gantry officer shakes his head at the puzzlement.</sd>
 
-<sp><speaker>OFFICER</speaker>
+<sp spk="OFFICER">
 		Well, I guess not...but keep your 
 		eyes open...</sp>
 
@@ -3509,24 +3510,24 @@ Threepio)
 		runs over to help Han, and Montross, Chewbacca and the robots 
 		rush in.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Don't mess him up!</sp>
 
 <sd>Han starts to change jackets with the gantry officer.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		I've just been promoted.</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		All right now, you don't have 
 		much time.  I hope you can re-
 		member everything.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		We'll be back before you know 
 		it.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Just have the ship ready.</sp>
 
 <sd>Luke binds the huge Chewbacca with electronic cuffs.  The
@@ -3548,25 +3549,25 @@ Threepio)
 		flattens him with one blow.  Threepio and Artoo waddle into 
 		the room, followed by Han and Luke guarding the rear.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Must he howl so?  Every Sith in 
 		the city will know we're here.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Good!  I prefer a straight fight 
 		to all this sneaking around.</sp>
 
 <sd>Threepio and Artoo look over the control panel, until Artoo 
 		finds something which gets him excited.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		We've found it, sir.  Bless the 
 		maker, this control board has one.</sp>
 
 <sd>Han and Luke rush over to the robots.  Chewbacca busies
 		himself with hanging the control aide by his toes.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Plug him in.Let's see what 
 		we get.</sp>
 
@@ -3575,13 +3576,13 @@ Threepio)
 		tion to the little robot.  After a few moments, he beeps 
 		something to Threepio.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Level five, Detention block A-23, 
 		cell 2187... He's still alive...
 		but his condition is reported as 
 		critical.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		All right, wait for us here...
 		Send feed-back into the control 
 		sensors in that Detention block 
@@ -3590,15 +3591,15 @@ Threepio)
 <sd>Han puts the electronic bonds back on Chewbacca and the
 		trio starts out the door.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Pardon me for asking, sir...but, 
 		ah...what are we to do if someone 
 		should discover us here?</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Hope they don't have blasters.</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		That isn't very reassuring.</sp>
 
 </scene>
@@ -3613,14 +3614,14 @@ Threepio)
 		pod-like vehicle slides closed, and it takes off through a 
 		vacuum tube.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		This is the PT-27 unit that ceases 
 		operation if there is any kind of 
 		alarm.</sp>
 
 <sd>He rubs his hand across a series of small holes.</sd>
 
-<sp><speaker>LUKE (CONT'D)</speaker>
+<sp spk="LUKE (CONT'D)">
 		Gas...Montross was definitely 
 		right.  If they discover us, 
 		we'll never get out.</sp>
@@ -3634,27 +3635,27 @@ Threepio)
 		security station.  Guards and laser gates are everywhere.
 		Han whispers to Luke under his breath.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		This isn't going to work.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Why didn't you say so before.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		I think I did.</sp>
 
 <sd>A tall, grim-looking officer approaches the trio.</sd>
 
-<sp><speaker>OFFICER</speaker>
+<sp spk="OFFICER">
 		What code is this?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I've got it here somewhere...
 		It's SPT 188544.  You can check 
 		it through the...ahh, oh yes, 
 		lex-321.</sp>
 
-<sp><speaker>OFFICER</speaker>
+<sp spk="OFFICER">
 		It will take a while -- the big 
 		mode is acting up...getting feed-
 		back from somewhere.</sp>
@@ -3665,14 +3666,14 @@ Threepio)
 		of the alarms, laser gates and camera eyes.  Han unfastens 
 		one of Chewbacca's electronic cuffs and shrugs to Luke.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		May THE FORCE OF OTHERS be with us.</sp>
 
 <sd>Suddenly, Chewbacca throws up his hands and lets out with
 		one of his ear-piercing howls.  He grabs Han's laser sword 
 		and ignites it, pushing Han against the wall.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Look out!  He's loose!</sp>
 
 <sd>The startled guards are momentarily dumbfounded.  Luke and 
@@ -3685,7 +3686,7 @@ Threepio)
 		which is screeching questions about what is going on.  Han 
 		and Chewbacca disappear down one of the sub-hallways.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		A Wookiee broke loose up here, 
 		but we've got him under control.
 		There is a lot of damage, four 
@@ -3705,7 +3706,7 @@ Threepio)
 		with his laser pistol.  When the smoke clears, Han looks in 
 		the cell and an expression of horror crosses his face.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		"Holy Maker" No!</sp>
 
 <sd>Suspended inside the cell by invisible rays, a bloody and
@@ -3731,7 +3732,7 @@ Threepio)
 		way to lock on the laser gate "cutters".  He takes a small 
 		com-link transmitter from his belt and speaks into it.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		C3PO - C3P0 -- switch off emer-
 		gency communications network.
 		We're on our way.  Monitor what 
@@ -3745,7 +3746,7 @@ Threepio)
 		whistles a blue streak.  Threepio yells into the small com-
 		link transmitter.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I said, all systems have been
 		alerted to your presence, sir.
 		I respectfully suggest you re-
@@ -3757,7 +3758,7 @@ Threepio)
 		troops rush past, yelling and shouting orders.  Threepio 
 		slams the door shut, and pushes the lock lever.</sd>
 
-<sp><speaker>THREEPIO (CONT'D)</speaker>
+<sp spk="THREEPIO (CONT'D)">
 		Oh no!</sp>
 
 </scene>
@@ -3766,13 +3767,13 @@ Threepio)
 <sd>Han and Chewbacca rush toward the detention control complex, 
 		but are met by Luke running toward them.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		There's no going back that way.</sp>
 
 <sd>Luke notices his mutilated brother draped over Chewbacca's 
 		shoulders.  His mouth drops open in stunned shock.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		He's still with us, but there 
 		ain't much left of him.
 		Your family must have something 
@@ -3782,7 +3783,7 @@ Threepio)
 		They reach a small grate in the wall, covering a passage
 		that leads down into a deep darkness.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		This way.  It might lead out of 
 		the cell block.</sp>
 
@@ -3800,11 +3801,11 @@ Threepio)
 		an intersecting hallway.  The marching troops seem to be 
 		getting louder; muffled voices can be heard.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		They're right behind us.  Which 
 		way?</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Your guess is as good as mine.
 		Maybe we'd better keep going 
 		down until we reach the docking 
@@ -3820,19 +3821,19 @@ Threepio)
 <sd>A loud buzzer sounds throughout the control tower.  Threepio 
 		rushes to the computer console.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		All right, all right, I'm going 
 		to answer it...just don't blame 
 		me if we get caught.</sp>
 
 <sd>He switches on the control com-link.</sd>
 
-<sp><speaker>COM-LINK</speaker>
+<sp spk="COM-LINK">
 		There is a problem on the level 
 		five detention area.  Double 
 		alert.</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Confirmed, and out.
 (to Artoo)
 		Do you think they'll believe that?</sp>
@@ -3844,46 +3845,46 @@ Threepio)
 		Chewbacca must walk sideways.  Suddenly the way opens up to 
 		a wide, low ceiling corridor that is very dark and dank.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		We made it...Hurry!</sp>
 
 <sd>The group runs along the foul-smelling passageway.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I think they've stopped following 
 		us.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		I wonder why?...It's sure getting 
 		hot down here.  Where do you think 
 		this leads?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		It's some kind of vent system.</sp>
 
 <sd>A loud, horrible, inhuman moan works its way up from the
 		far end of the passageway and stops the group dead in its
 		tracks.  They exchange rather worried looks.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		I think I know why they stopped 
 		following us...</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Which direction is it?</sp>
 
 <sd>Chewbacca jabbers something to Han.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Chewbacca says there are legends 
 		of the Sith keeping DAI NOGAS in 
 		the belly of the city...Dai Nogas 
 		are not to be trifled with.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Which way should we go?</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		They are not natural creatures.
 		They are very large; but it 
 		could be anywhere.  There is no 
@@ -3896,7 +3897,7 @@ Threepio)
 		tinue forward.  Barely perceivable, a dim light glimmers at 
 		the far end of the hallway.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Look, a light, head for it!</sp>
 
 <sd>The group picks up speed as it nears the light.  Suddenly, 
@@ -3905,17 +3906,17 @@ Threepio)
 		fast with their laser pistols drawn.  Han calls back to the 
 		Wookiee, who begins to cower near one of the damp walls.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Guns are no good.  Only a Jedi, 
 		strong with the FORCE, can stop 
 		it.</sp>
 
 <sd>The huge shape, breathing loud and deep, sloshes forward.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Maybe we could out-flank it?</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		The passageway is too small...We 
 		would have to distract it with 
 		something.</sp>
@@ -3923,15 +3924,15 @@ Threepio)
 <sd>The two boys begin to slowly walk backwards as the horrible 
 		DAI NOGA begins its cumbersome advance.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Get Chewbacca, try to get around 
 		it.  I'll draw it away.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Are you sure??  These things 
 		aren't natural.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I'll listen to your plan...</sp>
 
 <sd>Han turns and rushes back to Chewbacca, who is huddled
@@ -3954,12 +3955,12 @@ Threepio)
 		Luke backs away firing as he goes.  Han and Chewbacca make 
 		it to the door and watch the Dai Noga move after Luke.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		We're clear!  I'll distract him.</sp>
 
 <sd>He fires a shot at the monster, but it continues after Luke.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Shoot above him!</sp>
 
 <sd>Han fires again, this time above the creature, knocking
@@ -3977,7 +3978,7 @@ Threepio)
 		tentacle works its way out of the doorway searching for a
 		victim.  Han aims his pistol.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		No, wait!!  They'll hear...</sp>
 
 <sd>Han fires at the doorway, creating an avalanche of rubble
@@ -3988,7 +3989,7 @@ Threepio)
 		tain.  They get up and start down the passageway.  Han is 
 		clearly bothered by Luke's low opinion of his actions.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		I don't care, I want them to 
 		find us...I need a good fight...
 		I could polish off a whole squad, 
@@ -4001,7 +4002,7 @@ Threepio)
 
 <sd>Threepio nervously paces the control room.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		You mean they've calculated that 
 		the escape has something to do 
 		with the ship!  Then they'll come 
@@ -4018,7 +4019,7 @@ Threepio)
 		officer attempts to open the hatch and enter the ship, but 
 		is unsuccessful.  He exits the docking bay in a hurry.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		He'll be heading for the control 
 		tower.  Come on...</sp>
 
@@ -4033,10 +4034,10 @@ Threepio)
 		in panic.  Pleased with his prowess, Han starts after them, 
 		yelling back to Luke as he goes.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Get Chewbacca to the ship!</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Wait, where are you going?  Come 
 		back here!</sp>
 
@@ -4083,7 +4084,7 @@ Threepio)
 		com-link receiver to Han, who continues his barrage of the 
 		troopers.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		It's for you.</sp>
 
 <sd>Han talks to the Wookiee and seems to be in some kind of
@@ -4105,13 +4106,13 @@ Threepio)
 
 <sd>Han gives the com-link back to Luke.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Chewbacca can't make it to the 
 		ship without help.</sp>
 
 <sd>The final hatch starts to swing open behind them.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Then let's go!</sp>
 
 <sd>They turn and start into the main spaceport causeway.  A
@@ -4119,7 +4120,7 @@ Threepio)
 		evil, BLACK KNIGHTS OF THE SITH stride toward them.  Luke
 		turns and runs back into the narrow passageway.</sd>
 
-<sp><speaker>LUKE (CONT'D)</speaker>
+<sp spk="LUKE (CONT'D)">
 		Come on back.  We'll not be 
 		stopping them...</sp>
 
@@ -4127,7 +4128,7 @@ Threepio)
 		the main blast-shield lock switch.  The five layers of
 		door instantly slam shut.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Now what??</sp>
 
 <sd>Luke shrugs his shoulders.  The stormtroopers renew their
@@ -4140,7 +4141,7 @@ Threepio)
 		Stormtroopers take up position behind them.  One of the 
 		knights turns to the first officer of the guard.</sd>
 
-<sp><speaker>SITH KNIGHT</speaker>
+<sp spk="SITH KNIGHT">
 		Move your man back.</sp>
 
 <sd>The troops scurry out of the way, as the Sith knights raise 
@@ -4157,19 +4158,19 @@ Threepio)
 		starcaptain is sitting in a corner staring blankly at the 
 		bulging door.  Luke runs back to him.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		What is it?</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		It's no use...we're lost.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		No, no, there's a debris chute.
 		It's the Bogan force making you 
 		feel that way.  Don't give up 
 		hope...fight it!</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		It's no use, it's no use.</sp>
 
 <sd>The giant hinge bolts on the blast-shield door begin to pop 
@@ -4177,7 +4178,7 @@ Threepio)
 		off a rapid series of shots and half-drags Han to the small 
 		grate in the wall.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Well, we're going anyway.  Think 
 		of good things.  Drive the Bogan 
 		from your mind.</sp>
@@ -4196,7 +4197,7 @@ Threepio)
 		around looking for an exit.  He finds a small hatchway and 
 		struggles to get it open.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		The blasted thing is vacuum-
 		sealed.</sp>
 
@@ -4206,39 +4207,39 @@ Threepio)
 		plodes almost on top of them.  Luke climbs out of the gar-
 		bage with a rather grim look on his face.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I'm glad to see the Bogan is no 
 		longer with you, but would you 
 		put that thing away or you're 
 		going to get us both killed.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 (sarcastic)
 		I'll leave it for you to open 
 		then.  I'm just afraid we're 
 		going to have company soon...
 		This is a brilliant escape.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Well, it could be worse...</sp>
 
 <sd>Before Han can reply, the walls of the garbage receptacle
 		begin to rumble and edge toward the adventurers.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Now what?!?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Try to jam it with something.</sp>
 
 <sd>They place poles and long metal beams between the closing
 		walls; but they are simply snapped and bent and the giant
 		trash masher rumbles on.  The situation doesn't look good.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		This isn't working!</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Well then, think of something 
 		else!</sp>
 
@@ -4247,13 +4248,13 @@ Threepio)
 		by the relentless walls.  Luke's com-link begins to buzz, 
 		and he pulls it off his belt.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I begging your pardon, sir,
 		but we are going to be unable 
 		to stay here much longer.
 		Could you give us...</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 (to Han)
 		Threepio!  That's it.  The R-2 
 		unit is still plugged into the 
@@ -4272,21 +4273,21 @@ com-link)
 		halt.  Han breathes a sigh of relief.  Luke goes over to
 		the pressure hatch and scrapes some muck off a number.</sd>
 
-<sp><speaker>LUKE (CONT'D)</speaker>
+<sp spk="LUKE (CONT'D)">
 		Open the pressure maintenance 
 		hatch on unit 366117891...</sp>
 
 <sd>In a moment, the door pops open.</sd>
 
-<sp><speaker>LUKE  (CONT'D)</speaker>
+<sp spk="LUKE  (CONT'D)">
 		We're out.  Disconnect Artoo and 
 		go back to the ship...Avoid the 
 		troops, if possible...</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I wish you were here, sir.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		We'll be with you shortly.  In-
 		struct Montross to get the ship 
 		started.</sp>
@@ -4299,28 +4300,28 @@ com-link)
 		spot Artoo and Threepio waddling towards them and can hardly 
 		believe their eyes.</sd>
 
-<sp><speaker>OFFICER</speaker>
+<sp spk="OFFICER">
 		That's them!</sp>
 
 <sd>Before they can do anything about it, Han and Luke jump
 		the officers from behind, and put laser swords to their
 		necks.  The robots trundle up to them.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Thank goodness you're safe, 
 		sir.  Did you find Master Deak?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Chewbacca's got him.  Now if we 
 		can just get by those guards be-
 		fore the Sith arrive...</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		They won't be here too quickly, 
 		I don't think; we shut and sealed 
 		all alarm doors in the gantry.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 (to the officer)
 		Come on, boys!</sp>
 
@@ -4337,12 +4338,12 @@ com-link)
 		the starship, which is a medley of noises, as it prepares 
 		for take-off.  The main hatch slides open.</sd>
 
-<sp><speaker>OFFICER</speaker>
+<sp spk="OFFICER">
 		Forget about us -- fire on them.</sp>
 
 <sd>The troops aim their laser rifles.  The admiral panics.</sd>
 
-<sp><speaker>ADMIRAL</speaker>
+<sp spk="ADMIRAL">
 		No, wait!  Don't shoot!  They'll 
 		not get away.  They'll not get 
 		away.  Don't shoot!</sp>
@@ -4355,18 +4356,18 @@ com-link)
 <sd>Han slides into the co-pilot seat.  Montross gives him a
 		big smile.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Get us out of here!</sp>
 
 <sd>Montross pulls back on the controls and the ship begins to 
 		move.  The dull thud of laser bolts can be heard bouncing 
 		off the outside of the ship.</sd>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		They aren't going to hurt us 
 		with those peashooters...</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		There are Sith out there.</sp>
 
 </scene>
@@ -4376,7 +4377,7 @@ com-link)
 		the cloud sea of Alderaan.  Troops continue to fire at the 
 		ship as it leaves.  Too late, four Sith knights arrive.</sd>
 
-<sp><speaker>SITH KNIGHT</speaker>
+<sp spk="SITH KNIGHT">
 		They'll not get far.</sp>
 
 </scene>
@@ -4384,11 +4385,11 @@ com-link)
 
 <sd>Han picks up the com-link.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Luke, jettison the hostages and 
 		get to one of the gun ports.</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		You'd better get back there, too.
 		Four TIE ships coming in at six 
 		o'clock.</sp>
@@ -4396,10 +4397,10 @@ com-link)
 <sd>He points out the cockpit window to four small Imperial
 		fighters banking in on their right side.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Was this trip really necessary?</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		There's another bunch at two o'clock.
 		We're into our power reserves, so 
 		take your time.  Sing out if they 
@@ -4414,7 +4415,7 @@ com-link)
 		head-phones, and searches his electronic tracking screen 
 		for the Imperial fighters.</sd>
 
-<sp><speaker>MONTROSS (over head-phones) </speaker>
+<sp spk="MONTROSS (over head-phones) ">
         Here they come.</sp>
 
 <sd>Han jumps into the turret opposite Luke, and begins to strap 
@@ -4434,7 +4435,7 @@ com-link)
 		ship and throws Artoo and Threepio crashing against a pas-
 		sageway wall.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Here we go again.  How did we 
 		get ourselves into this?  We 
 		never seem to be in the right 
@@ -4445,7 +4446,7 @@ com-link)
 		disappear from view.  The pirate starship undergoes a great 
 		deal of punishment as the battle rages.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 (into the com-link)
 		We're beginning to come apart 
 		back here...the ship will not 
@@ -4464,7 +4465,7 @@ com-link)
 		Montross manages to keep things under control.  He speaks
 		into the com-link.</sd>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		You're doing great, boys. There 
 		are only three or four of them 
 		left; but maybe it's time we 
@@ -4479,7 +4480,7 @@ com-link)
 		speed; but it isn't long before the Imperial fighters catch 
 		up.</sd>
 
-<sp><speaker>MONTROSS (CONT'D)</speaker>
+<sp spk="MONTROSS (CONT'D)">
 		Take them now, boys.  They 
 		shouldn't be maneuverable at 
 		this speed.</sp>
@@ -4501,7 +4502,7 @@ com-link)
 		in the doorway watching as Threepio applies some medication 
 		to the Jedi's gaping wounds.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I don't know much more we can do 
 		for him, sir.  These are spiritual 
 		wounds.  The Bogan arts often run 
@@ -4509,13 +4510,13 @@ com-link)
 		and logic.  I can't help him. Only 
 		a Jedi can save him.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		He's been trying to talk...He knows 
 		I'm here.  He knows it's me.</sp>
 
 <sd>Han simply shakes his head at the situation.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		He must have something of great 
 		value for them to do that to him.
 		A lost spice mine, maybe?  Well, 
@@ -4527,13 +4528,13 @@ com-link)
 
 <sd>Han turns and leaves Luke and Threepio alone with Deak.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		You've done well, Threepio...you 
 		have served both of us well beyond 
 		your programming.  Leave me with 
 		him for awhile, would you?</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Thank you, sir.  Your kindness is 
 		greatly appreciated.  That is, the 
 		compliment of compliments...But 
@@ -4542,13 +4543,13 @@ com-link)
 		we stirred up back there, I'm sure 
 		we aren't through this yet.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I'll be along shortly.</sp>
 
 <sd>Threepio turns and leaves, locking the cabin door behind
 him.</sd>
 
-<sp><speaker>LUKE (CONT'D)</speaker>
+<sp spk="LUKE (CONT'D)">
 		I guess you couldn't have known, 
 		but Ogana Major is gone, destroyed 
 		by something -- I can't imagine 
@@ -4578,36 +4579,36 @@ out of the cabin.</sd>
 are sprawled across the chairs, sound asleep.  They wake
 with a start.  Chewbacca draws his laser sword.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Yavin's fourth moon.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		What's wrong?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		My father's on the fourth moon 
 		of Yavin.  We must go there 
 		immediately.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Wait a minute.Is your brother
 		conscious?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		No...</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Then how do you know your father 
 		is on Yavin?  I've had it with 
 		your adventures...</sp>
 
 <sd>Chewbacca blurts out a long line of gibberish to Han.</sd>
 
-<sp><speaker>HAN (CONT'D)</speaker>
+<sp spk="HAN (CONT'D)">
 		Yeah, you're going to get us all 
 		killed!</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		My father is on the fourth moon of 
 		Yavin.  Your only reward is there, 
 		also.</sp>
@@ -4615,7 +4616,7 @@ with a start.  Chewbacca draws his laser sword.</sd>
 <sd>Han thinks about this for a few moments, then throws up
 his hands.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Well, we're already headed that 
 		way anyway.</sp>
 
@@ -4626,20 +4627,20 @@ his hands.</sd>
 
 <sd>Montross is upset and starts yelling at Han and Luke.</sd>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		...It's a wasteland.  That system
 		is way beyond the rim of the galaxy.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		But we HAVE enough power to get 
 		there.</sp>
 
 <sd>Luke slams a connector panel on the computer console.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Just relax for a second!</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 (getting more 
 excited)
 		We have MORE than enough power to 
@@ -4652,7 +4653,7 @@ excited)
 console to make his point, but Han grabs it in time to 
 keep it from being dashed to bits.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		It's not a wasteland.  There is 
 		an outpost, I tell you...</sp>
 
@@ -4660,35 +4661,35 @@ keep it from being dashed to bits.</sd>
 who has been quietly sitting in the co-pilot's seat all 
 through the argument, interrupts his master.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Excuse me, sir -- but we seem 
 		to be approaching another ship 
 		of some king.</sp>
 
 <sd>Montross looks into the scanner display.</sd>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		I don't think that's a ship, 
 		although it moves like one...
 		it's much too large.  It's as 
 		big as a small moon.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		A station of some kind?</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		I don't know.  It's moving, but 
 		not very fast, and it's traveling 
 		in the same direction we are.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Move off, let's go around it. We 
 		don't need any more trouble.</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		I'd sure like to see what it is...</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Well, whatever it is, it means 
 		there must be some kind of a 
 		power depot out here, so we'll 
@@ -4708,46 +4709,46 @@ emerald green, fourth moon of YAVIN.</sd>
 <sd>Montross and Han are at the controls, as Luke rushes into 
 the cockpit.</sd>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		We pick up no significant life 
 		form concentrations down there.
 		Certainly there's no outpost...</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		It could be shielded, could be 
 		anything.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Could be nothing.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Move into latitude sixty-one...</sp>
 
 <sd>A light begins to flash on the computer board.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		What's that?</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		A signal beacon.  Something is 
 		sending us coordinates...</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		That's it!  Lock onto it!  We 
 		made it...We made it!</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		There'll be no landing a ship 
 		this size on that terrain. We'll 
 		have to use the auxiliary units.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Good.  I'll help Chewbacca with 
 		Deak.</sp>
 
 <sd>Luke rushes out of the cockpit.</sd>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		That moon or station -- or what-
 		ever it is -- is back on the 
 		scope.  It's either following us 
@@ -4755,7 +4756,7 @@ the cockpit.</sd>
 		on its own.  I'd better stay with 
 		the ship.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Yeah, I think you'd better.  I 
 		don't like this.  Track us if 
 		you can...</sp>
@@ -4778,14 +4779,14 @@ Yavin's fourth moon.</sd>
 <sd>Han, Chewbacca, and Threepio emerge from the battered cap-
 sule as it slowly sinks into the murky swamp.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Montross was sure right about 
 		this not being a fit place to 
 		land.  We could have gotten 
 		KILLED coming through those 
 		trees...Well, let's find Luke...</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		They landed further south, I 
 		think.  This is dangerous country.
 		If you don't mind my saying so, 
@@ -4825,10 +4826,10 @@ cable from his utility belt to the tree trunk, and slides
 to the ground.  Han and Threepio are waiting for him at 
 the base of the huge tree.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Are you all right?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Yeah, I think so.  I'm going 
 		to need some help getting Deak 
 		down from there.</sp>
@@ -4837,12 +4838,12 @@ the base of the huge tree.</sd>
 something.  He tells Chewbacca to climb the tree and get
 Deak.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		He says we're about a league off 
 		the coordinates.  The going will 
 		be slow in this mess...</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Then we best get on with it.</sp>
 
 </scene>
@@ -4857,7 +4858,7 @@ above the dense jungle.  Suddenly, three Aquillian rangers
 break out of the dark foliage and approach the group. Han 
 and Chewbacca raise their weapons.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Hold!  Who are you?  Whom do 
 		you serve?</sp>
 
@@ -4866,7 +4867,7 @@ pistol.  He is a tall man; on his helmet is the crest of
 AQUILLAE.  He advances until he is standing a few feet
 from Luke's weapon.</sd>
 
-<sp><speaker>ANTILLES</speaker>
+<sp spk="ANTILLES">
 		I am Bail Antilles...I serve 
 		THE FORCE OF OTHERS...We are 
 		agents of the Starkiller...He 
@@ -4879,10 +4880,10 @@ of them speaks to Chewbacca in his own tongue, and the
 giant Wookiee lowers Deak onto a stretcher they have placed 
 before him.</sd>
 
-<sp><speaker>ANTILLES (CONT'D)</speaker>
+<sp spk="ANTILLES (CONT'D)">
 		Which of you is young Luke?</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I am.  This is my friend and a 
 		great starcaptain, Han Solo...
 		His first mate is called Chewbacca.</sp>
@@ -4891,7 +4892,7 @@ before him.</sd>
 embarrassed and doesn't know how to respond.  Finally the 
 ranger rises.</sd>
 
-<sp><speaker>ANTILLES</speaker>
+<sp spk="ANTILLES">
 		We must move swiftly, my lord.
 		For you have arrived with all of 
 		the force of the Bogan at your 
@@ -4929,12 +4930,12 @@ as a young astro-general named DODANA is describing an
 attack plan to the others.  Antilles stops Han just outside 
 the door as two braided guards approach them.</sd>
 
-<sp><speaker>ANTILLES</speaker>
+<sp spk="ANTILLES">
 		You'll have to wait here.</sp>
 
 <sd>Han gives Luke a look of betrayal and anger.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I'll be back, and you'll be 
 		paid.</sp>
 
@@ -4948,7 +4949,7 @@ door slides silently closed behind them.</sd>
 Several officers at the table glance at Luke, but for the
 most part their attention remains riveted on General Dodana.</sd>
 
-<sp><speaker>DODANA</speaker>
+<sp spk="DODANA">
 		...and although the digital
 		analysis doesn't confirm it,
 		he feels there is a weak point...</sp>
@@ -4962,7 +4963,7 @@ dark corner of the room near Dodana.  Luke strains to see
 something in the corner.  His hand fingers his belt buckle 
 and he turns to Antilles and nods yes.</sd>
 
-<sp><speaker>DODANA (CONT'D)</speaker>
+<sp spk="DODANA (CONT'D)">
 		...Here, near the north pole
 		someplace.  In an area somewhere 
 		below their generating towers, 
@@ -4978,7 +4979,7 @@ and he turns to Antilles and nods yes.</sd>
 <sd>A large, sallow-eyed General named AAY ZAVOR fiddles ner-
 vously with a small hand computer.</sd>
 
-<sp><speaker>ZAVOR</speaker>
+<sp spk="ZAVOR">
 		The greatest concentration of 
 		fire power is at the poles.  I 
 		doubt a ship could get in there 
@@ -4988,7 +4989,7 @@ vously with a small hand computer.</sd>
 
 <sd>A flight officer with a patch over one eye rises.</sd>
 
-<sp><speaker>FLIGHT OFFICER</speaker>
+<sp spk="FLIGHT OFFICER">
 		There is an impossible magnetic 
 		field around those towers. Maneu-
 		verability in that sector is less 
@@ -5008,7 +5009,7 @@ long silver beard and penetrating gray-blue eyes.  Luke
 stares at him in awe.  He's at once proud, moved and 
 slightly frightened.</sd>
 
-<sp><speaker>TARKIN</speaker>
+<sp spk="TARKIN">
 		With all due respect, sir, the time 
 		has come for it to be said...</sp>
 
@@ -5016,7 +5017,7 @@ slightly frightened.</sd>
 Mouff's side of the table look down at their fidgeting hands 
 or nervously look away.</sd>
 
-<sp><speaker>TARKIN (CONT'D)</speaker>
+<sp spk="TARKIN (CONT'D)">
 		After our crushing defeat, and the 
 		destruction of Ogana Major by this 
 		Death Star...the Council has voted 
@@ -5035,7 +5036,7 @@ or nervously look away.</sd>
 <sd>The Starkiller sits unmoved, unresponding.  Zavor jumps to 
 his feet in great anger and despair.</sd>
 
-<sp><speaker>ZAVOR</speaker>
+<sp spk="ZAVOR">
 		Your strategy destroyed us on 
 		Ogana Major!  THE FORCE OF OTHERS 
 		is no longer with us.  The Bogan 
@@ -5044,28 +5045,28 @@ his feet in great anger and despair.</sd>
 
 <sd>Finally Antilles can stand it no longer.</sd>
 
-<sp><speaker>ANTILLES</speaker>
+<sp spk="ANTILLES">
 		The Bogan is already beginning 
 		to work on you...Will you flee 
 		like frightened children again, 
 		only to be hunted down again, 
 		until there is no place to hide.</sp>
 
-<sp><speaker>ZAVOR</speaker>
+<sp spk="ZAVOR">
 		We were overwhelmed; his plan was 
 		hopeless as this new plan of his 
 		is hopeless...</sp>
 
-<sp><speaker>ANTILLES</speaker>
+<sp spk="ANTILLES">
 		You would trust a machine's logic 
 		over THE FORCE OF OTHERS?  His son 
 		brings us new faith...</sp>
 
-<sp><speaker>TARKIN</speaker>
+<sp spk="TARKIN">
 		His son brought us the Death Star...
 		He has betrayed us!</sp>
 
-<sp><speaker>ANTILLES</speaker>
+<sp spk="ANTILLES">
 		He's brought us the Kiber Crystal!</sp>
 
 <sd>The room falls silent.  The bent and broken Starkiller rises 
@@ -5076,7 +5077,7 @@ Starkiller holds up the powerful stone and it radiates a
 brilliant light throughout the room.  Years seem to drop 
 from the old man as the Kiber's force moves into his body.</sd>
 
-<sp><speaker>THE STARKILLER</speaker>
+<sp spk="THE STARKILLER">
 		With the Crystal, I can hold off 
 		the force of the Bogan...but when 
 		its presence is revealed, the enemy 
@@ -5092,19 +5093,19 @@ from the old man as the Kiber's force moves into his body.</sd>
 
 <sd>One of the younger officers stands up.</sd>
 
-<sp><speaker>OFFICER</speaker>
+<sp spk="OFFICER">
 		We'll find the port.</sp>
 
 <sd>Several other officers stand, also.</sd>
 
-<sp><speaker>SECOND OFFICER</speaker>
+<sp spk="SECOND OFFICER">
 		I think my boys could get in 
 		there -- they can hit it.</sp>
 
 <sd>More officers and Generals join in until even Zavor and
 Tarkin are standing.</sd>
 
-<sp><speaker>TARKIN</speaker>
+<sp spk="TARKIN">
 		It will be to the finish, then.
 		This time, victory!</sp>
 
@@ -5114,7 +5115,7 @@ Tarkin are standing.</sd>
 <sd>Luke is embraced by his father in the cool, dim quiet of
 the outpost electronic library.</sd>
 
-<sp><speaker>THE STARKILLER</speaker>
+<sp spk="THE STARKILLER">
 		You've done well, my son -- but 
 		I'm afraid your trial has just 
 		begun.  I had hoped we would 
@@ -5129,41 +5130,41 @@ the outpost electronic library.</sd>
 <sd>Artoo and Threepio enter the room and bow low before their 
 master and his father.</sd>
 
-<sp><speaker>THE STARKILLER (CONT'D)</speaker>
+<sp spk="THE STARKILLER (CONT'D)">
 		I trust your replacement parts 
 		are satisfactory?</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Most certainly, and your kindness 
 		is greatly appreciated.
 		I feel my capacities have doubled, 
 		and if I do say so, Artoo is a 
 		new unit.  I'd hardly know him.</sp>
 
-<sp><speaker>THE STARKILLER</speaker>
+<sp spk="THE STARKILLER">
 		You have served us well, and I 
 		am releasing you from further 
 		service.  You may rest and enjoy 
 		your remaining years in tran-
 		quillity...</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		If it's at all possible, sir, and 
 		if it's all the same to you...no 
 		disrespect intended...we'd rather 
 		continue to serve Master Luke.</sp>
 
-<sp><speaker>THE STARKILLER</speaker>
+<sp spk="THE STARKILLER">
 		The choice is yours.  Luke is truly
 		fortunate.  Now go and have them 
 		bring us this starcaptain who was 
 		so helpful to you.</sp>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I begging your pardon, sir, but 
 		might I inquire after Master Deak?</sp>
 
-<sp><speaker>THE STARKILLER</speaker>
+<sp spk="THE STARKILLER">
 		Deak is doing fine, but the Bogan 
 		is still heavy with him and it will 
 		be some time before he is himself 
@@ -5175,7 +5176,7 @@ his son.  Han feels quite awkward standing before the
 legendary galactic hero.  He gives the old man a short 
 bow, then gives Luke a slight nod.</sd>
 
-<sp><speaker>THE STARKlLLER (CONT'D)</speaker>
+<sp spk="THE STARKlLLER (CONT'D)">
 		You have been of great service to 
 		us.  We offer you this in gratitude.
 		Luke tells me you have a great de-
@@ -5185,16 +5186,16 @@ bow, then gives Luke a slight nod.</sd>
 neatly minted chrome bars.  Han's mouth drops open in amaze-
 ment.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		This must be at least seven or 
 		eight million!</sp>
 
-<sp><speaker>THE STARKILLER</speaker>
+<sp spk="THE STARKILLER">
 		I would that I could give you 
 		more.  We sorely need a man of 
 		your ability.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		I'm afraid my calling is elsewhere.
 		Sorry, Luke, but I'm not a part of 
 		this.</sp>
@@ -5203,7 +5204,7 @@ ment.</sd>
 forward and gives Han a gray gunbelt with a chrome laser 
 sword attached.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Han, I want you to take this.
 		It was fashioned by the Bomerwrights
 		of Sullest.  It is a special blade 
@@ -5212,7 +5213,7 @@ sword attached.</sd>
 
 <sd>He gives Han a hug, and the young starcaptain leaves.</sd>
 
-<sp><speaker>THE STARKILLER</speaker>
+<sp spk="THE STARKILLER">
 		Now, my son, tell me of Owen, Beru, 
 		and the twins, and of course, little
 		Leia.</sp>
@@ -5229,26 +5230,26 @@ ship, until the two craft link up.</sd>
 <sd>Han and Chewbacca enter the starship and are greeted by
 Montross.  Han gives him the box of chrome bars.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Eight million!  Eight million 
 		and we got it legal.  Can you 
 		beat that?  If only Captain Oxus 
 		could see us now.  He never had 
 		a haul this big!</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		You didn't stay long.  Could you 
 		have tried for more?</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		That station we spotted is what 
 		destroyed Ogana Major. They're 
 		going to try to stop it.</sp>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		Then I'd better get us going.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		Yeah, do that.</sp>
 
 <sd>Han has a wistful look in his eyes as Montross heads back 
@@ -5273,7 +5274,7 @@ power couplings.  Luke, closely followed by Artoo and
 Threepio, meet Antilles in front of one of the sleek star-
 ships.</sd>
 
-<sp><speaker>ANTILLES</speaker>
+<sp spk="ANTILLES">
 		This one's ours.  May THE FORCE 
 		OF OTHERS be with us.</sp>
 
@@ -5286,7 +5287,7 @@ Luke and the robots join the others in the tribute.  The
 air warriors are a wide mix of humans and other creatures 
 from the many systems in the Alliance.</sd>
 
-<sp><speaker>THE STARKILLER</speaker>
+<sp spk="THE STARKILLER">
 		Your next journey is marked by 
 		your given word.
 		Do not falter, for there is no 
@@ -5307,7 +5308,7 @@ the signal that he is starting his ion engine.  He has a
 winning smile and a distinctive scar along the side of his 
 face.  His crew chief pats him on the back.</sd>
 
-<sp><speaker>CHIEF</speaker>
+<sp spk="CHIEF">
 		Knock them all the way back to 
 		Alderaan.</sp>
 
@@ -5315,7 +5316,7 @@ face.  His crew chief pats him on the back.</sd>
 the runway.  Luke and Antilles settle into their craft as 
 their crew looks down the armament housing.</sd>
 
-<sp><speaker>CREWMAN</speaker>
+<sp spk="CREWMAN">
 		I've got you about a thousand 
 		pounds lighter.  It should help.</sp>
 
@@ -5335,12 +5336,12 @@ of the Yavin system.  It shows the planet, moons and approach-
 ing Death Star.  The Grande Mouff Tarkin stands behind the 
 Jedi with several other Generals.</sd>
 
-<sp><speaker>TARKIN</speaker>
+<sp spk="TARKIN">
 		They're all away, sir.  For the 
 		first time since the take-over,
 		I feel real hope.</sp>
 
-<sp><speaker>THE STARKILLER</speaker>
+<sp spk="THE STARKILLER">
 		Put their com-links through the 
 		main system.  Let everyone hear 
 it.</sp>
@@ -5348,7 +5349,7 @@ it.</sp>
 <sd>General Dodana approaches the group and leans over to the 
 Starkiller.</sd>
 
-<sp><speaker>DODANA</speaker>
+<sp spk="DODANA">
 		They've made contact, sir.</sp>
 
 </scene>
@@ -5372,10 +5373,10 @@ the craft.  The many monitors are filled with various com-
 puter read-outs and displays.  Over the com-link one of 
 the other starpilots reports to Pilot Leader.</sd>
 
-<sp><speaker>BOMA SIX (INTERCOM)</speaker>
+<sp spk="BOMA SIX (INTERCOM)">
 		Look at the size of that thing!</sp>
 
-<sp><speaker>PILOT LEADER</speaker>
+<sp spk="PILOT LEADER">
 		Cut off, Boma Six.  Stand by.
 		Bantha pack cover to the south.
 		We'll try for the exhaust port.
@@ -5388,10 +5389,10 @@ the other starpilots reports to Pilot Leader.</sd>
 the sunshade on his goggles.  Antilles and Threepio rotate 
 around in the gun-pod.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Does that glare bother you?</sp>
 
-<sp><speaker>ANTILLES</speaker>
+<sp spk="ANTILLES">
 		I've got it blocked.  I'm all right.
 		I wish they'd let us try for 
 		that exhaust port.</sp>
@@ -5422,7 +5423,7 @@ foreboding, is the evil Sith knight: Darth Vader.  Several
 astro-officers run up to him, still putting on the helmets 
 and equipment.</sd>
 
-<sp><speaker>VADER</speaker>
+<sp spk="VADER">
 		Get to your ships.  I'll take the 
 		lead myself.</sp>
 
@@ -5433,7 +5434,7 @@ and equipment.</sd>
 starships over the com-link.  The Starkiller seems to be
 asleep, but no one attempts to waken him.</sd>
 
-<sp><speaker>PILOT LEADER (V.O.)</speaker>
+<sp spk="PILOT LEADER (V.O.)">
 		Boma One to Massoni Base, we're 
 		nearing the north pole transmitter 
 		area.  The magnetic concussion is 
@@ -5442,33 +5443,33 @@ asleep, but no one attempts to waken him.</sd>
 		Two, tighten it up.  Watch those 
 		towers.</sp>
 
-<sp><speaker>BOMA TWO (CHEWIE)(V.O.)</speaker>
+<sp spk="BOMA TWO (CHEWIE)(V.O.)">
 		Heavy fire, Boss.  Twenty-three 
 		degrees.</sp>
 
-<sp><speaker>PILOT LEADER (V.O.)</speaker>
+<sp spk="PILOT LEADER (V.O.)">
 		I see it.  Pull in.  Pull in.
 		We're picking up some inter-
 		ference.</sp>
 
-<sp><speaker>BOMA SIX (V.O.)</speaker>
+<sp spk="BOMA SIX (V.O.)">
 		Wow, I've never seen such fire 
 		power.</sp>
 
-<sp><speaker>PILOT LEADER (V.O.)</speaker>
+<sp spk="PILOT LEADER (V.O.)">
 		Pull in, Boma Two.  Pull in.
 		Chewie, do you read me?  Chewie?</sp>
 
-<sp><speaker>BOMA TWO (V.O.)</speaker>
+<sp spk="BOMA TWO (V.O.)">
 		I'm all right, Boss.  I've got 
 		a target. I'm going in to check 
 		it out.</sp>
 
-<sp><speaker>BOMA SIX (V.O.)</speaker>
+<sp spk="BOMA SIX (V.O.)">
 		There is too much action, Chewie.
 		Get out!</sp>
 
-<sp><speaker>PILOT LEADER (V.O.)</speaker>
+<sp spk="PILOT LEADER (V.O.)">
 		Break off, Chewie.  Acknowledge.
 		We've hit too much interference.
 		Boma Six, can you see Boma Two?</sp>
@@ -5476,12 +5477,12 @@ asleep, but no one attempts to waken him.</sd>
 <sd>The Starkiller's eyes open as the tension mounts.  He has 
 not been asleep.</sd>
 
-<sp><speaker>BOMA SIX (V.O.)</speaker>
+<sp spk="BOMA SIX (V.O.)">
 		I've lost him. There's a heavy 
 		fire zone on this side.  My 
 		scanner's jammed.</sp>
 
-<sp><speaker>BOMA FIVE (V.O.)</speaker>
+<sp spk="BOMA FIVE (V.O.)">
 		He's gone.  No, wait.  There he 
 		is.  Fin damage, but he's all right.</sp>
 
@@ -5489,7 +5490,7 @@ not been asleep.</sd>
 flash off and then on again as the whole room shakes under 
 the Death Star's bombardment of a nearby ridge.</sd>
 
-<sp><speaker>DEVIL FOUR (V.O.)</speaker>
+<sp spk="DEVIL FOUR (V.O.)">
 		Watch your back, Boss.  Watch 
 		your back!  A TIE squad above 
 		you, coming in -- about six ships.</sp>
@@ -5500,14 +5501,14 @@ FIGHTERS (BOMA GROUP)</sd>
 <sd>Six fin winged Imperial fighters dive on Pilot Leader, but 
 he does a quick spiral turn and eludes them.</sd>
 
-<sp><speaker>BOMA TWO (CHEWIE)(V.O.)</speaker>
+<sp spk="BOMA TWO (CHEWIE)(V.O.)">
 		I found the exhaust port, Boss.
 		Relay target six degrees south by 
 		three mark two.  It's not very 
 		big -- a direct hit is going to 
 		be tough.</sp>
 
-<sp><speaker>PILOT LEADER</speaker>
+<sp spk="PILOT LEADER">
 		I copy, Boma Two, but we have other
 		problems right now.</sp>
 
@@ -5539,16 +5540,16 @@ and whistling frantically.  Threepio swings his gun pod
 around and begins firing at an approaching Imperial TIE 
 ship.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		I see it.  I see it.  Don't confuse 
 		me, or we'll be killed.  See those?
 		They break up in little pieces, just 
 		like a GS unit under pressure.</sp>
 
-<sp><speaker>ANTILLES</speaker>
+<sp spk="ANTILLES">
 		Luke, TIE fighters below us.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I see them.  Hang on!</sp>
 
 <sd>The rebel craft dives on the Imperial ships, all guns blast-
@@ -5561,12 +5562,12 @@ ing away.  Two of the TIE craft go down in flames.</sd>
 Troops scurry for safety in the panic-ridden control center.  
 A Sith knight speaks to Lord Vader on the com-link.</sd>
 
-<sp><speaker>SITH KNIGHT</speaker>
+<sp spk="SITH KNIGHT">
 		Yes, my Lord, the Ashla Force is 
 		strong upon us.  I can't hold the 
 		panic.  How could it be?</sp>
 
-<sp><speaker>VADER</speaker>
+<sp spk="VADER">
 		I feel the influence of the Kiber 
 		Crystal.  Perhaps the Starkiller 
 		is still alive They must have 
@@ -5585,7 +5586,7 @@ fire and blasts the Imperial fighters into dust.  Chewie
 signals to his navigator, who lets out a whooping cheer 
 as the craft veers into a victory roll.</sd>
 
-<sp><speaker>PILOT LEADER</speaker>
+<sp spk="PILOT LEADER">
 		Great moves, Chewie.  Regroup at 
 		point two-four.  Let's go in for 
 		that exhaust port.  Coincide, Boma 
@@ -5594,17 +5595,17 @@ as the craft veers into a victory roll.</sd>
 <sd>Boma Five and Boma Three bob and weave in formation toward 
 a group of giant towers at the north pole.</sd>
 
-<sp><speaker>PILOT LEADER (CONT'D)</speaker>
+<sp spk="PILOT LEADER (CONT'D)">
 		I see it.  It looks good.</sp>
 
-<sp><speaker>BOMA THREE</speaker>
+<sp spk="BOMA THREE">
 		I've got it.  We're hit!  We're hit!</sp>
 
-<sp><speaker>PILOT LEADER</speaker>
+<sp spk="PILOT LEADER">
 		Eject...Eject.  Boma Three, do you
 		read?</sp>
 
-<sp><speaker>BOMA THREE</speaker>
+<sp spk="BOMA THREE">
 		I'm all right.  I can hold it.
 		Give me a little room, Boma Five.
 		Watch it!  Watch it!</sp>
@@ -5615,7 +5616,7 @@ series of chain reaction explosions.  The four remaining
 starships of the Boma group fly in a tight formation and 
 dive between the tall towers near the exhaust port.</sd>
 
-<sp><speaker>PILOT LEADER</speaker>
+<sp spk="PILOT LEADER">
 		Masassi Base, we're in position 
 		and starting for the target.
 		Chewie, hold your fire until 
@@ -5627,7 +5628,7 @@ ing spacecraft.  The rebel ships direct their fire at a
 small, glowing blue hole at the base of one of the towers.  
 Boma Five explodes, quickly followed by Boma Four.</sd>
 
-<sp><speaker>BOMA TWO (CHEWIE)</speaker>
+<sp spk="BOMA TWO (CHEWIE)">
 		I'm on it.</sp>
 
 <sd>Boma Two dives directly at the small target, is unable to 
@@ -5635,7 +5636,7 @@ pull out and crashes into the base of one of the towers.
 Pilot Leader dives between the towers, firing away, but is 
 unable to hit the small hole.</sd>
 
-<sp><speaker>PILOT LEADER</speaker>
+<sp spk="PILOT LEADER">
 		It's too small.  It's impossible.
 		All ships hit.  Send in Bantha 
 		group.  I'll try to make it.</sp>
@@ -5651,7 +5652,7 @@ smoke before eventually crashing into a solar panel.</sd>
 indicating rebel fighters go dark.  General Dodana approaches 
 the Starkiller in a hurry.</sd>
 
-<sp><speaker>DODONA</speaker>
+<sp spk="DODONA">
 		Eighty-five percent of our craft 
 		have been destroyed.  The proba-
 		bility projection shows little hope.
@@ -5660,7 +5661,7 @@ the Starkiller in a hurry.</sd>
 
 <sd>Zavos steps forward in a panic.</sd>
 
-<sp><speaker>ZAVOS</speaker>
+<sp spk="ZAVOS">
 		It's just like Ogana Major.
 		Twice we have listened to 
 		this old man, and twice it 
@@ -5673,7 +5674,7 @@ the Starkiller in a hurry.</sd>
 General shakes as if a cold wind had chilled him to his
 heart.</sd>
 
-<sp><speaker>THE STARKILLER</speaker>
+<sp spk="THE STARKILLER">
 		There will be no surrender.
 		There will be no retreat.
 		This was settled.  The 
@@ -5683,7 +5684,7 @@ heart.</sd>
 symbols disappear.  The four that are left are flying in 
 formation toward the north pole exhaust port.</sd>
 
-<sp><speaker>DODONA</speaker>
+<sp spk="DODONA">
 		There are only four left.</sp>
 
 </scene>
@@ -5692,16 +5693,16 @@ formation toward the north pole exhaust port.</sd>
 <sd>Luke swings the small craft around the many outcroppings
 of laser towers and transmitters.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		We'll follow you in Banta 
 		One.</sp>
 
-<sp><speaker>BANTA ONE</speaker>
+<sp spk="BANTA ONE">
 		Ship response through here 
 		is gone.  Don't try anything 
 		fancy.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Antilles, Threepio, as soon as 
 		you've got the target, open up.</sp>
 
@@ -5711,13 +5712,13 @@ cles.  The three remaining craft continue the assault.
 Luke and Antilles watch the remains of Banta Three disap-
 pear.</sd>
 
-<sp><speaker>BANTA  ONE</speaker>
+<sp spk="BANTA  ONE">
 		This is it.  Make it count.</sp>
 
 <sd>The rebel craft blast away at the exhaust port, but all
 miss.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Sir, I think if you pitched the 
 		ship about twelve degrees on the 
 		final approach, we could clear 
@@ -5725,12 +5726,12 @@ miss.</sd>
 		diagonal, which is why we're off 
 		target.</sp>
 
-<sp><speaker>ANTILLES</speaker>
+<sp spk="ANTILLES">
 		I think you're right.  Luke, tell 
 		Banta One when we make our next 
 		pass.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Banta One, this is Banta Two...</sp>
 
 </scene>
@@ -5740,7 +5741,7 @@ miss.</sd>
 craft to emerge from the smoke and confusion of the exhaust 
 port area.</sd>
 
-<sp><speaker>VADER</speaker>
+<sp spk="VADER">
 		We'll take what's left when they 
 		start their second run.  Prepare 
 		the scan ships for low altitude 
@@ -5763,22 +5764,22 @@ struggles to keep control of the ship.  Artoo is whistling
 wildly as Threepio swings the gun turret around to fire at 
 the enemy craft.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Antilles!</sp>
 
-<sp><speaker>ANTILLES</speaker>
+<sp spk="ANTILLES">
 		The turret's shattered.  But 
 		both hatches are sealed.  I 
 		can hold out.  Just get us back 
 		down there.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Well, it looks like we're it.</sp>
 
 <sd>The tiny rebel fighter dives toward the exhaust port, but 
 is cut off and forced to turn away from Vader's ship.</sd>
 
-<sp><speaker>VADER</speaker>
+<sp spk="VADER">
 		This is the last one.  Here's 
 		where the rebellion ends.</sp>
 
@@ -5786,23 +5787,23 @@ is cut off and forced to turn away from Vader's ship.</sd>
 Laser bolts streak past the small craft on all sides.  Vader 
 moves close in behind Luke's ship.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		Where did he go?I can't see him.</sp>
 
-<sp><speaker>ANTILLES</speaker>
+<sp spk="ANTILLES">
 		He's back there somewhere.  Luke, 
 		bank a little...See him now?</sp>
 
 <sd>Vader signals his wing men to back off.</sd>
 
-<sp><speaker>VADER</speaker>
+<sp spk="VADER">
 		I've got him.  Return to base.</sp>
 
 <sd>Suddenly, Vader's wing man explodes into a shower of burn-
 ing fragments.  Vader is surprised and looks around for the 
 cause of his wing man's misfortune.</sd>
 
-<sp><speaker>VADER (CONT'D)</speaker>
+<sp spk="VADER (CONT'D)">
 		SR-2, do you see anything?  What 
 		did he hit?</sp>
 
@@ -5816,16 +5817,16 @@ starship descends into view.</sd>
 
 <sd>Han grins at Montross and speaks into the com-link.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		I heard you were having some 
 		problems, Banta Two.</sp>
 
-<sp><speaker>LUKE (V.O.)</speaker>
+<sp spk="LUKE (V.O.)">
 		I don't know what brought you 
 		back, but I'm sure glad you're 
 		here.</sp>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		I'll cover you.  If you're going 
 		in there after something, you'd 
 		better get going.</sp>
@@ -5838,12 +5839,12 @@ fire around the exhaust port.  The pirate ship follows a
 short distance behind, but begins to bounce about as it 
 nears the generating tower.</sd>
 
-<sp><speaker>MONTROSS</speaker>
+<sp spk="MONTROSS">
 		There is a terrible magnetic cross-
 		field down here.  This thing's too 
 		big.  We'll never make it.</sp>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		Hold tight.  We're almost there.</sp>
 
 <sd>Vader's starship swoops down on the battered pirate ship, 
@@ -5853,7 +5854,7 @@ of Vader's huge solar fins breaks up, but the Black Knight
 manages to keep the disabled craft on course and crash dives 
 into the pirate craft, exploding on impact.</sd>
 
-<sp><speaker>HAN</speaker>
+<sp spk="HAN">
 		We're hit.  You're on your own, 
 		Luke.</sp>
 
@@ -5869,7 +5870,7 @@ end of a hallway and yells at Han to follow him.</sd>
 
 <sd>Luke dives past the towers and approaches the exhaust port.</sd>
 
-<sp><speaker>LUKE</speaker>
+<sp spk="LUKE">
 		I'm starting the bank.  Let 
 		her have it.</sp>
 
@@ -5878,11 +5879,11 @@ thin path across its surface.  As they pass the exhaust
 port, both Threepio and Antilles get several shots directly 
 down the exhaust shaft.</sd>
 
-<sp><speaker>THREEPIO</speaker>
+<sp spk="THREEPIO">
 		We hit it.  We hit it; perfect,
 		if I do say so myself.</sp>
 
-<sp><speaker>ANTILLES</speaker>
+<sp spk="ANTILLES">
 		Pull out of here, Luke.</sp>
 
 </scene>
@@ -5919,7 +5920,7 @@ a hundred aides, troops, ground crews, and Generals.</sd>
 the Starkiller approaches, they all bow low, including 
 Chewbacca and the robots.</sd>
 
-<sp><speaker>THE STARKILLER</speaker>
+<sp spk="THE STARKILLER">
 		Your achievement will be sung through 
 		the ages.  The Kiber Crystal has 
 		stopped the onslaught of the Bogan 
