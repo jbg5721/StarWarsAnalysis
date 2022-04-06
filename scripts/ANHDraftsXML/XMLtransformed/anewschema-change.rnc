@@ -7,7 +7,7 @@ metadata = element metadata {title , author , draft , date}
 title = element title {text}
 author = element author {text}
 draft = element draft {text}
-date = element date {text}
+date = element date {daTe}
 
 body = element body {scene +}
 sp = element sp {mixed{spk,sd*}}
@@ -16,3 +16,5 @@ setting = element setting {text}
 scene = element scene {n , setting , (sd|sp)+}
 n = attribute n {xsd:float}
 sd = element sd {text}
+
+daTe = attribute date{xsd:gYearMonth}

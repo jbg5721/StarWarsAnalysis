@@ -5,7 +5,7 @@
       <title>THE STAR WARS</title>
       <author>BY GEORGE LUCAS</author>
       <draft>FIRST DRAFT	LUCASFILM LIMITED</draft>
-      <date>JULY 1974</date>
+      <date date="1974-07"/>
    </metadata>
    <body>
       <scene n="1">
@@ -97,7 +97,7 @@
 	strapping on a utility belt with chrome lazerpistols 
 	and lazersword.  Akira rises and starts for his equip-
 	ment.</sd>
-         <sp spk="BINK (Cont.)">
+         <sp spk="BINK">
 		Ahhh, Pop...</sp>
          <sp spk="AKIRA">
 		Bink, do you feel you're ready?</sp>
@@ -251,7 +251,7 @@
 		stop?</sp>
          <sd>Justin's father waits silently until the tirade is
 	finished.  Justin sits silently for a few moments.</sd>
-         <sp spk="JUSTIN (Cont.)">
+         <sp spk="JUSTIN">
 		I'm sorry.</sp>
          <sp spk="AKIRA">
 		Son, plot a course for TOWNOWI.</sp>
@@ -364,7 +364,7 @@
 	up to stand next to the sinister monarch.  The troops 
 	shout a royal salute in response to a particularly 
 	partisan statement.</sd>
-         <sp spk="SON HHAT (Cont.)">
+         <sp spk="SON HHAT">
 		... I have personally asked the Townowians 
 		to accept this Treaty of Alliance.  During 
 		the period of negotiation, they have only 
@@ -389,7 +389,7 @@
          <sp spk="OXUS">
 		Your glass is empty.</sp>
          <sd>Oxus speaks into a small intercom on the bar front.</sd>
-         <sp spk="OXUS (Cont.)">
+         <sp spk="OXUS">
 		A dantic and...</sp>
          <sd>He looks in Espaa's glass.</sd>
          <sp spk="ESPAA">
@@ -624,7 +624,7 @@
 		regarding the treaty.  My decision 
 		will be forthcoming.</sp>
          <sd>The senators whisper among themselves.</sd>
-         <sp spk="KAYOS (Cont.)">
+         <sp spk="KAYOS">
 		All right, then.  May the force 
 		of others be with you all.</sp>
          <sd>The senators leave in a flurry of hushed conversation. 
@@ -805,7 +805,7 @@
          <sd>The two Dai stand looking at one another, hardly believing
 	the other is real.  Finally, the general realizes his 
 	aides are standing around, gawking at the duo.</sd>
-         <sp spk="SKYWALKER (to the aides)">
+         <sp spk="SKYWALKER">
 		Wake up, gentlemen.  You're on alert. 
 		Keep me posted on that battalion.</sp>
       </scene>
@@ -855,7 +855,7 @@
 	The artificial limb flops lifelessly to Valor's side. 
 	The warrior rips open his tunic, revealing a plastic 
 	chest stuffed with flashing electronic parts.</sd>
-         <sp spk="AKIRA (angrily)">
+         <sp spk="AKIRA">
 		I'm not the same.  There is nothing 
 		left but my head and right arm.  I've 
 		lost too much, Luke.  I'm dying.</sp>
@@ -913,7 +913,7 @@
 	young Valor, who is now dressed in the white uniform of 
 	the Townowi star force.  (He still wears the distinctive
 	Kessilian hair knot.)  They bow before the King.</sd>
-         <sp spk="KAYOS (pointing to the suns)">
+         <sp spk="KAYOS">
 		Aren't they beautiful, General? 
 		"Always and never the same." 
 		You're just in time for dinner.</sp>
@@ -1098,7 +1098,7 @@
 	the general.</sd>
          <sp spk="SKYWALKER">
 		What happened, boy?  What's going on?</sp>
-         <sp spk="OXUS (with difficulty)">
+         <sp spk="OXUS">
 		The Royal Starforce is already on its 
 		way, not far behind me.  They're going 
 		to attack.</sp>
@@ -1170,7 +1170,7 @@
 		to sit tight.</sp>
          <sp spk="PRUE">
 		All units are on alert, sir.</sp>
-         <sp spk="SKYWALKER (to Montross)">
+         <sp spk="SKYWALKER">
 		Have you made contact yet?  <sd>to himself</sd>  
 		This is one hell of a way to run a war.</sp>
          <sp spk="PRUE">
@@ -1353,7 +1353,7 @@
 	The rest are filled with various computer readouts and
 	displays.  One of the other starships reports to Pilot 
 	Leader.</sd>
-         <sp spk="DEVIL SIX (intercom)">
+         <sp spk="DEVIL SIX">
 		Look at the size of that thing! 
 		Hey, Coelo, I hope you remembered 
 		to bring your pop gun, 'cause I 
@@ -1361,7 +1361,7 @@
 		time.</sp>
          <sp spk="PILOT LEADER">
 		Cut off, Devil Six.  Stand by.</sp>
-         <sp spk="SKYWALKER (monitor)">
+         <sp spk="SKYWALKER">
 		It looks like they're still using 
 		the basic quad-tristation configura-
 		tion.  Use a "ranger defense." 
@@ -1373,7 +1373,7 @@
          <sp spk="DEVIL TWO">
 		Roger, Boss.  We're getting a thresh-
 		hold disturbance on gyro-three.</sp>
-         <sp spk="SKYWALKER (monitor)">
+         <sp spk="SKYWALKER">
 		Switch over, Five.  Cover it! 
 		Devil pack, generate a spread six 
 		formation.  May the force of others 
@@ -1405,7 +1405,7 @@
 	blank.  Technicians check channels as others in the war 
 	room silently listen to the action over the intercom. The
 	general remains calm but concerned.</sd>
-         <sp spk="PILOT LEADER (intercom)">
+         <sp spk="PILOT LEADER">
 		Tighten it up, Devil Two.  Tighten it up. 
 		Watch those towers.</sp>
          <sp spk="DEVIL TWO ">
@@ -1433,7 +1433,7 @@
 		Fin damage, but he's all right.</sp>
          <sd>A sigh of relief sweeps across the war room.  The monitors 
 	flash on, then off again.</sd>
-         <sp spk="DEVIL FOUR (intercom)">
+         <sp spk="DEVIL FOUR">
 		Watch your back, Boss!  Watch your 
 		back!!</sp>
       </scene>
@@ -1735,7 +1735,7 @@
 		rule.</sp>
          <sd>The general is interrupted by a call on one of the 
 	monitors.</sd>
-         <sp spk="OFFICER (on monitor)">
+         <sp spk="OFFICER">
 		We've received a message from the 
 		planet.</sp>
       </scene>
@@ -1813,7 +1813,7 @@
 		I don't get it.  What do you 
 		think, Boss?</sp>
          <sd>General Skywalker appears on the monitors.</sd>
-         <sp spk="SKYWALKER (with difficulty)">
+         <sp spk="SKYWALKER">
 		Base one to Devil Leader, scramble code 
 		niner.  Break your attack and return to 
 		base.  Repeat, break your attack. 
@@ -1978,7 +1978,7 @@
          <sp spk="JUSTIN">
 		Where is your master?</sp>
          <sd>The little robot clicks and rattles, but doesn't speak.</sd>
-         <sp spk="JUSTIN (Cont.)">
+         <sp spk="JUSTIN">
 		Can't you speak?  How do you relate 
 		your data?  You're of Karollian manu-
 		facture.  You should be able to talk. 
@@ -1987,7 +1987,7 @@
 	A-2 eyes him suspiciously.  The robot turns with a start 
 	and discovers a young girl, Princess Zara, has been 
 	standing next to him for some time.</sd>
-         <sp spk="PRINCESS (sarcastically)">
+         <sp spk="PRINCESS">
 		Well, General, who's your friend?</sp>
          <sp spk="JUSTIN">
 		I don't know.  He doesn't seem to 
@@ -2141,7 +2141,7 @@
          <setting>MAIN HALLWAY - UNDERGROUND FORTRESS - TOWNOWI</setting>
          <sd>Captain Valor and the princess are greeted by General 
 	Skywalker and Montross.  They bow before the princess.</sd>
-         <sp spk="PRINCESS (angrily pointing at Valor)">
+         <sp spk="PRINCESS">
 		General, I want you to do something 
 		with this...this barbarian.  Where's 
 		my father?</sp>
@@ -2422,7 +2422,7 @@
 		You must learn strength.</sp>
          <sd>The princess turns and moves to the larger speeder where 
 	she is helped aboard by Captain Valor.</sd>
-         <sp spk="PRINCESS (fuming)">
+         <sp spk="PRINCESS">
 		I don't need your help, thank you.</sp>
          <sd>She gives the general an angry look.</sd>
          <sp spk="SKYWALKER">
@@ -2679,7 +2679,7 @@
 	wise general watches him.  Tension fills the air.  Valor 
 	shuffles around to a position where he can reach his weapon. 
 	A trooper hands the sergeant a message.</sd>
-         <sp spk="SERGEANT (to Oxus)">
+         <sp spk="SERGEANT">
 		Take only two of those power packs 
 		and then move out quickly.</sp>
          <sd>The sergeant hurries to a military craft, where he takes a 
@@ -2708,13 +2708,13 @@
 		It's all this filth and dust.  This 
 		environment is murderous.</sd>
          <sd>Valor notices a small speck on the horizon.</sd>
-         <sp spk="JUSTIN (into intercom)">
+         <sp spk="JUSTIN">
 		Object approaching, bearing three 
 		point two.</sp>
          <sd>The general looks through an electrotelescope mounted in the 
 	speeder.  He spots a distant row of troopers riding strange 
 	dune birds.</sd>
-         <sp spk="SKYWALKER (to Justin)">
+         <sp spk="SKYWALKER">
 		It's a patrol.  It could mean trouble. 
 		We'd better split up.  You stay on a 
 		direct course.  We'll meet you at the 
@@ -2886,7 +2886,7 @@
 	cramped quarters.</sd>
          <sd>			 C-3
 		Your kindness is greatly appreciated.</sd>
-         <sp spk="JUSTIN (to Skywalker)">
+         <sp spk="JUSTIN">
 		I'm fit enough to...</sp>
          <sd>The general gives him a hard look and he shuts up.  Oxus 
 	and the general climb into the speeder.</sd>
@@ -3004,7 +3004,7 @@
 	sits at a large table  finishing dinner with Han, Akira, 
 	and the three underground leaders.  Oxus returns from the 
 	bedroom.</sd>
-         <sp spk="SKYWALKER (to Oxus)">
+         <sp spk="SKYWALKER">
 		Captain, why don't you take the 
 		androids into the other room for 
 		a game of chess?  I'm sure they'd 
@@ -3164,7 +3164,7 @@
 		new teacher well.</sp>
          <sd>The Dai's breathing becomes more difficult as he turns to 
 	the general.</sd>
-         <sp spk="AKIRA (Cont.)">
+         <sp spk="AKIRA">
 		An honorable death, my friend. 
 		May the force of others be with 
 		you.</sp>
@@ -3461,7 +3461,7 @@
          <sd>As the crew makes the final preparations for the blast off, 
 	the main hatch light blinks on.  One of the pilots notices 
 	the light and begins to check it out.</sd>
-         <sp spk="PILOT (into intercom)">
+         <sp spk="PILOT">
 		Is the main hatch secure?</sp>
       </scene>
       <scene n="98">
@@ -3684,7 +3684,7 @@
 		some rest.  You've got some time 
 		before they catch up to us.</sp>
          <sd>Han notices the packs containing the young princes.</sd>
-         <sp spk="HAN (Cont.)">
+         <sp spk="HAN">
 		Better store the boys in a lifepod. 
 		Secure them well.</sp>
          <sd>He heads back toward the bridge, followed by Oxus.  Valor 
@@ -3747,7 +3747,7 @@
          <sd>Oxus just shakes his head, but before Valor can finish his 
 	sentence, the ship is rocked by a bombardment of proton 
 	torpedoes.  The intercom squawks to life.</sd>
-         <sp spk="SKYWALKER (over intercom)">
+         <sp spk="SKYWALKER">
 		Get to those guns!</sp>
          <sd>Captain Valor and Oxus rush to the lzercannons and jump into 
 	the protective suits and helmets.</sd>
@@ -3794,7 +3794,7 @@
          <sp spk="HAN">
 		We're losing deflectors three 
 		thirty-one and ten forty-two.</sp>
-         <sp spk="SKYWALKER (to C-3)">
+         <sp spk="SKYWALKER">
 		Cut hard to maridian nine zero 
 		six.  Level to three degrees.
 		<sd>into the intercom</sd>  We're 
@@ -3921,7 +3921,7 @@
 	ship enters the asteroid belt.  A barrage of small and large 
 	asteroids begins to pelt the ship, causing a great deal of 
 	damage.</sd>
-         <sp spk="SKYWALKER (over intercom)">
+         <sp spk="SKYWALKER">
 		Secure yourselves.  We may have to 
 		eject.  Abandon the turrets.</sp>
          <sd>The princess rushes back to her lifepod and straps herself
@@ -3968,7 +3968,7 @@
          <sd>Captain Valor was considerably shaken in the destruction of 
 	his lazerturret.  He is slightly dazed as Oxus straps him 
 	into a lifepod with A-2.</sd>
-         <sp spk="OXUS (to A-2)">
+         <sp spk="OXUS">
 		You watch him.  Make sure this 
 		pod gets off all right.</sp>
          <sd>A-2 nods  and Oxus moves to the second lifepod and straps 
@@ -3997,7 +3997,7 @@
 		them.</sd>
          <sp spk="HAN">
 		All lifepod systems are operative.</sp>
-         <sp spk="SKYWALKER (into intercom)">
+         <sp spk="SKYWALKER">
 		If you boys are ready back there, 
 		we'll get off this bucket.</sp>
          <sp spk="OXUS">
@@ -4025,7 +4025,7 @@
 	dead.  He struggles to reactivate them.</sd>
          <sp spk="OXUS">
 		My power's out!</sp>
-         <sp spk="SKYWALKER (over intercom)">
+         <sp spk="SKYWALKER">
 		Is it a faulty switch?</sp>
          <sp spk="OXUS">
 		No.  The whole bank is out.</sp>
@@ -4190,7 +4190,7 @@
 	of a steep ridge.  They quickly pull off the micropacks and 
 	place them on a clear piece of ground at the mouth of the 
 	cave.</sd>
-         <sp spk="SKYWALKER (to Han)">
+         <sp spk="SKYWALKER">
 		Check out the inside.  C-3, stand 
 		guard.  Keep you eye on the country-
 		side.</sp>
@@ -4343,7 +4343,7 @@
 		Howdy stranger.  What can I offer you?</sp>
          <sd>The general spins around and sees Huu Tho, an aged and scruffy 
 	looking anthropologist.</sd>
-         <sp spk="THO (Cont.)">
+         <sp spk="THO">
 		I'm Huu Tho of Bastine.</sp>
          <sd>The general takes the old man's extended hand.</sd>
          <sp spk="SKYWALKER">
@@ -4379,7 +4379,7 @@
 		front so you'd see it.  <sd>to Han</sd>  
 		Here's some bum bum extract. 
 		It's very mild.</sp>
-         <sp spk="THO (to general)">
+         <sp spk="THO">
 		There are no settlers to the south 
 		since the Dau family was wiped out. 
 		I'm afraid I couldn't even get in 
@@ -4471,7 +4471,7 @@
 	with C-3 and the two little princes, Oeta and Puck.  Han and 
 	the general emerge with large survival backpacks and multi-
 	plelazer weapons.</sd>
-         <sp spk="SKYWALKER (to C-3)">
+         <sp spk="SKYWALKER">
 		We'll call for you when we've found them.</sp>
          <sd>			 C-3
 		Your orders are quite clear.  The 
@@ -4489,7 +4489,7 @@
 	faithful Han descend from the tree house.  At the base of 
 	the huge tree, the warriors climb aboard two small rocket 
 	powered platforms.</sd>
-         <sp spk="THO (yelling down to them)">
+         <sp spk="THO">
 		They're pretty old.  I hope they'll 
 		be all right!</sp>
          <sp spk="SKYWALKER">
@@ -4571,7 +4571,7 @@
 		Two or three moving this way 
 		from the east.</sp>
          <sd>He listens more closely for a few moments.</sd>
-         <sp spk="HAN (Cont.)">
+         <sp spk="HAN">
 		It's A-2.</sp>
          <sd>Captain Valor and A-2 break out of the dark foliage into the 
 	clearing.  He waves to Han and the general.  A-2 waddles a 
@@ -4588,7 +4588,7 @@
 	huge lumbering creature approaches the group.  Han and the 
 	Jawa talk for a few moments, then embrace as if they were 
 	old friends.  Captain Valor is surprised.</sd>
-         <sp spk="HAN (to Valor)">
+         <sp spk="HAN">
 		This is Boma, son of Auzituck, 
 		Prince of the Sawas - a very 
 		powerful tribe.  It seems they've 
@@ -4775,7 +4775,7 @@
          <sd>The general stands in a clearing surrounded by many armed 
 	Jawas carrying large shiny shields.  Han moves back and forth, 
 	barking orders to the assembled creatures.</sd>
-         <sp spk="SKYWALKER (to Han)">
+         <sp spk="SKYWALKER">
 		We're ready.  Give them the signal.</sp>
          <sd>Han motions to a young Jawa, who takes off, running through 
 	the jungle.</sd>
@@ -4943,7 +4943,7 @@
 		They've taken her back to Townowi.  
 		The ship left nor more than ten 
 		hours ago.</sp>
-         <sp spk="SKYWALKER (to Han)">
+         <sp spk="SKYWALKER">
 		Set up a perimeter around these 
 		starships.  Use as many men as 
 		you need.</sp>
@@ -4982,7 +4982,7 @@
 		warriors out there to get them.</sp>
          <sd>Han relates this to Boma.  The general turns back to
 	Captain Valor, who watches Boma leave the room.</sd>
-         <sp spk="JUSTIN (mocking)">
+         <sp spk="JUSTIN">
 		They're fierce warriors  but you'll 
 		never teach them to fly.</sp>
          <sd>The general gives him a stern look.</sd>
@@ -5034,7 +5034,7 @@
 		<sd>to guards</sd>  Take her to section twenty-
 		five.</sp>
          <sd>Zara is forcibly taken from the room.</sd>
-         <sp spk="VADER (to officer)">
+         <sp spk="VADER">
 		What time do the doctors from Granicus 
 		arrive?</sp>
          <sp spk="OFFICER">
@@ -5141,7 +5141,7 @@
 		No.  Go ahead.</sp>
          <sd>Valor walks into the small control area and pretends to talk 
 	on an intercom system.</sd>
-         <sp spk="JUSTIN (to A-2)">
+         <sp spk="JUSTIN">
 		Find the highest security area.</sp>
          <sd>A-2 punches his claw arm into a computer socket and the brain 
 	comes to life, feeding information to the little robot.</sd>
@@ -5313,7 +5313,7 @@
          <sd>Vader laughs as he watches the unconscious Valor on the TV 
 	monitors.  All of the other officers in the room are laughing 
 	and joking, except Dodona, who remains grimly at attention.</sd>
-         <sp spk="VADER (to Dodona)">
+         <sp spk="VADER">
 		Take him to the special section.</sp>
          <sd>Dodona salutes, and exits the offices.  Vader laughs again.</sd>
       </scene>
@@ -5347,7 +5347,7 @@
 		has been conducting raids on 
 		shipping from Granicus.  That's 
 		how we intercepted those doctors.</sp>
-         <sp spk="SKYWALKER (to Han)">
+         <sp spk="SKYWALKER">
 		Get them in the ships.  We're on 
 		our way.  <sd>to Datos</sd>  Send the 
 		code signal.</sp>

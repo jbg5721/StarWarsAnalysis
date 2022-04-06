@@ -6,7 +6,7 @@
       <author>George Lucas</author>
       <draft>Rough Draft [First of four major screenplay drafts]
 Lucasfilm Ltd.</draft>
-      <date>5/74</date>
+      <date date="1974-05" />
    </metadata>
    <body>
       
@@ -79,7 +79,7 @@ I think it's the Corbet dictum:  "What is, is without."</sp>
          <sd>Kane smiles.  This is the correct answer.  Annikin is strapping on a utility
 belt with chrome laserpistols and lasersword.  Kane rises and starts for his
 equipment.</sd>
-         <sp spk="DEAK (Con't)">
+         <sp spk="DEAK">
 
 Ahhh, Pop...</sp>
          <sp spk="KANE">
@@ -209,7 +209,7 @@ How many more of them are there?  I want to finish it, once and for all!  I'm
 sick of running...when will it stop?</sp>
          <sd>Annikin's father waits silently until his son's tirade is finished.  Annikin
 sits silently for a few moments.</sd>
-         <sp spk="ANNIKIN (con't)">
+         <sp spk="ANNIKIN">
 
 I'm sorry.</sp>
          <sp spk="KANE">
@@ -301,7 +301,7 @@ finger.  The emperor nears the end of his speech.
         Crispin Hoedaack has moved up to stand next to the sinister monarch.
 The troops shout an Imperial salute in response to a particularly partisan
 statement.</sd>
-         <sp spk="EMPEROR (con't)">
+         <sp spk="EMPEROR">
 
 ...I have personally asked the Aquilaeans to accept this Treaty of Alliance.
 During the long period of negotiation, they have only decided to be undecided.</sp>
@@ -322,7 +322,7 @@ the Galactic traders.</sd>
 
 Your glass is empty.</sp>
          <sd>Whitsun speaks into a small intercom on the bar front.</sd>
-         <sp spk="WHITSUN (con't)">
+         <sp spk="WHITSUN">
 
 A dantic and...</sp>
          <sd>He looks in Antilles' glass.</sd>
@@ -518,7 +518,7 @@ Count Sandage, I want you to head the delegation to Alderaan.  You will leave
 tomorrow with our answer regarding the Treaty.  My decision will be
 forthcoming.</sp>
          <sd>The senators whisper among themselves.</sd>
-         <sp spk="KAYOS (con't)">
+         <sp spk="KAYOS">
 
 All right, then.  May the force of others be with you all.</sp>
          <sd>The senators leave in a flurry of hushed conversation.  The general is lost in
@@ -684,7 +684,7 @@ What a sight!</sp>
          <sd>The two Jedi stand looking at one another, hardly believing the other is real.</sd>
          <sd>Finally, the general realizes his aides are standing around, gawking at the
 duo.</sd>
-         <sp spk="GENERAL (to the aids)">
+         <sp spk="GENERAL">
 
 Wake up, gentlemen.  You're on alert.  Keep me posted on that battalion.</sp>
       </scene>
@@ -727,7 +727,7 @@ Jedi warrior's forearm cracks in two, spewing forth wires, and many fine
 multicolored electronic components.  The artificial limb flops lifelessly to
 Starkiller's side.  The warrior rips open his tunic, revealing a plastic chest
 stuffed with flashing electric parts.</sd>
-         <sp spk="KANE (angrily)">
+         <sp spk="KANE">
 
 I'm not the same.  There is nothing left but my head and right arm... I've
 lost too much, Luke...I'm dying.</sp>
@@ -782,7 +782,7 @@ watching the giant twin suns of Aquilae disappear behind a distant dune range.</
          <sd>The general enters, rather in a rush, followed by the young Starkiller, who is
 now dressed in the white uniform of the Aquilaean starforce.  (He still wears
 the distinctive Kessilian hair knot.)  They bow before the king.</sd>
-         <sp spk="KAYOS (pointing to the suns)">
+         <sp spk="KAYOS">
 
 Aren't they beautiful, General?  "Always and never the same."  You're just in
 time for dinner.</sp>
@@ -968,7 +968,7 @@ Partially.  He's be all right - a few bruises, primary exhaustion....</sp>
          <sp spk="GENERAL">
 
 What happened, boy?  What's going on?</sp>
-         <sp spk="WHITSUN (with difficulty)">
+         <sp spk="WHITSUN">
 
 The Imperial Starforce is already on its way, not far behind me... They're
 going to attack.</sp>
@@ -1042,7 +1042,7 @@ war computers, we'll just have to sit tight.</sp>
          <sp spk="PRUE">
 
 All units are on alert, Sir.</sp>
-         <sp spk="GENERAL (to Montross)">
+         <sp spk="GENERAL">
 
 Have you made contact yet?  <sd>to himself</sd>  This is one hell of a way to run a
 war.</sp>
@@ -1213,14 +1213,14 @@ isolated glass bubble to the rear of the craft.  General Skywalker is seen on
 one of many monitors.  A view of the space fortress is on another.  The rest
 are filled with various computer readouts and displays.  One of the other
 starships reports to Pilot Leader.</sd>
-         <sp spk="DEVIL SIX (intercom)">
+         <sp spk="DEVIL SIX">
 
 Look at the size of that thing!  Hey, Bowman, I hope you remembered to bring
 your pop gun, 'cause I think we caught us a big one this time....</sp>
          <sp spk="PILOT LEADER">
 
 Cut off, Devil Six....Stand by.</sp>
-         <sp spk="GENERAL (monitor)">
+         <sp spk="GENERAL">
 
 It looks like they're still using the basic quad-tristation configuration.
 Use a "ranger defense."  Concentrate on breath ports and lock areas.</sp>
@@ -1230,7 +1230,7 @@ Affirmative base...Copy and transmit....Devil Two, check your rotation plates.</
          <sp spk="DEVIL TWO">
 
 Roger, Boss.  We're getting a threshold disturbance on gyro-three.</sp>
-         <sp spk="GENERAL (monitor)">
+         <sp spk="GENERAL">
 
 Switch over, Five, cover it! ...Devil pack, generate a spread six
 formation...May the force of others protect you.</sp>
@@ -1258,10 +1258,10 @@ and robots of various shapes and sizes run to their battle stations.</sd>
          <sd>The monitors with pictures from the starships suddenly go blank.  Technicians
 check channels as others in the war room silently listen to the action over
 the intercom.  The general remains calm, but concerned.</sd>
-         <sp spk="PILOT LEADER (intercom)">
+         <sp spk="PILOT LEADER">
 
 Tighten it up... Devil Two, tighten it up.  Watch those towers....</sp>
-         <sp spk="DEVIL TWO (CHEWIE)">
+         <sp spk="DEVIL TWO">
 
 Heavy fire, Boss.  Twenty-three degrees.</sp>
          <sp spk="PILOT LEADER">
@@ -1273,7 +1273,7 @@ Wow, I've never seen such fire power.</sp>
          <sp spk="PILOT LEADER">
 
 Pull in, Devil Two...Pull in!  Chewie???!!</sp>
-         <sp spk="DEVIL TWO (CHEWIE)">
+         <sp spk="DEVIL TWO">
 
 I'm all right, Boss.  I've got a target.</sp>
          <sp spk="DEVIL SIX">
@@ -1291,7 +1291,7 @@ jammed.</sp>
 He's gone....no, wait.  There he is...Fin damage, but he's all right.</sp>
          <sd>A sigh of relief sweeps across the war room.  The monitors flash on, then off
 again.</sd>
-         <sp spk="DEVIL FOUR (intercom)">
+         <sp spk="DEVIL FOUR">
 
 Watch your back, Boss!  Watch your back!!</sp>
       </scene>
@@ -1558,7 +1558,7 @@ no other.  If the royal line is broken, there is a good chance the entire
 population will destroy themselves and their knowledge before submitting to
 our rule.</sp>
          <sd>The general is interrupted by a call on one of the monitors.</sd>
-         <sp spk="OFFICER (on monitor)">
+         <sp spk="OFFICER">
 We've received a message from the planet....</sp>
       </scene>
       <scene n="44">
@@ -1625,11 +1625,11 @@ That's funny.  The damage doesn't look as bad from out here.</sp>
 transformer area.  All firing from the fortress suddenly stops.  Pilot Leader
 looks back to his navigator, who is equally puzzled.  The two fighters
 continue to attack the now silent fortress.</sd>
-         <sp spk="CHEWIE (DEVIL TWO)">
+         <sp spk="CHEWIE">
 
 I don't get it.  What do you think, Boss?</sp>
          <sd>General Skywalker appears on the monitors.</sd>
-         <sp spk="GENERAL (with difficulty)">
+         <sp spk="GENERAL">
 
 Base one to Devil Leader...Scramble code niner.  Break your attack, and return
 to base.  Repeat, break your attack.  Confirm.</sp>
@@ -1767,14 +1767,14 @@ Starkiller, standing directly behind him.  He is startled, then terrified.</sd>
 
 Where is your master?</sp>
          <sd>The little robot clicks and rattles, but doesn't speak.</sd>
-         <sp spk="STARKILLER (Con't)">
+         <sp spk="STARKILLER">
 
 Can't you speak?  How do you relate your data?  You're of Karollian
 manufacture...You should be able to talk.  Are you damaged?</sp>
          <sd>Starkiller pokes at the machine, but doesn't see any damage.  Artwo eyes him
 suspiciously.  The robot turns with a start and discovers a young girl,
 Princess Leia, has been standing next to him for some time.</sd>
-         <sp spk="PRINCESS (sarcastic)">
+         <sp spk="PRINCESS">
 
 Well, General, who's your friend?</sp>
          <sp spk="STARKILLER">
@@ -1874,7 +1874,7 @@ I'm unfamiliar with that ship.  What type is it?</sp>
 
 It's a class M station, not a conventional craft.</sp>
          <sd>Threepio then stands and shakes the young Jedi's hand.</sd>
-         <sp spk="THREEPIO (Con't)">
+         <sp spk="THREEPIO">
 
 I'm Seethreepio, Human-Cyborg Relations.  Your kindness is greatly
 appreciated.</sp>
@@ -1921,7 +1921,7 @@ direction of the speeder.  The secret rock door silently slides closed.</sd>
          <setting>  MAIN HALLWAY - UNDERGROUND FORTRESS - AQUILAE</setting>
          <sd>Starkiller and the princess are greeted by General Skywalker and Montross.
 They bow before the princess.</sd>
-         <sp spk="PRINCESS (angrily pointing at Starkiller)">
+         <sp spk="PRINCESS">
 
 General, I want you to do something with this..this barbarian.  Where's my
 father?</sp>
@@ -2012,7 +2012,7 @@ cities.  You have a long way to travel.  It won't be easy.</sp>
 We will have to travel in disguise.  I must have full command.  No-one can
 suspect wealth or royal training.  I fear the new queen will not stand for
 this.</sp>
-         <sp spk="LEIA (angry)">
+         <sp spk="LEIA">
 
 Do not put words into my mouth.  I will stand for what is necessary.</sp>
          <sd>The general simply smiles.</sd>
@@ -2160,7 +2160,7 @@ android a little kick.</sd>
          <sp spk="ARTWO">
 
 Artwo Detwo:  Fusion Repair.</sp>
-         <sp spk="GENERAL (to Starkiller)">
+         <sp spk="GENERAL">
 
 Load them into one of the speeders.</sp>
          <sd>Captain Whitsun, walking with a slight limp, emerges from the underground
@@ -2174,7 +2174,7 @@ down her cheeks.  Her mother wipes them away.</sd>
 You must learn strength.</sp>
          <sd>The princess turns and moves to the larger speeder where she is helped aboard
 by Captain Starkiller.</sd>
-         <sp spk="PRINCESS (fuming)">
+         <sp spk="PRINCESS">
 
 I don't need your help, thank you.</sp>
          <sd>She gives the general an angry look.</sd>
@@ -2432,7 +2432,7 @@ your responsibilities.</sp>
          <sd>The sergeant thinks about this for a moment, as the old, wise general watches
 him.  Tension fills the air.  Starkiller shuffles around to a position where
 he can reach his weapon.  A trooper hands the sergeant a message.</sd>
-         <sp spk="SERGEANT (to Whitsun)">
+         <sp spk="SERGEANT">
 
 Take only two of those power packs, and then move out quickly.</sp>
          <sd>The sergeant hurries to a military craft, where he takes a call on an
@@ -2459,12 +2459,12 @@ Z-2 doesn't seem to help at all.</sp>
 
 It's all this filth and dust.  This environment is murderous.</sp>
          <sd>Starkiller notices a small speck on the horizon.</sd>
-         <sp spk="STARKILLER (into intercom)">
+         <sp spk="STARKILLER">
 
 Object approaching, bearing three point two.</sp>
          <sd>The general looks through an electrotelescope mounted in the speeder.  He
 spots a distant row of troopers riding strange dune birds.</sd>
-         <sp spk="GENERAL (to Starkiller)">
+         <sp spk="GENERAL">
 
 It's a patrol.  It could mean trouble.  We'd better split up.  You stay on a
 direct course.  We'll meet you at the western edge of ravine 23-64.  Stay in
@@ -2633,7 +2633,7 @@ out of their cramped quarters.</sd>
          <sp spk="THREEPIO">
 
 Your kindness is greatly appreciated.</sp>
-         <sp spk="STARKILLER (to general)">
+         <sp spk="STARKILLER">
 
 I'm fit enough to...</sp>
          <sd>The general gives him a hard look and he shuts up.  Whitsun and the general
@@ -2751,7 +2751,7 @@ embraces his father as the underground leaders bow before the princess.</sd>
 who carry the two sleeping princes.  The general sits at a large table
 finishing dinner with Han, Kane and the three underground leaders.  Whitsun
 returns from the bedroom.</sd>
-         <sp spk="GENERAL (to Whitsun)">
+         <sp spk="GENERAL">
 
 Captain, why don't you take the androids into the other room for a game of
 chess? ... I'm sure they'd enjoy it.</sp>
@@ -2891,7 +2891,7 @@ dying Jedi.  The old man turns to his son.</sd>
 
 Trust my judgment, Son.  Serve your new teacher well.</sp>
          <sd>The Jedi's breathing becomes more difficult as he turns to the general.</sd>
-         <sp spk="KANE (con't)">
+         <sp spk="KANE">
 
 An honorable death, my friend.  May the force of others be with you....</sp>
          <sd>Kane Starkiller passes on to the other world.  Everyone is stunned.  The
@@ -3036,7 +3036,7 @@ departing shortly....</sp>
          <sp spk="">[p. 77 is all screwed up.  I attempt to interpret here:]</sp>
          <sd>Four Imperial troopers silently enter the room behind the two [??] Their
 laserswords are drawn.</sd>
-         <sp spk="CAPTAIN (con't)">
+         <sp spk="CAPTAIN">
 
 [?] I have been authorized to accept payment [?] the chrome company
 cooperation.  I [?] you've brought it with you.</sp>
@@ -3167,7 +3167,7 @@ way is clear, then runs down a hallway toward the main hatch.</sd>
          <sd>As the crew makes the final preparations for the blast off, the main hatch
 light blinks on.  One of the pilots notices the light and begins to check it
 out.</sd>
-         <sp spk="PILOT (into intercom)">
+         <sp spk="PILOT">
 
 Is the main hatch secure?</sp>
       </scene>
@@ -3255,7 +3255,7 @@ Cutters!  We'll have to draw them out...A blast might alert the crew.</sp>
 
 Artwo!  Come here.</sp>
          <sd>The little robot waddles over to the old Jedi.</sd>
-         <sp spk="GENERAL (con't)">
+         <sp spk="GENERAL">
 
 Move to that intersection and sound the alarm.</sp>
          <sd>The mechanical dwarf dutifully marches into the intersection and lets out a
@@ -3380,7 +3380,7 @@ turrets.</sd>
 The old boy says you two should get some rest... You've got some time before
 they catch up to us.</sp>
          <sd>Han notices the packs containing the young princes.</sd>
-         <sp spk="HAN (con't)">
+         <sp spk="HAN">
 Better store the boys in a lifepod.  Secure them well.</sp>
          <sd>He heads back toward the bridge, followed by Whitsun.  Starkiller carries the
 two micro-packs to a lifepod, and straps them in.  He checks Biggs' energy
@@ -3451,7 +3451,7 @@ I don't care... I've got to talk...</sp>
          <sd>Whitsun just shakes his head, but before Starkiller can finish his sentence,
 the ship is rocked by a bombardment of proton torpedoes.  The intercom squawks
 to life.</sd>
-         <sp spk="GENERAL (over intercom)">
+         <sp spk="GENERAL">
 
 Get to those guns!</sp>
          <sd>Starkiller and Whitsun rush to the lasercannons, and jump into the protective
@@ -3498,7 +3498,7 @@ barrage of orders.</sd>
          <sp spk="HAN">
 
 We're losing deflectors three thirty one and ten forty two...</sp>
-         <sp spk="GENERAL (to Threepio)">
+         <sp spk="GENERAL">
 
 Cut hard to maridian nine zero six.  Level to three degrees...(into the
 intercom)  We're coming under one.  Wait for my signal!</sp>
@@ -3613,7 +3613,7 @@ captain.  He attaches a new lifeline to the young Jedi's spacesuit, and makes
 his way back inside the wounded craft.  Starkiller is pulled to safety just as
 the starship enters the asteroid belt.  A barrage of small and large asteroids
 begins to pelt the ship, causing a great deal of damage.</sd>
-         <sp spk="GENERAL (over intercom)">
+         <sp spk="GENERAL">
 
 Secure yourselves.  We may have to eject.  Abandon the turrets.</sp>
          <sd>The princess rushes back to her lifepod and straps herself in.  Whitsun and
@@ -3659,7 +3659,7 @@ We'll never make it.</sp>
          <setting>  AFT SECTION - STARSHIP - SPACE</setting>
          <sd>Starkiller was considerably shaken in the destruction of his laserturret.  He
 is slightly dazed as Whitsun straps him into a lifepod with Artwo.</sd>
-         <sp spk="WHITSUN (to Artwo)">
+         <sp spk="WHITSUN">
 
 You watch him.  Make sure this pod gets off all right.</sp>
          <sd>Artwo nods, and Whitsun moves to the second lifepod and straps himself in next
@@ -3688,7 +3688,7 @@ them.</sp>
          <sp spk="HAN">
 
 All lifepod systems are operative.</sp>
-         <sp spk="GENERAL (into intercom)">
+         <sp spk="GENERAL">
 
 If you boys are ready back there, we'll get off this bucket.</sp>
          <sp spk="WHITSUN">
@@ -3705,7 +3705,7 @@ starship.  He is quickly followed by the general.</sd>
          <sd>Artwo pushes the jettison switch, but nothing happens.  Starkiller slowly and
 with some difficulty, pushes the switch two or three times.  Nothing happens.
 He begins to look a little worried.</sd>
-         <sp spk="STARKILLER (into intercom)">
+         <sp spk="STARKILLER">
 
 We've got a problem...Wait a second...</sp>
          <sd>Artwo pushes the switch again, and the lifepod blasts off in a cloud of smoke
@@ -3714,7 +3714,7 @@ his control panel have gone dead.  He struggles to reactivate them.</sd>
          <sp spk="WHITSUN">
 
 My power's out!</sp>
-         <sp spk="GENERAL (over intercom)">
+         <sp spk="GENERAL">
 
 Is it a faulty switch?</sp>
          <sp spk="WHITSUN">
@@ -3872,7 +3872,7 @@ Well, come on, old buddy.  Let's get ourselves out of this tree.</sp>
          <sd>The general, Han and Threepio reach a shallow cave near the top of a steep
 ridge.  They quickly pull off the micro-packs and place them on a clear piece
 of ground at the mouth of the cave.</sd>
-         <sp spk="GENERAL (to Han)">
+         <sp spk="GENERAL">
 
 Check out the inside.  Threepio, stand guard.  Keep your eyes on the
 countryside.</sp>
@@ -4009,7 +4009,7 @@ appears deserted.  The general cautiously approaches the structure.</sd>
 Howdy stranger...What can I offer you?</sp>
          <sd>The general spins around and sees Owen Lars, an aged and scruffy looking
 anthropologist.</sd>
-         <sp spk="LARS (con't)">
+         <sp spk="LARS">
 
 I'm Owen Lars of Bastine.</sp>
          <sd>The general takes the old man's extended hand.</sd>
@@ -4045,7 +4045,7 @@ smiles at Owen.</sd>
 
 I swan!  I put it right here in front, so you'd see it...<sd>to Han</sd>  Here's some
 Bum Bum extract.  It's very mild...</sp>
-         <sp spk="LARS (to general)">
+         <sp spk="LARS">
 
 There are no settlers to the south since the Dau family was wiped out... I'm
 afraid I couldn't even get in there to bury them... Those Wookees are the
@@ -4119,7 +4119,7 @@ disbelief.  When the chief and his son rise, Starkiller bows down before them.</
          <sd>Mr. and Mrs. Lars stand on the balcony of their tree house with Threepio and
 the two little princes, Biggs, and Windy.  Han and the general emerge with
 large survival backpacks and multiplelaser weapons.</sd>
-         <sp spk="GENERAL (to Threepio)">
+         <sp spk="GENERAL">
 
 We'll call for you when we've found them.</sp>
          <sp spk="THREEPIO">
@@ -4138,7 +4138,7 @@ Just be careful out there...</sp>
          <sd>He pats Skywalker on the back as the old Jedi and the ever faithful Han
 descend from the tree house.  [something whited out?]  At the base of the huge
 tree, the warriors climb aboard two small rocket powered platforms.</sd>
-         <sp spk="LARS (yelling down to them)">
+         <sp spk="LARS">
 
 They're pretty old.  I hope they'll be all right!</sp>
          <sp spk="GENERAL">
@@ -4214,7 +4214,7 @@ cacophony starts again, as the general ignites his lasersword.</sd>
 
 Two or three moving this way, from the east.</sp>
          <sd>He listens more closely for a few moments.</sd>
-         <sp spk="HAN (con't)">
+         <sp spk="HAN">
 
 It's Artwo!</sp>
          <sd>Starkiller and Artwo break out of the dark foliage into the clearing.  He
@@ -4231,7 +4231,7 @@ He wouldn't stay.  He's one of the ones I saved...</sp>
          <sd>Han calls out to Chewbacca in the Wookee's own language, and the huge,
 lumbering creature approaches the group.  Han and the Wookee talk for a few
 moments, then embrace as if they were old friends.  Starkiller is surprised.</sd>
-         <sp spk="HAN (to Starkiller)">
+         <sp spk="HAN">
 
 This is Chewbacca, son of Auzituck, Prince of the Sawas, a very powerful
 tribe.  It seems they've made you a god.</sp>
@@ -4355,7 +4355,7 @@ across the sergeant's face as he moves over to the trap door and puts the
 chrome ball back into his pocket.</sd>
          <sd>Threepio puts his arm around Biggs who is desperately clutching the struggling
 thumper.  All the movement above them stops, and Biggs looks to the robot.</sd>
-         <sp spk="THREEPIO (quietly)">
+         <sp spk="THREEPIO">
 
 They're still up there.  Stay still.</sp>
          <sd>The silence continues, then suddenly the trap door swings open with a loud
@@ -4380,7 +4380,7 @@ watching the Wookee warriors and listens to the general's plan.</sd>
 must advance.  An assault on the perimeter is useless.  Our only hope is to
 use their weapons against them.</sp>
          <sd>The general pauses, while Han and Chewbacca translate.</sd>
-         <sp spk="GENERAL (to Starkiller)">
+         <sp spk="GENERAL">
 
 Once we acquire those tanks, our prime object must be to secure the starship.
 No-one must escape.</sp>
@@ -4408,7 +4408,7 @@ Alert squads one through six!</sp>
          <sd>The general stands in a small clearing surrounded, by many armed Wookees
 carrying large shiny shields.  Han moves back and forth, barking orders to the
 assembled creatures.</sd>
-         <sp spk="GENERAL (to Han)">
+         <sp spk="GENERAL">
 
 We're ready.  Give them the signal.</sp>
          <sd>Han motions to a young Wookee, who takes off, running through the jungle.</sd>
@@ -4564,7 +4564,7 @@ Have they found Leia?</sp>
          <sp spk="HAN">
 
 They've taken her back to Aquilae.  The ship left not more than ten hours ago.</sp>
-         <sp spk="GENERAL (to Han)">
+         <sp spk="GENERAL">
 
 Set up a perimeter around these starships...Use as many men as you need.</sp>
       </scene>
@@ -4598,7 +4598,7 @@ Still no contact with Owen Lars or the kids...I'm afraid something's happened.</
 Have Chewbacca send two of his best warriors out there to get them.</sp>
          <sd>Han relates this to Chewbacca.  The general turns back to Starkiller, who
 watches Chewbacca leave the room.</sd>
-         <sp spk="STARKILLER (mocking)">
+         <sp spk="STARKILLER">
 
 They're fierce warriors, but you'll never teach them to fly.</sp>
          <sd>The general gives him a stern look.</sd>
@@ -4648,7 +4648,7 @@ shock engulfs her body, and she whines in extreme pain.</sd>
 Just relax, and everything will be fine.  <sd>to guards</sd>  Take her to section
 twenty-five.</sp>
          <sd>Leia is forcibly taken from the room.</sd>
-         <sp spk="VADER (to officer)">
+         <sp spk="VADER">
 
 What time do the doctors from Alderaan arrive?</sp>
          <sp spk="OFFICER">
@@ -4752,7 +4752,7 @@ Do you mind if I use your com-link?</sp>
 No.  Go ahead.</sp>
          <sd>Starkiller walks into the small control area and pretends to talk on an
 intercom system.</sd>
-         <sp spk="STARKILLER (to Artwo)">
+         <sp spk="STARKILLER">
 
 Find the highest security area.</sp>
          <sd>Artwo punches his claw arm into a computer socket, and the brain comes to
@@ -4912,7 +4912,7 @@ collapses in a heap on the floor.</sd>
          <sd>Vader laughs as he watches the unconscious Starkiller on the TV monitors.  All
 of the other officers in the room are [something whited out] laughing and
 joking, except Valorum, who remains grimly at attention.</sd>
-         <sp spk="GENERAL (to Valorum)">
+         <sp spk="GENERAL">
 
 Take him to the special section.</sp>
          <sd>Valorum salutes, and exits the offices.  Vader laughs again.</sd>
@@ -4943,7 +4943,7 @@ Will your people be ready?</sp>
 Our forces have already started sabotaging their com-link set ups.  A refugee
 camp on Mananyo has been conducting raids on shipping from Alderaan.  That's
 how we intercepted those doctors...</sp>
-         <sp spk="GENERAL (to Han)">
+         <sp spk="GENERAL">
 
 Get them in the ships... We're on our way.  <sd>to Datos</sd>  Send the code signal.</sp>
       </scene>
