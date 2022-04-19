@@ -137,16 +137,47 @@ html, body {
     padding: 0.5em; 
     border-radius: 20px;
 }
-
+h2{
+  color:#ffffff;
+  font-size:4rem;
+  background-color:rgba(50, 98, 115, 1);
+  width:40%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:2rem;
+  }
+.divider{
+         height:0.5rem;
+         background-color:#FF6600;
+         width:80%;
+         margin-left:auto;
+         margin-right:auto;
+         margin-top:4rem;
+         }
 
 /* Cytograph CSS Starts here */
+/* I think I screwed up something because I only see half the cytograpgh :( my bad */
 body{background:#fff;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#555;font-weight:100}
 .browsehappy{margin:.2em 0;background:#ccc;color:#000;padding:.2em 0}
 #cy{width:800px;height:600px;background-color:#eee}
 #cy {
-     width: 65vw;
+     margin-top:2rem;
+     margin-bottom:2rem;
+     width: 70%;
      height:100vh;
-     position:absolute;
-     margin:auto;
      border-style:double;
+     margin-right:auto;
+     margin-left:auto;
  }
+
+/* end cytograph */
+.pictures{
+          display:flex;
+          }
+.histogram{
+          flex:40%;
+          padding:2rem;
+          width:40%;
+          }
+
+
