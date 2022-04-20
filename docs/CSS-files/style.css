@@ -88,7 +88,7 @@ html, body {
 	min-height: 600px;
 	display: table;
 	position: relative;
-	text-align: center;	
+	/*text-align: center;*/	
 }
 #intro2{
     background-image:url("pictures/endor-background.jpeg");
@@ -137,6 +137,9 @@ html, body {
     padding: 0.5em; 
     border-radius: 20px;
 }
+h1{
+    text-align:center;
+}
 h2{
   color:#ffffff;
   font-size:4rem;
@@ -145,6 +148,7 @@ h2{
   margin-right:auto;
   margin-left:auto;
   border-radius:2rem;
+  text-align:center;
   }
 .divider{
          height:0.5rem;
@@ -157,10 +161,19 @@ h2{
          }
 
 /* Cytograph CSS Starts here */
-/* I think I screwed up something because I only see half the cytograpgh :( my bad */
+
 body{background:#fff;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#555;font-weight:100}
-.browsehappy{margin:.2em 0;background:#ccc;color:#000;padding:.2em 0}
-#cy{width:800px;height:600px;background-color:#eee}
+.browsehappy{
+        margin:.2em 0;
+        background:#ccc;
+        color:#000;
+        padding:.2em 0
+ }
+#cy{
+ /* width:800px;
+ * height:600px;*/
+ background: rgba(128, 128, 128, 0.3);
+ }
 #cy {
      margin-top:2rem;
      margin-bottom:2rem;
