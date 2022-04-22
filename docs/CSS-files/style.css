@@ -137,6 +137,7 @@ html, body {
     padding: 0.5em; 
     border-radius: 20px;
 }
+<<<<<<< HEAD
 .texts{
        border-left: 0.5em solid #E39774;
        padding-left: 0.5em;
@@ -145,6 +146,11 @@ html, body {
 h1{
   text-align:center;
   }
+=======
+h1{
+    text-align:center;
+}
+>>>>>>> b94760efd698c45bea6d258b5999683914b5d1f4
 h2{
   color:#ffffff;
   font-size:3.5rem;
@@ -154,6 +160,7 @@ h2{
   margin-left:auto;
   border-radius:2rem;
   text-align:center;
+<<<<<<< HEAD
   height:5rem;
   }
 h3{
@@ -169,6 +176,8 @@ h3{
 h4{
    font-size:2rem;
    margin:1rem;
+=======
+>>>>>>> b94760efd698c45bea6d258b5999683914b5d1f4
   }
 .divider{
          height:0.5rem;
@@ -182,8 +191,22 @@ h4{
          }
 
 /* Cytograph CSS Starts here */
-/* I think I screwed up something because I only see half the cytograpgh :( my bad */
+
 body{background:#fff;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#555;font-weight:100}
+<<<<<<< HEAD
+=======
+.browsehappy{
+        margin:.2em 0;
+        background:#ccc;
+        color:#000;
+        padding:.2em 0
+ }
+#cy{
+ /* width:800px;
+ * height:600px;*/
+ background: rgba(128, 128, 128, 0.3);
+ }
+>>>>>>> b94760efd698c45bea6d258b5999683914b5d1f4
 #cy {
      background-color:#eee;
      margin-top:2rem;
