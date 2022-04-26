@@ -131,11 +131,11 @@ ul{
 .icon{
 }
 .icon1:hover:after{
-    content:"  home page";
+    content:"  home";
     font-size:1.5rem;
 }
 .icon2:hover:after{
-    content:"  analysis";
+    content:"  structure";
     font-size:1.5rem;
 }
 .icon3:hover:after{
