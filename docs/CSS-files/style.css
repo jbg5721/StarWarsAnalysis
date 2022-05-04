@@ -155,7 +155,7 @@ h2{
   margin-left:auto;
   border-radius:2rem;
   text-align:center;
-  height:5rem;
+  padding:2rem; 
   }
 h3{
   font-size:2.5rem;
@@ -184,7 +184,7 @@ h4{
 
 /* Cytograph CSS Starts here */
 
-body{background:#fff;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#555;font-weight:100}
+body{background:#fff;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#36454F;font-weight:100}
 
 .browsehappy{
         margin:.2em 0;
