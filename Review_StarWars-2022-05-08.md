@@ -7,7 +7,7 @@
 * Evaluated by: @ebeshero
 
 ### Research questions and project design
-You did an excellent job with explaining your research questions about comparing the drafts of *A New Hope* from the introduction of your project and on the Structure and Character analysis pages. You found several different ways to compare the drafts using a variety of methods, and even incorporated Star-Wars artwork to help visualize the changes through the drafts. 
+You wrote a good, clear explanation of your research questions about comparing the drafts of *A New Hope* from the introduction of your project and on the Structure and Character analysis pages. You found several different ways to compare the drafts using a variety of methods, and even incorporated Star-Wars artwork to help visualize the changes through the drafts. 
 
 #### Providing image metadata?
 The very existence of that fan art speaks to a large community who care about your topic! You're using lots of images well known from the movies, but your slide shows on the [Structure Analysis page](https://jbg5721.github.io/StarWarsAnalysis/analysis.html) are showing us an interesting mixture of images, probably drawn from Wookiepedia and other fandom sites. Since you are building an authoritative resource analyzing the drafts, you should provide more metadata (literally, data about the data) on all the images. You could do an image credits page, but probably better is to provide a bit of "fine print" in the slide shows to credit the artists when you can identify them and at least the source site where they're featured. Are these licensed for you to share? (probably yes, but to be professional and safe, you want to be clear about that and state what you know). 
